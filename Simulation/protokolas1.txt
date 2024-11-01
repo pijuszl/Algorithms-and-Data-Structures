@@ -1,0 +1,5021 @@
+PIRMA DALIS. Duomenys
+  1) Pijus Zlatkus, 4 grupe 2 pogrupis, 3 uzdavinis 12 variantas.
+  2) Uzduotis - grudu sandelis (ADT: stekas, eile).
+  3) Programos tikslas istirti, kuris grudu apskaitos metodas yra geresnis tarp FIFO (first-in, first-out) ir LIFO (last-in, first-out) supirkimo metodu.
+  4) Superkamu grudu norma: 5 t
+  5) Superkamu grudu kiekio maksimalus nuokrypis: 30%
+  6) Supirkimo kaina: 200 Eur/t
+  7) Supirkimo kainos maksimalus nuokrypis: 15%
+  8) Grudu kainos antkainis: 1%
+
+ANTRA DALIS. Vykdymas
+
+FIFO supirkimo metodas:
+  T = 1
+    1) Nupirkta 5.55 t grudu uz 932.40 Eur
+    2) Parduota 5.33 t grudu uz 904.06 Eur
+    3) Dienos pelnas: -28.34 Eur
+
+  T = 2
+    1) Nupirkta 5.35 t grudu uz 984.40 Eur
+    2) Parduota 3.84 t grudu uz 710.91 Eur
+    3) Dienos pelnas: -273.49 Eur
+
+  T = 3
+    1) Nupirkta 5.05 t grudu uz 1100.90 Eur
+    2) Parduota 5.02 t grudu uz 1044.93 Eur
+    3) Dienos pelnas: -55.97 Eur
+
+  T = 4
+    1) Nupirkta 4.70 t grudu uz 686.20 Eur
+    2) Parduota 1.10 t grudu uz 241.88 Eur
+    3) Dienos pelnas: -444.32 Eur
+
+  T = 5
+    1) Nupirkta 4.35 t grudu uz 1026.60 Eur
+    2) Parduota 4.47 t grudu uz 707.14 Eur
+    3) Dienos pelnas: -319.46 Eur
+
+  T = 6
+    1) Nupirkta 5.30 t grudu uz 869.20 Eur
+    2) Parduota 9.28 t grudu uz 1837.17 Eur
+    3) Dienos pelnas: 967.97 Eur
+
+  T = 7
+    1) Nupirkta 5.20 t grudu uz 1112.80 Eur
+    2) Parduota 3.23 t grudu uz 634.82 Eur
+    3) Dienos pelnas: -477.98 Eur
+
+  T = 8
+    1) Nupirkta 5.60 t grudu uz 1209.60 Eur
+    2) Parduota 0.71 t grudu uz 152.73 Eur
+    3) Dienos pelnas: -1056.87 Eur
+
+  T = 9
+    1) Nupirkta 5.65 t grudu uz 1344.70 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -1344.70 Eur
+
+  T = 10
+    1) Nupirkta 4.30 t grudu uz 679.40 Eur
+    2) Parduota 16.99 t grudu uz 3638.95 Eur
+    3) Dienos pelnas: 2959.55 Eur
+
+  T = 11
+    1) Nupirkta 4.80 t grudu uz 940.80 Eur
+    2) Parduota 5.24 t grudu uz 995.14 Eur
+    3) Dienos pelnas: 54.34 Eur
+
+  T = 12
+    1) Nupirkta 4.85 t grudu uz 1067.00 Eur
+    2) Parduota 2.20 t grudu uz 472.91 Eur
+    3) Dienos pelnas: -594.09 Eur
+
+  T = 13
+    1) Nupirkta 5.40 t grudu uz 799.20 Eur
+    2) Parduota 1.22 t grudu uz 270.59 Eur
+    3) Dienos pelnas: -528.61 Eur
+
+  T = 14
+    1) Nupirkta 5.65 t grudu uz 813.60 Eur
+    2) Parduota 13.00 t grudu uz 2072.14 Eur
+    3) Dienos pelnas: 1258.54 Eur
+
+  T = 15
+    1) Nupirkta 5.05 t grudu uz 1201.90 Eur
+    2) Parduota 4.20 t grudu uz 996.37 Eur
+    3) Dienos pelnas: -205.53 Eur
+
+  T = 16
+    1) Nupirkta 5.15 t grudu uz 1091.80 Eur
+    2) Parduota 0.37 t grudu uz 88.48 Eur
+    3) Dienos pelnas: -1003.32 Eur
+
+  T = 17
+    1) Nupirkta 5.30 t grudu uz 954.00 Eur
+    2) Parduota 7.19 t grudu uz 1510.27 Eur
+    3) Dienos pelnas: 556.27 Eur
+
+  T = 18
+    1) Nupirkta 4.80 t grudu uz 921.60 Eur
+    2) Parduota 4.51 t grudu uz 827.65 Eur
+    3) Dienos pelnas: -93.95 Eur
+
+  T = 19
+    1) Nupirkta 4.65 t grudu uz 1032.30 Eur
+    2) Parduota 2.12 t grudu uz 410.17 Eur
+    3) Dienos pelnas: -622.13 Eur
+
+  T = 20
+    1) Nupirkta 4.40 t grudu uz 985.60 Eur
+    2) Parduota 7.66 t grudu uz 1656.88 Eur
+    3) Dienos pelnas: 671.28 Eur
+
+  T = 21
+    1) Nupirkta 4.40 t grudu uz 906.40 Eur
+    2) Parduota 1.88 t grudu uz 425.71 Eur
+    3) Dienos pelnas: -480.69 Eur
+
+  T = 22
+    1) Nupirkta 5.35 t grudu uz 952.30 Eur
+    2) Parduota 1.36 t grudu uz 307.02 Eur
+    3) Dienos pelnas: -645.28 Eur
+
+  T = 23
+    1) Nupirkta 5.55 t grudu uz 1265.40 Eur
+    2) Parduota 7.60 t grudu uz 1499.37 Eur
+    3) Dienos pelnas: 233.97 Eur
+
+  T = 24
+    1) Nupirkta 5.20 t grudu uz 842.40 Eur
+    2) Parduota 8.91 t grudu uz 1866.21 Eur
+    3) Dienos pelnas: 1023.81 Eur
+
+  T = 25
+    1) Nupirkta 5.25 t grudu uz 1144.50 Eur
+    2) Parduota 8.12 t grudu uz 1551.04 Eur
+    3) Dienos pelnas: 406.54 Eur
+
+  T = 26
+    1) Nupirkta 4.45 t grudu uz 1050.20 Eur
+    2) Parduota 3.23 t grudu uz 746.44 Eur
+    3) Dienos pelnas: -303.76 Eur
+
+  T = 27
+    1) Nupirkta 5.55 t grudu uz 1298.70 Eur
+    2) Parduota 2.67 t grudu uz 636.07 Eur
+    3) Dienos pelnas: -662.63 Eur
+
+  T = 28
+    1) Nupirkta 5.25 t grudu uz 1239.00 Eur
+    2) Parduota 2.35 t grudu uz 554.79 Eur
+    3) Dienos pelnas: -684.21 Eur
+
+  T = 29
+    1) Nupirkta 5.10 t grudu uz 1193.40 Eur
+    2) Parduota 7.92 t grudu uz 1881.46 Eur
+    3) Dienos pelnas: 688.06 Eur
+
+  T = 30
+    1) Nupirkta 5.50 t grudu uz 935.00 Eur
+    2) Parduota 4.62 t grudu uz 1093.03 Eur
+    3) Dienos pelnas: 158.03 Eur
+
+  T = 31
+    1) Nupirkta 4.90 t grudu uz 1019.20 Eur
+    2) Parduota 8.69 t grudu uz 1637.05 Eur
+    3) Dienos pelnas: 617.85 Eur
+
+  T = 32
+    1) Nupirkta 5.20 t grudu uz 790.40 Eur
+    2) Parduota 6.94 t grudu uz 1211.80 Eur
+    3) Dienos pelnas: 421.40 Eur
+
+  T = 33
+    1) Nupirkta 4.75 t grudu uz 836.00 Eur
+    2) Parduota 3.70 t grudu uz 637.09 Eur
+    3) Dienos pelnas: -198.91 Eur
+
+  T = 34
+    1) Nupirkta 5.65 t grudu uz 836.20 Eur
+    2) Parduota 2.12 t grudu uz 370.19 Eur
+    3) Dienos pelnas: -466.01 Eur
+
+  T = 35
+    1) Nupirkta 4.60 t grudu uz 1177.60 Eur
+    2) Parduota 8.64 t grudu uz 1639.19 Eur
+    3) Dienos pelnas: 461.59 Eur
+
+  T = 36
+    1) Nupirkta 4.75 t grudu uz 921.50 Eur
+    2) Parduota 5.23 t grudu uz 1113.25 Eur
+    3) Dienos pelnas: 191.75 Eur
+
+  T = 37
+    1) Nupirkta 5.20 t grudu uz 1008.80 Eur
+    2) Parduota 4.47 t grudu uz 875.86 Eur
+    3) Dienos pelnas: -132.94 Eur
+
+  T = 38
+    1) Nupirkta 4.90 t grudu uz 1019.20 Eur
+    2) Parduota 3.15 t grudu uz 637.45 Eur
+    3) Dienos pelnas: -381.75 Eur
+
+  T = 39
+    1) Nupirkta 4.55 t grudu uz 955.50 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -955.50 Eur
+
+  T = 40
+    1) Nupirkta 5.15 t grudu uz 824.00 Eur
+    2) Parduota 6.55 t grudu uz 1383.19 Eur
+    3) Dienos pelnas: 559.19 Eur
+
+  T = 41
+    1) Nupirkta 5.50 t grudu uz 1100.00 Eur
+    2) Parduota 1.57 t grudu uz 324.12 Eur
+    3) Dienos pelnas: -775.88 Eur
+
+  T = 42
+    1) Nupirkta 5.00 t grudu uz 1060.00 Eur
+    2) Parduota 8.52 t grudu uz 1519.12 Eur
+    3) Dienos pelnas: 459.12 Eur
+
+  T = 43
+    1) Nupirkta 4.45 t grudu uz 623.00 Eur
+    2) Parduota 1.26 t grudu uz 253.73 Eur
+    3) Dienos pelnas: -369.27 Eur
+
+  T = 44
+    1) Nupirkta 5.75 t grudu uz 839.50 Eur
+    2) Parduota 4.93 t grudu uz 1047.62 Eur
+    3) Dienos pelnas: 208.12 Eur
+
+  T = 45
+    1) Nupirkta 5.55 t grudu uz 1354.20 Eur
+    2) Parduota 5.62 t grudu uz 853.78 Eur
+    3) Dienos pelnas: -500.42 Eur
+
+  T = 46
+    1) Nupirkta 5.65 t grudu uz 870.10 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -870.10 Eur
+
+  T = 47
+    1) Nupirkta 4.95 t grudu uz 1277.10 Eur
+    2) Parduota 14.63 t grudu uz 2736.22 Eur
+    3) Dienos pelnas: 1459.12 Eur
+
+  T = 48
+    1) Nupirkta 4.85 t grudu uz 756.60 Eur
+    2) Parduota 7.51 t grudu uz 1689.19 Eur
+    3) Dienos pelnas: 932.59 Eur
+
+  T = 49
+    1) Nupirkta 5.00 t grudu uz 990.00 Eur
+    2) Parduota 6.18 t grudu uz 1056.70 Eur
+    3) Dienos pelnas: 66.70 Eur
+
+  T = 50
+    1) Nupirkta 5.70 t grudu uz 923.40 Eur
+    2) Parduota 8.66 t grudu uz 1527.05 Eur
+    3) Dienos pelnas: 603.65 Eur
+
+  T = 51
+    1) Nupirkta 4.70 t grudu uz 1156.20 Eur
+    2) Parduota 4.74 t grudu uz 1170.17 Eur
+    3) Dienos pelnas: 13.97 Eur
+
+  T = 52
+    1) Nupirkta 4.25 t grudu uz 935.00 Eur
+    2) Parduota 1.81 t grudu uz 402.35 Eur
+    3) Dienos pelnas: -532.65 Eur
+
+  T = 53
+    1) Nupirkta 4.85 t grudu uz 1144.60 Eur
+    2) Parduota 2.13 t grudu uz 473.15 Eur
+    3) Dienos pelnas: -671.45 Eur
+
+  T = 54
+    1) Nupirkta 4.40 t grudu uz 906.40 Eur
+    2) Parduota 6.44 t grudu uz 1492.20 Eur
+    3) Dienos pelnas: 585.80 Eur
+
+  T = 55
+    1) Nupirkta 5.15 t grudu uz 988.80 Eur
+    2) Parduota 3.99 t grudu uz 819.52 Eur
+    3) Dienos pelnas: -169.28 Eur
+
+  T = 56
+    1) Nupirkta 5.05 t grudu uz 1050.40 Eur
+    2) Parduota 3.19 t grudu uz 618.29 Eur
+    3) Dienos pelnas: -432.11 Eur
+
+  T = 57
+    1) Nupirkta 4.60 t grudu uz 883.20 Eur
+    2) Parduota 3.56 t grudu uz 729.57 Eur
+    3) Dienos pelnas: -153.63 Eur
+
+  T = 58
+    1) Nupirkta 5.50 t grudu uz 1419.00 Eur
+    2) Parduota 9.93 t grudu uz 2147.77 Eur
+    3) Dienos pelnas: 728.77 Eur
+
+  T = 59
+    1) Nupirkta 5.15 t grudu uz 782.80 Eur
+    2) Parduota 3.98 t grudu uz 910.07 Eur
+    3) Dienos pelnas: 127.27 Eur
+
+  T = 60
+    1) Nupirkta 5.20 t grudu uz 977.60 Eur
+    2) Parduota 3.21 t grudu uz 493.00 Eur
+    3) Dienos pelnas: -484.60 Eur
+
+  T = 61
+    1) Nupirkta 5.55 t grudu uz 910.20 Eur
+    2) Parduota 10.13 t grudu uz 1795.09 Eur
+    3) Dienos pelnas: 884.89 Eur
+
+  T = 62
+    1) Nupirkta 4.35 t grudu uz 1044.00 Eur
+    2) Parduota 0.11 t grudu uz 18.99 Eur
+    3) Dienos pelnas: -1025.01 Eur
+
+  T = 63
+    1) Nupirkta 4.70 t grudu uz 733.20 Eur
+    2) Parduota 1.34 t grudu uz 227.85 Eur
+    3) Dienos pelnas: -505.35 Eur
+
+  T = 64
+    1) Nupirkta 4.95 t grudu uz 1098.90 Eur
+    2) Parduota 9.75 t grudu uz 1950.14 Eur
+    3) Dienos pelnas: 851.24 Eur
+
+  T = 65
+    1) Nupirkta 5.50 t grudu uz 1342.00 Eur
+    2) Parduota 7.94 t grudu uz 1862.86 Eur
+    3) Dienos pelnas: 520.86 Eur
+
+  T = 66
+    1) Nupirkta 5.50 t grudu uz 1320.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -1320.00 Eur
+
+  T = 67
+    1) Nupirkta 5.70 t grudu uz 1356.60 Eur
+    2) Parduota 8.93 t grudu uz 2168.25 Eur
+    3) Dienos pelnas: 811.65 Eur
+
+  T = 68
+    1) Nupirkta 5.20 t grudu uz 728.00 Eur
+    2) Parduota 2.95 t grudu uz 708.60 Eur
+    3) Dienos pelnas: -19.40 Eur
+
+  T = 69
+    1) Nupirkta 5.00 t grudu uz 1120.00 Eur
+    2) Parduota 7.66 t grudu uz 1306.80 Eur
+    3) Dienos pelnas: 186.80 Eur
+
+  T = 70
+    1) Nupirkta 4.40 t grudu uz 1144.00 Eur
+    2) Parduota 3.12 t grudu uz 706.27 Eur
+    3) Dienos pelnas: -437.73 Eur
+
+  T = 71
+    1) Nupirkta 5.40 t grudu uz 1080.00 Eur
+    2) Parduota 5.04 t grudu uz 1296.13 Eur
+    3) Dienos pelnas: 216.13 Eur
+
+  T = 72
+    1) Nupirkta 4.85 t grudu uz 960.30 Eur
+    2) Parduota 9.69 t grudu uz 1948.49 Eur
+    3) Dienos pelnas: 988.19 Eur
+
+  T = 73
+    1) Nupirkta 4.25 t grudu uz 748.00 Eur
+    2) Parduota 3.72 t grudu uz 670.77 Eur
+    3) Dienos pelnas: -77.23 Eur
+
+  T = 74
+    1) Nupirkta 5.15 t grudu uz 1174.20 Eur
+    2) Parduota 5.78 t grudu uz 1281.38 Eur
+    3) Dienos pelnas: 107.18 Eur
+
+  T = 75
+    1) Nupirkta 4.65 t grudu uz 846.30 Eur
+    2) Parduota 3.07 t grudu uz 578.73 Eur
+    3) Dienos pelnas: -267.57 Eur
+
+  T = 76
+    1) Nupirkta 5.00 t grudu uz 1270.00 Eur
+    2) Parduota 2.75 t grudu uz 569.36 Eur
+    3) Dienos pelnas: -700.64 Eur
+
+  T = 77
+    1) Nupirkta 5.55 t grudu uz 1298.70 Eur
+    2) Parduota 5.32 t grudu uz 1341.63 Eur
+    3) Dienos pelnas: 42.93 Eur
+
+  T = 78
+    1) Nupirkta 4.40 t grudu uz 950.40 Eur
+    2) Parduota 3.33 t grudu uz 786.35 Eur
+    3) Dienos pelnas: -164.05 Eur
+
+  T = 79
+    1) Nupirkta 5.25 t grudu uz 1029.00 Eur
+    2) Parduota 5.13 t grudu uz 1136.93 Eur
+    3) Dienos pelnas: 107.93 Eur
+
+  T = 80
+    1) Nupirkta 4.40 t grudu uz 880.00 Eur
+    2) Parduota 2.99 t grudu uz 597.20 Eur
+    3) Dienos pelnas: -282.80 Eur
+
+  T = 81
+    1) Nupirkta 5.55 t grudu uz 854.70 Eur
+    2) Parduota 8.26 t grudu uz 1598.27 Eur
+    3) Dienos pelnas: 743.57 Eur
+
+  T = 82
+    1) Nupirkta 4.95 t grudu uz 1019.70 Eur
+    2) Parduota 2.03 t grudu uz 315.01 Eur
+    3) Dienos pelnas: -704.69 Eur
+
+  T = 83
+    1) Nupirkta 4.60 t grudu uz 1104.00 Eur
+    2) Parduota 2.00 t grudu uz 311.50 Eur
+    3) Dienos pelnas: -792.50 Eur
+
+  T = 84
+    1) Nupirkta 5.55 t grudu uz 899.10 Eur
+    2) Parduota 8.89 t grudu uz 1965.20 Eur
+    3) Dienos pelnas: 1066.10 Eur
+
+  T = 85
+    1) Nupirkta 5.20 t grudu uz 1008.80 Eur
+    2) Parduota 0.81 t grudu uz 197.47 Eur
+    3) Dienos pelnas: -811.33 Eur
+
+  T = 86
+    1) Nupirkta 4.95 t grudu uz 1049.40 Eur
+    2) Parduota 6.62 t grudu uz 1122.06 Eur
+    3) Dienos pelnas: 72.66 Eur
+
+  T = 87
+    1) Nupirkta 4.65 t grudu uz 967.20 Eur
+    2) Parduota 12.00 t grudu uz 2482.56 Eur
+    3) Dienos pelnas: 1515.36 Eur
+
+  T = 88
+    1) Nupirkta 4.85 t grudu uz 1037.90 Eur
+    2) Parduota 3.06 t grudu uz 649.68 Eur
+    3) Dienos pelnas: -388.22 Eur
+
+  T = 89
+    1) Nupirkta 4.45 t grudu uz 765.40 Eur
+    2) Parduota 3.46 t grudu uz 747.02 Eur
+    3) Dienos pelnas: -18.38 Eur
+
+  T = 90
+    1) Nupirkta 5.35 t grudu uz 1155.60 Eur
+    2) Parduota 1.59 t grudu uz 281.62 Eur
+    3) Dienos pelnas: -873.98 Eur
+
+  T = 91
+    1) Nupirkta 5.50 t grudu uz 1408.00 Eur
+    2) Parduota 13.57 t grudu uz 3037.50 Eur
+    3) Dienos pelnas: 1629.50 Eur
+
+  T = 92
+    1) Nupirkta 4.50 t grudu uz 981.00 Eur
+    2) Parduota 1.96 t grudu uz 441.85 Eur
+    3) Dienos pelnas: -539.15 Eur
+
+  T = 93
+    1) Nupirkta 4.60 t grudu uz 864.80 Eur
+    2) Parduota 3.26 t grudu uz 705.18 Eur
+    3) Dienos pelnas: -159.62 Eur
+
+  T = 94
+    1) Nupirkta 4.50 t grudu uz 1089.00 Eur
+    2) Parduota 7.70 t grudu uz 1656.02 Eur
+    3) Dienos pelnas: 567.02 Eur
+
+  T = 95
+    1) Nupirkta 4.40 t grudu uz 906.40 Eur
+    2) Parduota 5.19 t grudu uz 1114.74 Eur
+    3) Dienos pelnas: 208.34 Eur
+
+  T = 96
+    1) Nupirkta 5.70 t grudu uz 1208.40 Eur
+    2) Parduota 2.11 t grudu uz 450.78 Eur
+    3) Dienos pelnas: -757.62 Eur
+
+  T = 97
+    1) Nupirkta 5.05 t grudu uz 797.90 Eur
+    2) Parduota 1.32 t grudu uz 282.66 Eur
+    3) Dienos pelnas: -515.24 Eur
+
+  T = 98
+    1) Nupirkta 4.40 t grudu uz 774.40 Eur
+    2) Parduota 0.48 t grudu uz 101.76 Eur
+    3) Dienos pelnas: -672.64 Eur
+
+  T = 99
+    1) Nupirkta 5.65 t grudu uz 1107.40 Eur
+    2) Parduota 4.78 t grudu uz 868.73 Eur
+    3) Dienos pelnas: -238.67 Eur
+
+  T = 100
+    1) Nupirkta 4.60 t grudu uz 1048.80 Eur
+    2) Parduota 10.13 t grudu uz 1830.46 Eur
+    3) Dienos pelnas: 781.66 Eur
+
+  T = 101
+    1) Nupirkta 4.70 t grudu uz 1118.60 Eur
+    2) Parduota 9.16 t grudu uz 2064.51 Eur
+    3) Dienos pelnas: 945.91 Eur
+
+  T = 102
+    1) Nupirkta 5.05 t grudu uz 1040.30 Eur
+    2) Parduota 5.51 t grudu uz 1219.46 Eur
+    3) Dienos pelnas: 179.16 Eur
+
+  T = 103
+    1) Nupirkta 5.50 t grudu uz 1375.00 Eur
+    2) Parduota 6.82 t grudu uz 1640.91 Eur
+    3) Dienos pelnas: 265.91 Eur
+
+  T = 104
+    1) Nupirkta 4.80 t grudu uz 921.60 Eur
+    2) Parduota 4.78 t grudu uz 957.43 Eur
+    3) Dienos pelnas: 35.83 Eur
+
+  T = 105
+    1) Nupirkta 4.40 t grudu uz 677.60 Eur
+    2) Parduota 2.61 t grudu uz 426.91 Eur
+    3) Dienos pelnas: -250.69 Eur
+
+  T = 106
+    1) Nupirkta 5.75 t grudu uz 1115.50 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -1115.50 Eur
+
+  T = 107
+    1) Nupirkta 5.30 t grudu uz 954.00 Eur
+    2) Parduota 7.75 t grudu uz 1425.54 Eur
+    3) Dienos pelnas: 471.54 Eur
+
+  T = 108
+    1) Nupirkta 4.75 t grudu uz 1130.50 Eur
+    2) Parduota 5.80 t grudu uz 1070.74 Eur
+    3) Dienos pelnas: -59.76 Eur
+
+  T = 109
+    1) Nupirkta 5.50 t grudu uz 1188.00 Eur
+    2) Parduota 7.75 t grudu uz 1791.30 Eur
+    3) Dienos pelnas: 603.30 Eur
+
+  T = 110
+    1) Nupirkta 5.40 t grudu uz 842.40 Eur
+    2) Parduota 3.93 t grudu uz 760.07 Eur
+    3) Dienos pelnas: -82.33 Eur
+
+  T = 111
+    1) Nupirkta 4.90 t grudu uz 1274.00 Eur
+    2) Parduota 3.56 t grudu uz 560.71 Eur
+    3) Dienos pelnas: -713.29 Eur
+
+  T = 112
+    1) Nupirkta 5.35 t grudu uz 1348.20 Eur
+    2) Parduota 3.35 t grudu uz 856.68 Eur
+    3) Dienos pelnas: -491.52 Eur
+
+  T = 113
+    1) Nupirkta 5.75 t grudu uz 1242.00 Eur
+    2) Parduota 0.90 t grudu uz 236.58 Eur
+    3) Dienos pelnas: -1005.42 Eur
+
+  T = 114
+    1) Nupirkta 5.10 t grudu uz 1173.00 Eur
+    2) Parduota 2.56 t grudu uz 658.70 Eur
+    3) Dienos pelnas: -514.30 Eur
+
+  T = 115
+    1) Nupirkta 5.45 t grudu uz 1231.70 Eur
+    2) Parduota 1.80 t grudu uz 457.20 Eur
+    3) Dienos pelnas: -774.50 Eur
+
+  T = 116
+    1) Nupirkta 5.35 t grudu uz 1391.00 Eur
+    2) Parduota 13.17 t grudu uz 3016.97 Eur
+    3) Dienos pelnas: 1625.97 Eur
+
+  T = 117
+    1) Nupirkta 5.40 t grudu uz 1177.20 Eur
+    2) Parduota 9.92 t grudu uz 2433.37 Eur
+    3) Dienos pelnas: 1256.17 Eur
+
+  T = 118
+    1) Nupirkta 5.20 t grudu uz 1060.80 Eur
+    2) Parduota 4.85 t grudu uz 1086.24 Eur
+    3) Dienos pelnas: 25.44 Eur
+
+  T = 119
+    1) Nupirkta 4.55 t grudu uz 682.50 Eur
+    2) Parduota 0.75 t grudu uz 165.29 Eur
+    3) Dienos pelnas: -517.21 Eur
+
+  T = 120
+    1) Nupirkta 5.10 t grudu uz 1173.00 Eur
+    2) Parduota 12.21 t grudu uz 2329.42 Eur
+    3) Dienos pelnas: 1156.42 Eur
+
+  T = 121
+    1) Nupirkta 5.00 t grudu uz 840.00 Eur
+    2) Parduota 1.57 t grudu uz 365.36 Eur
+    3) Dienos pelnas: -474.64 Eur
+
+  T = 122
+    1) Nupirkta 5.55 t grudu uz 1376.40 Eur
+    2) Parduota 8.88 t grudu uz 1797.02 Eur
+    3) Dienos pelnas: 420.62 Eur
+
+  T = 123
+    1) Nupirkta 4.85 t grudu uz 1018.50 Eur
+    2) Parduota 6.25 t grudu uz 1438.87 Eur
+    3) Dienos pelnas: 420.37 Eur
+
+  T = 124
+    1) Nupirkta 4.80 t grudu uz 1180.80 Eur
+    2) Parduota 3.88 t grudu uz 907.44 Eur
+    3) Dienos pelnas: -273.36 Eur
+
+  T = 125
+    1) Nupirkta 5.30 t grudu uz 1293.20 Eur
+    2) Parduota 5.91 t grudu uz 1462.39 Eur
+    3) Dienos pelnas: 169.19 Eur
+
+  T = 126
+    1) Nupirkta 5.70 t grudu uz 889.20 Eur
+    2) Parduota 0.76 t grudu uz 186.49 Eur
+    3) Dienos pelnas: -702.71 Eur
+
+  T = 127
+    1) Nupirkta 5.05 t grudu uz 1282.70 Eur
+    2) Parduota 10.56 t grudu uz 2132.65 Eur
+    3) Dienos pelnas: 849.95 Eur
+
+  T = 128
+    1) Nupirkta 5.60 t grudu uz 1276.80 Eur
+    2) Parduota 5.87 t grudu uz 1385.77 Eur
+    3) Dienos pelnas: 108.97 Eur
+
+  T = 129
+    1) Nupirkta 5.40 t grudu uz 1306.80 Eur
+    2) Parduota 3.67 t grudu uz 881.97 Eur
+    3) Dienos pelnas: -424.83 Eur
+
+  T = 130
+    1) Nupirkta 4.70 t grudu uz 1071.60 Eur
+    2) Parduota 2.17 t grudu uz 529.30 Eur
+    3) Dienos pelnas: -542.30 Eur
+
+  T = 131
+    1) Nupirkta 5.00 t grudu uz 990.00 Eur
+    2) Parduota 1.24 t grudu uz 293.19 Eur
+    3) Dienos pelnas: -696.81 Eur
+
+  T = 132
+    1) Nupirkta 4.65 t grudu uz 957.90 Eur
+    2) Parduota 1.51 t grudu uz 347.43 Eur
+    3) Dienos pelnas: -610.47 Eur
+
+  T = 133
+    1) Nupirkta 4.55 t grudu uz 1164.80 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -1164.80 Eur
+
+  T = 134
+    1) Nupirkta 5.25 t grudu uz 1081.50 Eur
+    2) Parduota 2.64 t grudu uz 605.59 Eur
+    3) Dienos pelnas: -475.91 Eur
+
+  T = 135
+    1) Nupirkta 5.05 t grudu uz 1080.70 Eur
+    2) Parduota 11.48 t grudu uz 2444.31 Eur
+    3) Dienos pelnas: 1363.61 Eur
+
+  T = 136
+    1) Nupirkta 4.45 t grudu uz 845.50 Eur
+    2) Parduota 0.17 t grudu uz 44.96 Eur
+    3) Dienos pelnas: -800.54 Eur
+
+  T = 137
+    1) Nupirkta 5.25 t grudu uz 997.50 Eur
+    2) Parduota 11.01 t grudu uz 2441.62 Eur
+    3) Dienos pelnas: 1444.12 Eur
+
+  T = 138
+    1) Nupirkta 5.65 t grudu uz 1469.00 Eur
+    2) Parduota 8.90 t grudu uz 1749.78 Eur
+    3) Dienos pelnas: 280.78 Eur
+
+  T = 139
+    1) Nupirkta 4.90 t grudu uz 931.00 Eur
+    2) Parduota 4.33 t grudu uz 955.12 Eur
+    3) Dienos pelnas: 24.12 Eur
+
+  T = 140
+    1) Nupirkta 4.25 t grudu uz 850.00 Eur
+    2) Parduota 0.52 t grudu uz 136.92 Eur
+    3) Dienos pelnas: -713.08 Eur
+
+  T = 141
+    1) Nupirkta 4.85 t grudu uz 950.60 Eur
+    2) Parduota 10.07 t grudu uz 2188.65 Eur
+    3) Dienos pelnas: 1238.05 Eur
+
+  T = 142
+    1) Nupirkta 4.65 t grudu uz 725.40 Eur
+    2) Parduota 6.09 t grudu uz 1215.60 Eur
+    3) Dienos pelnas: 490.20 Eur
+
+  T = 143
+    1) Nupirkta 5.35 t grudu uz 1391.00 Eur
+    2) Parduota 1.90 t grudu uz 348.60 Eur
+    3) Dienos pelnas: -1042.40 Eur
+
+  T = 144
+    1) Nupirkta 5.75 t grudu uz 1288.00 Eur
+    2) Parduota 5.42 t grudu uz 1007.88 Eur
+    3) Dienos pelnas: -280.12 Eur
+
+  T = 145
+    1) Nupirkta 5.75 t grudu uz 862.50 Eur
+    2) Parduota 2.31 t grudu uz 605.84 Eur
+    3) Dienos pelnas: -256.66 Eur
+
+  T = 146
+    1) Nupirkta 5.15 t grudu uz 813.70 Eur
+    2) Parduota 0.36 t grudu uz 95.71 Eur
+    3) Dienos pelnas: -717.99 Eur
+
+  T = 147
+    1) Nupirkta 5.70 t grudu uz 1140.00 Eur
+    2) Parduota 20.50 t grudu uz 3844.05 Eur
+    3) Dienos pelnas: 2704.05 Eur
+
+  T = 148
+    1) Nupirkta 5.20 t grudu uz 1040.00 Eur
+    2) Parduota 4.96 t grudu uz 1001.43 Eur
+    3) Dienos pelnas: -38.57 Eur
+
+  T = 149
+    1) Nupirkta 5.75 t grudu uz 1138.50 Eur
+    2) Parduota 1.45 t grudu uz 292.66 Eur
+    3) Dienos pelnas: -845.84 Eur
+
+  T = 150
+    1) Nupirkta 5.30 t grudu uz 911.60 Eur
+    2) Parduota 4.65 t grudu uz 932.91 Eur
+    3) Dienos pelnas: 21.31 Eur
+
+  T = 151
+    1) Nupirkta 4.70 t grudu uz 930.60 Eur
+    2) Parduota 0.26 t grudu uz 51.83 Eur
+    3) Dienos pelnas: -878.77 Eur
+
+  T = 152
+    1) Nupirkta 5.60 t grudu uz 896.00 Eur
+    2) Parduota 4.58 t grudu uz 865.73 Eur
+    3) Dienos pelnas: -30.27 Eur
+
+  T = 153
+    1) Nupirkta 4.50 t grudu uz 1089.00 Eur
+    2) Parduota 16.95 t grudu uz 3228.02 Eur
+    3) Dienos pelnas: 2139.02 Eur
+
+  T = 154
+    1) Nupirkta 5.40 t grudu uz 1155.60 Eur
+    2) Parduota 2.54 t grudu uz 584.38 Eur
+    3) Dienos pelnas: -571.22 Eur
+
+  T = 155
+    1) Nupirkta 4.95 t grudu uz 881.10 Eur
+    2) Parduota 2.91 t grudu uz 628.64 Eur
+    3) Dienos pelnas: -252.46 Eur
+
+  T = 156
+    1) Nupirkta 4.35 t grudu uz 609.00 Eur
+    2) Parduota 6.63 t grudu uz 1220.03 Eur
+    3) Dienos pelnas: 611.03 Eur
+
+  T = 157
+    1) Nupirkta 4.70 t grudu uz 1193.80 Eur
+    2) Parduota 7.82 t grudu uz 1558.20 Eur
+    3) Dienos pelnas: 364.40 Eur
+
+  T = 158
+    1) Nupirkta 4.75 t grudu uz 1149.50 Eur
+    2) Parduota 2.93 t grudu uz 724.93 Eur
+    3) Dienos pelnas: -424.57 Eur
+
+  T = 159
+    1) Nupirkta 5.40 t grudu uz 874.80 Eur
+    2) Parduota 5.68 t grudu uz 1138.68 Eur
+    3) Dienos pelnas: 263.88 Eur
+
+  T = 160
+    1) Nupirkta 5.20 t grudu uz 790.40 Eur
+    2) Parduota 0.68 t grudu uz 110.72 Eur
+    3) Dienos pelnas: -679.68 Eur
+
+  T = 161
+    1) Nupirkta 4.90 t grudu uz 754.60 Eur
+    2) Parduota 0.70 t grudu uz 115.28 Eur
+    3) Dienos pelnas: -639.32 Eur
+
+  T = 162
+    1) Nupirkta 5.20 t grudu uz 1050.40 Eur
+    2) Parduota 3.57 t grudu uz 557.89 Eur
+    3) Dienos pelnas: -492.51 Eur
+
+  T = 163
+    1) Nupirkta 4.45 t grudu uz 1050.20 Eur
+    2) Parduota 5.31 t grudu uz 820.08 Eur
+    3) Dienos pelnas: -230.12 Eur
+
+  T = 164
+    1) Nupirkta 5.35 t grudu uz 1262.60 Eur
+    2) Parduota 4.46 t grudu uz 805.54 Eur
+    3) Dienos pelnas: -457.06 Eur
+
+  T = 165
+    1) Nupirkta 5.10 t grudu uz 1224.00 Eur
+    2) Parduota 0.53 t grudu uz 108.94 Eur
+    3) Dienos pelnas: -1115.06 Eur
+
+  T = 166
+    1) Nupirkta 5.30 t grudu uz 1091.80 Eur
+    2) Parduota 11.28 t grudu uz 2608.01 Eur
+    3) Dienos pelnas: 1516.21 Eur
+
+  T = 167
+    1) Nupirkta 5.15 t grudu uz 731.30 Eur
+    2) Parduota 6.24 t grudu uz 1501.03 Eur
+    3) Dienos pelnas: 769.73 Eur
+
+  T = 168
+    1) Nupirkta 5.40 t grudu uz 896.40 Eur
+    2) Parduota 1.56 t grudu uz 324.32 Eur
+    3) Dienos pelnas: -572.08 Eur
+
+  T = 169
+    1) Nupirkta 5.65 t grudu uz 1389.90 Eur
+    2) Parduota 0.98 t grudu uz 204.72 Eur
+    3) Dienos pelnas: -1185.18 Eur
+
+  T = 170
+    1) Nupirkta 4.85 t grudu uz 1018.50 Eur
+    2) Parduota 18.60 t grudu uz 3543.44 Eur
+    3) Dienos pelnas: 2524.94 Eur
+
+  T = 171
+    1) Nupirkta 5.10 t grudu uz 856.80 Eur
+    2) Parduota 2.21 t grudu uz 472.13 Eur
+    3) Dienos pelnas: -384.67 Eur
+
+  T = 172
+    1) Nupirkta 5.60 t grudu uz 1064.00 Eur
+    2) Parduota 1.61 t grudu uz 341.94 Eur
+    3) Dienos pelnas: -722.06 Eur
+
+  T = 173
+    1) Nupirkta 4.90 t grudu uz 1097.60 Eur
+    2) Parduota 6.02 t grudu uz 1069.11 Eur
+    3) Dienos pelnas: -28.49 Eur
+
+  T = 174
+    1) Nupirkta 4.65 t grudu uz 1088.10 Eur
+    2) Parduota 7.68 t grudu uz 1532.91 Eur
+    3) Dienos pelnas: 444.81 Eur
+
+  T = 175
+    1) Nupirkta 4.25 t grudu uz 994.50 Eur
+    2) Parduota 6.80 t grudu uz 1576.06 Eur
+    3) Dienos pelnas: 581.56 Eur
+
+  T = 176
+    1) Nupirkta 5.55 t grudu uz 1187.70 Eur
+    2) Parduota 2.24 t grudu uz 529.98 Eur
+    3) Dienos pelnas: -657.72 Eur
+
+  T = 177
+    1) Nupirkta 5.35 t grudu uz 1358.90 Eur
+    2) Parduota 10.34 t grudu uz 2369.95 Eur
+    3) Dienos pelnas: 1011.05 Eur
+
+  T = 178
+    1) Nupirkta 5.20 t grudu uz 1019.20 Eur
+    2) Parduota 5.01 t grudu uz 1194.65 Eur
+    3) Dienos pelnas: 175.45 Eur
+
+  T = 179
+    1) Nupirkta 5.15 t grudu uz 844.60 Eur
+    2) Parduota 7.29 t grudu uz 1324.66 Eur
+    3) Dienos pelnas: 480.06 Eur
+
+  T = 180
+    1) Nupirkta 5.20 t grudu uz 1040.00 Eur
+    2) Parduota 3.95 t grudu uz 743.37 Eur
+    3) Dienos pelnas: -296.63 Eur
+
+  T = 181
+    1) Nupirkta 5.50 t grudu uz 1111.00 Eur
+    2) Parduota 8.16 t grudu uz 1659.59 Eur
+    3) Dienos pelnas: 548.59 Eur
+
+  T = 182
+    1) Nupirkta 5.75 t grudu uz 1115.50 Eur
+    2) Parduota 5.66 t grudu uz 1109.19 Eur
+    3) Dienos pelnas: -6.31 Eur
+
+  T = 183
+    1) Nupirkta 4.50 t grudu uz 828.00 Eur
+    2) Parduota 3.46 t grudu uz 644.68 Eur
+    3) Dienos pelnas: -183.32 Eur
+
+  T = 184
+    1) Nupirkta 5.15 t grudu uz 854.90 Eur
+    2) Parduota 6.24 t grudu uz 1067.99 Eur
+    3) Dienos pelnas: 213.09 Eur
+
+  T = 185
+    1) Nupirkta 4.25 t grudu uz 994.50 Eur
+    2) Parduota 0.22 t grudu uz 42.98 Eur
+    3) Dienos pelnas: -951.52 Eur
+
+  T = 186
+    1) Nupirkta 5.70 t grudu uz 1288.20 Eur
+    2) Parduota 3.65 t grudu uz 862.08 Eur
+    3) Dienos pelnas: -426.12 Eur
+
+  T = 187
+    1) Nupirkta 4.45 t grudu uz 970.10 Eur
+    2) Parduota 6.61 t grudu uz 1509.64 Eur
+    3) Dienos pelnas: 539.54 Eur
+
+  T = 188
+    1) Nupirkta 4.45 t grudu uz 694.20 Eur
+    2) Parduota 1.79 t grudu uz 393.07 Eur
+    3) Dienos pelnas: -301.13 Eur
+
+  T = 189
+    1) Nupirkta 5.25 t grudu uz 1092.00 Eur
+    2) Parduota 9.21 t grudu uz 1724.79 Eur
+    3) Dienos pelnas: 632.79 Eur
+
+  T = 190
+    1) Nupirkta 5.15 t grudu uz 1050.60 Eur
+    2) Parduota 3.32 t grudu uz 694.95 Eur
+    3) Dienos pelnas: -355.65 Eur
+
+  T = 191
+    1) Nupirkta 5.15 t grudu uz 906.40 Eur
+    2) Parduota 7.59 t grudu uz 1479.16 Eur
+    3) Dienos pelnas: 572.76 Eur
+
+  T = 192
+    1) Nupirkta 5.70 t grudu uz 1447.80 Eur
+    2) Parduota 1.02 t grudu uz 181.20 Eur
+    3) Dienos pelnas: -1266.60 Eur
+
+  T = 193
+    1) Nupirkta 4.85 t grudu uz 717.80 Eur
+    2) Parduota 2.68 t grudu uz 600.31 Eur
+    3) Dienos pelnas: -117.49 Eur
+
+  T = 194
+    1) Nupirkta 5.75 t grudu uz 1115.50 Eur
+    2) Parduota 4.57 t grudu uz 1125.86 Eur
+    3) Dienos pelnas: 10.36 Eur
+
+  T = 195
+    1) Nupirkta 4.75 t grudu uz 750.50 Eur
+    2) Parduota 5.82 t grudu uz 934.75 Eur
+    3) Dienos pelnas: 184.25 Eur
+
+  T = 196
+    1) Nupirkta 5.30 t grudu uz 1356.80 Eur
+    2) Parduota 14.26 t grudu uz 2943.57 Eur
+    3) Dienos pelnas: 1586.77 Eur
+
+  T = 197
+    1) Nupirkta 4.35 t grudu uz 635.10 Eur
+    2) Parduota 2.83 t grudu uz 433.49 Eur
+    3) Dienos pelnas: -201.61 Eur
+
+  T = 198
+    1) Nupirkta 4.30 t grudu uz 1032.00 Eur
+    2) Parduota 3.64 t grudu uz 723.82 Eur
+    3) Dienos pelnas: -308.18 Eur
+
+  T = 199
+    1) Nupirkta 4.90 t grudu uz 1146.60 Eur
+    2) Parduota 6.36 t grudu uz 1516.84 Eur
+    3) Dienos pelnas: 370.24 Eur
+
+  T = 200
+    1) Nupirkta 5.40 t grudu uz 1274.40 Eur
+    2) Parduota 3.20 t grudu uz 760.09 Eur
+    3) Dienos pelnas: -514.31 Eur
+
+  T = 201
+    1) Nupirkta 4.40 t grudu uz 836.00 Eur
+    2) Parduota 5.90 t grudu uz 1275.26 Eur
+    3) Dienos pelnas: 439.26 Eur
+
+  T = 202
+    1) Nupirkta 4.55 t grudu uz 764.40 Eur
+    2) Parduota 4.53 t grudu uz 803.17 Eur
+    3) Dienos pelnas: 38.77 Eur
+
+  T = 203
+    1) Nupirkta 4.65 t grudu uz 902.10 Eur
+    2) Parduota 4.06 t grudu uz 753.07 Eur
+    3) Dienos pelnas: -149.03 Eur
+
+  T = 204
+    1) Nupirkta 4.80 t grudu uz 1104.00 Eur
+    2) Parduota 0.84 t grudu uz 164.22 Eur
+    3) Dienos pelnas: -939.78 Eur
+
+  T = 205
+    1) Nupirkta 4.25 t grudu uz 782.00 Eur
+    2) Parduota 6.97 t grudu uz 1531.06 Eur
+    3) Dienos pelnas: 749.06 Eur
+
+  T = 206
+    1) Nupirkta 5.20 t grudu uz 873.60 Eur
+    2) Parduota 7.85 t grudu uz 1388.10 Eur
+    3) Dienos pelnas: 514.50 Eur
+
+  T = 207
+    1) Nupirkta 4.85 t grudu uz 1047.60 Eur
+    2) Parduota 4.50 t grudu uz 944.37 Eur
+    3) Dienos pelnas: -103.23 Eur
+
+  T = 208
+    1) Nupirkta 5.60 t grudu uz 1220.80 Eur
+    2) Parduota 0.27 t grudu uz 58.69 Eur
+    3) Dienos pelnas: -1162.11 Eur
+
+  T = 209
+    1) Nupirkta 4.35 t grudu uz 626.40 Eur
+    2) Parduota 8.75 t grudu uz 1753.87 Eur
+    3) Dienos pelnas: 1127.47 Eur
+
+  T = 210
+    1) Nupirkta 4.90 t grudu uz 1087.80 Eur
+    2) Parduota 4.80 t grudu uz 913.99 Eur
+    3) Dienos pelnas: -173.81 Eur
+
+  T = 211
+    1) Nupirkta 5.70 t grudu uz 900.60 Eur
+    2) Parduota 1.26 t grudu uz 281.82 Eur
+    3) Dienos pelnas: -618.78 Eur
+
+  T = 212
+    1) Nupirkta 5.30 t grudu uz 837.40 Eur
+    2) Parduota 8.80 t grudu uz 1463.18 Eur
+    3) Dienos pelnas: 625.78 Eur
+
+  T = 213
+    1) Nupirkta 4.55 t grudu uz 800.80 Eur
+    2) Parduota 1.91 t grudu uz 304.94 Eur
+    3) Dienos pelnas: -495.86 Eur
+
+  T = 214
+    1) Nupirkta 4.25 t grudu uz 850.00 Eur
+    2) Parduota 4.69 t grudu uz 812.53 Eur
+    3) Dienos pelnas: -37.47 Eur
+
+  T = 215
+    1) Nupirkta 5.55 t grudu uz 1387.50 Eur
+    2) Parduota 6.94 t grudu uz 1459.46 Eur
+    3) Dienos pelnas: 71.96 Eur
+
+  T = 216
+    1) Nupirkta 5.15 t grudu uz 1236.00 Eur
+    2) Parduota 7.06 t grudu uz 1751.03 Eur
+    3) Dienos pelnas: 515.03 Eur
+
+  T = 217
+    1) Nupirkta 5.05 t grudu uz 1302.90 Eur
+    2) Parduota 1.83 t grudu uz 443.79 Eur
+    3) Dienos pelnas: -859.11 Eur
+
+  T = 218
+    1) Nupirkta 4.85 t grudu uz 863.30 Eur
+    2) Parduota 1.51 t grudu uz 390.32 Eur
+    3) Dienos pelnas: -472.98 Eur
+
+  T = 219
+    1) Nupirkta 5.25 t grudu uz 1081.50 Eur
+    2) Parduota 1.38 t grudu uz 359.64 Eur
+    3) Dienos pelnas: -721.86 Eur
+
+  T = 220
+    1) Nupirkta 5.05 t grudu uz 1020.10 Eur
+    2) Parduota 14.50 t grudu uz 2993.51 Eur
+    3) Dienos pelnas: 1973.41 Eur
+
+  T = 221
+    1) Nupirkta 5.10 t grudu uz 1142.40 Eur
+    2) Parduota 1.86 t grudu uz 378.69 Eur
+    3) Dienos pelnas: -763.71 Eur
+
+  T = 222
+    1) Nupirkta 4.55 t grudu uz 646.10 Eur
+    2) Parduota 9.90 t grudu uz 1910.17 Eur
+    3) Dienos pelnas: 1264.07 Eur
+
+  T = 223
+    1) Nupirkta 4.90 t grudu uz 1264.20 Eur
+    2) Parduota 4.84 t grudu uz 1160.15 Eur
+    3) Dienos pelnas: -104.05 Eur
+
+  T = 224
+    1) Nupirkta 4.40 t grudu uz 1135.20 Eur
+    2) Parduota 4.63 t grudu uz 1206.47 Eur
+    3) Dienos pelnas: 71.27 Eur
+
+  T = 225
+    1) Nupirkta 4.85 t grudu uz 1134.90 Eur
+    2) Parduota 2.49 t grudu uz 606.16 Eur
+    3) Dienos pelnas: -528.74 Eur
+
+  T = 226
+    1) Nupirkta 4.25 t grudu uz 705.50 Eur
+    2) Parduota 2.55 t grudu uz 603.68 Eur
+    3) Dienos pelnas: -101.82 Eur
+
+  T = 227
+    1) Nupirkta 5.40 t grudu uz 1188.00 Eur
+    2) Parduota 1.93 t grudu uz 357.04 Eur
+    3) Dienos pelnas: -830.96 Eur
+
+  T = 228
+    1) Nupirkta 4.40 t grudu uz 765.60 Eur
+    2) Parduota 2.02 t grudu uz 338.44 Eur
+    3) Dienos pelnas: -427.16 Eur
+
+  T = 229
+    1) Nupirkta 5.55 t grudu uz 821.40 Eur
+    2) Parduota 15.02 t grudu uz 2767.54 Eur
+    3) Dienos pelnas: 1946.14 Eur
+
+  T = 230
+    1) Nupirkta 4.80 t grudu uz 700.80 Eur
+    2) Parduota 3.50 t grudu uz 518.23 Eur
+    3) Dienos pelnas: -182.57 Eur
+
+  T = 231
+    1) Nupirkta 5.60 t grudu uz 828.80 Eur
+    2) Parduota 2.17 t grudu uz 319.77 Eur
+    3) Dienos pelnas: -509.03 Eur
+
+  T = 232
+    1) Nupirkta 4.50 t grudu uz 1062.00 Eur
+    2) Parduota 8.91 t grudu uz 1602.67 Eur
+    3) Dienos pelnas: 540.67 Eur
+
+  T = 233
+    1) Nupirkta 4.70 t grudu uz 1109.20 Eur
+    2) Parduota 5.47 t grudu uz 1304.84 Eur
+    3) Dienos pelnas: 195.64 Eur
+
+  T = 234
+    1) Nupirkta 5.35 t grudu uz 1177.00 Eur
+    2) Parduota 5.00 t grudu uz 1122.39 Eur
+    3) Dienos pelnas: -54.61 Eur
+
+  T = 235
+    1) Nupirkta 5.55 t grudu uz 1154.40 Eur
+    2) Parduota 2.89 t grudu uz 620.13 Eur
+    3) Dienos pelnas: -534.27 Eur
+
+  T = 236
+    1) Nupirkta 5.45 t grudu uz 1035.50 Eur
+    2) Parduota 2.19 t grudu uz 460.41 Eur
+    3) Dienos pelnas: -575.09 Eur
+
+  T = 237
+    1) Nupirkta 5.35 t grudu uz 1123.50 Eur
+    2) Parduota 7.25 t grudu uz 1424.87 Eur
+    3) Dienos pelnas: 301.37 Eur
+
+  T = 238
+    1) Nupirkta 4.80 t grudu uz 1142.40 Eur
+    2) Parduota 9.84 t grudu uz 2222.58 Eur
+    3) Dienos pelnas: 1080.18 Eur
+
+  T = 239
+    1) Nupirkta 5.20 t grudu uz 894.40 Eur
+    2) Parduota 2.08 t grudu uz 361.34 Eur
+    3) Dienos pelnas: -533.06 Eur
+
+  T = 240
+    1) Nupirkta 4.35 t grudu uz 1122.30 Eur
+    2) Parduota 7.47 t grudu uz 1675.53 Eur
+    3) Dienos pelnas: 553.23 Eur
+
+  T = 241
+    1) Nupirkta 5.10 t grudu uz 887.40 Eur
+    2) Parduota 2.91 t grudu uz 510.88 Eur
+    3) Dienos pelnas: -376.52 Eur
+
+  T = 242
+    1) Nupirkta 5.00 t grudu uz 770.00 Eur
+    2) Parduota 5.83 t grudu uz 950.53 Eur
+    3) Dienos pelnas: 180.53 Eur
+
+  T = 243
+    1) Nupirkta 4.40 t grudu uz 739.20 Eur
+    2) Parduota 1.27 t grudu uz 197.33 Eur
+    3) Dienos pelnas: -541.87 Eur
+
+  T = 244
+    1) Nupirkta 5.55 t grudu uz 1309.80 Eur
+    2) Parduota 2.81 t grudu uz 476.00 Eur
+    3) Dienos pelnas: -833.80 Eur
+
+  T = 245
+    1) Nupirkta 4.90 t grudu uz 1166.20 Eur
+    2) Parduota 6.43 t grudu uz 1417.27 Eur
+    3) Dienos pelnas: 251.07 Eur
+
+  T = 246
+    1) Nupirkta 5.05 t grudu uz 818.10 Eur
+    2) Parduota 10.43 t grudu uz 2142.82 Eur
+    3) Dienos pelnas: 1324.72 Eur
+
+  T = 247
+    1) Nupirkta 4.45 t grudu uz 667.50 Eur
+    2) Parduota 3.72 t grudu uz 567.89 Eur
+    3) Dienos pelnas: -99.61 Eur
+
+  T = 248
+    1) Nupirkta 5.75 t grudu uz 1403.00 Eur
+    2) Parduota 2.31 t grudu uz 470.08 Eur
+    3) Dienos pelnas: -932.92 Eur
+
+  T = 249
+    1) Nupirkta 4.65 t grudu uz 1060.20 Eur
+    2) Parduota 7.77 t grudu uz 1861.18 Eur
+    3) Dienos pelnas: 800.98 Eur
+
+  T = 250
+    1) Nupirkta 5.70 t grudu uz 1151.40 Eur
+    2) Parduota 6.51 t grudu uz 1363.15 Eur
+    3) Dienos pelnas: 211.75 Eur
+
+  T = 251
+    1) Nupirkta 4.75 t grudu uz 1064.00 Eur
+    2) Parduota 0.16 t grudu uz 32.54 Eur
+    3) Dienos pelnas: -1031.46 Eur
+
+  T = 252
+    1) Nupirkta 5.70 t grudu uz 1470.60 Eur
+    2) Parduota 7.82 t grudu uz 1850.72 Eur
+    3) Dienos pelnas: 380.12 Eur
+
+  T = 253
+    1) Nupirkta 4.70 t grudu uz 827.20 Eur
+    2) Parduota 4.57 t grudu uz 1063.48 Eur
+    3) Dienos pelnas: 236.28 Eur
+
+  T = 254
+    1) Nupirkta 5.60 t grudu uz 806.40 Eur
+    2) Parduota 3.68 t grudu uz 638.48 Eur
+    3) Dienos pelnas: -167.92 Eur
+
+  T = 255
+    1) Nupirkta 4.60 t grudu uz 671.60 Eur
+    2) Parduota 8.24 t grudu uz 1204.09 Eur
+    3) Dienos pelnas: 532.49 Eur
+
+  T = 256
+    1) Nupirkta 5.60 t grudu uz 1008.00 Eur
+    2) Parduota 1.83 t grudu uz 283.49 Eur
+    3) Dienos pelnas: -724.51 Eur
+
+  T = 257
+    1) Nupirkta 5.75 t grudu uz 874.00 Eur
+    2) Parduota 3.29 t grudu uz 598.27 Eur
+    3) Dienos pelnas: -275.73 Eur
+
+  T = 258
+    1) Nupirkta 4.40 t grudu uz 704.00 Eur
+    2) Parduota 0.85 t grudu uz 153.71 Eur
+    3) Dienos pelnas: -550.29 Eur
+
+  T = 259
+    1) Nupirkta 4.45 t grudu uz 925.60 Eur
+    2) Parduota 13.64 t grudu uz 2297.23 Eur
+    3) Dienos pelnas: 1371.63 Eur
+
+  T = 260
+    1) Nupirkta 5.65 t grudu uz 881.40 Eur
+    2) Parduota 0.85 t grudu uz 177.68 Eur
+    3) Dienos pelnas: -703.72 Eur
+
+  T = 261
+    1) Nupirkta 4.75 t grudu uz 997.50 Eur
+    2) Parduota 5.80 t grudu uz 975.96 Eur
+    3) Dienos pelnas: -21.54 Eur
+
+  T = 262
+    1) Nupirkta 5.05 t grudu uz 1313.00 Eur
+    2) Parduota 0.11 t grudu uz 17.09 Eur
+    3) Dienos pelnas: -1295.91 Eur
+
+  T = 263
+    1) Nupirkta 5.00 t grudu uz 1180.00 Eur
+    2) Parduota 5.98 t grudu uz 1232.06 Eur
+    3) Dienos pelnas: 52.06 Eur
+
+  T = 264
+    1) Nupirkta 4.90 t grudu uz 1117.20 Eur
+    2) Parduota 14.22 t grudu uz 3468.26 Eur
+    3) Dienos pelnas: 2351.06 Eur
+
+  T = 265
+    1) Nupirkta 4.80 t grudu uz 844.80 Eur
+    2) Parduota 3.88 t grudu uz 712.34 Eur
+    3) Dienos pelnas: -132.46 Eur
+
+  T = 266
+    1) Nupirkta 4.50 t grudu uz 1170.00 Eur
+    2) Parduota 0.94 t grudu uz 166.73 Eur
+    3) Dienos pelnas: -1003.27 Eur
+
+  T = 267
+    1) Nupirkta 5.25 t grudu uz 1291.50 Eur
+    2) Parduota 3.15 t grudu uz 792.25 Eur
+    3) Dienos pelnas: -499.25 Eur
+
+  T = 268
+    1) Nupirkta 4.90 t grudu uz 1107.40 Eur
+    2) Parduota 3.93 t grudu uz 1002.40 Eur
+    3) Dienos pelnas: -105.00 Eur
+
+  T = 269
+    1) Nupirkta 5.05 t grudu uz 808.00 Eur
+    2) Parduota 0.65 t grudu uz 161.95 Eur
+    3) Dienos pelnas: -646.05 Eur
+
+  T = 270
+    1) Nupirkta 5.55 t grudu uz 1176.60 Eur
+    2) Parduota 0.54 t grudu uz 133.68 Eur
+    3) Dienos pelnas: -1042.92 Eur
+
+  T = 271
+    1) Nupirkta 5.70 t grudu uz 1219.80 Eur
+    2) Parduota 14.55 t grudu uz 2984.84 Eur
+    3) Dienos pelnas: 1765.04 Eur
+
+  T = 272
+    1) Nupirkta 5.65 t grudu uz 1118.70 Eur
+    2) Parduota 4.68 t grudu uz 1006.78 Eur
+    3) Dienos pelnas: -111.92 Eur
+
+  T = 273
+    1) Nupirkta 5.35 t grudu uz 1369.60 Eur
+    2) Parduota 5.35 t grudu uz 1132.29 Eur
+    3) Dienos pelnas: -237.31 Eur
+
+  T = 274
+    1) Nupirkta 4.40 t grudu uz 1117.60 Eur
+    2) Parduota 7.23 t grudu uz 1626.61 Eur
+    3) Dienos pelnas: 509.01 Eur
+
+  T = 275
+    1) Nupirkta 4.75 t grudu uz 807.50 Eur
+    2) Parduota 9.48 t grudu uz 2199.63 Eur
+    3) Dienos pelnas: 1392.13 Eur
+
+  T = 276
+    1) Nupirkta 5.75 t grudu uz 1150.00 Eur
+    2) Parduota 7.23 t grudu uz 1401.82 Eur
+    3) Dienos pelnas: 251.82 Eur
+
+  T = 277
+    1) Nupirkta 4.30 t grudu uz 696.60 Eur
+    2) Parduota 4.52 t grudu uz 757.85 Eur
+    3) Dienos pelnas: 61.25 Eur
+
+  T = 278
+    1) Nupirkta 5.05 t grudu uz 1262.50 Eur
+    2) Parduota 2.01 t grudu uz 486.23 Eur
+    3) Dienos pelnas: -776.27 Eur
+
+  T = 279
+    1) Nupirkta 4.70 t grudu uz 1175.00 Eur
+    2) Parduota 7.18 t grudu uz 1813.14 Eur
+    3) Dienos pelnas: 638.14 Eur
+
+  T = 280
+    1) Nupirkta 5.15 t grudu uz 1225.70 Eur
+    2) Parduota 5.83 t grudu uz 1410.82 Eur
+    3) Dienos pelnas: 185.12 Eur
+
+  T = 281
+    1) Nupirkta 5.00 t grudu uz 820.00 Eur
+    2) Parduota 0.87 t grudu uz 153.03 Eur
+    3) Dienos pelnas: -666.97 Eur
+
+  T = 282
+    1) Nupirkta 4.55 t grudu uz 1028.30 Eur
+    2) Parduota 1.94 t grudu uz 320.63 Eur
+    3) Dienos pelnas: -707.67 Eur
+
+  T = 283
+    1) Nupirkta 5.10 t grudu uz 1275.00 Eur
+    2) Parduota 10.29 t grudu uz 2286.57 Eur
+    3) Dienos pelnas: 1011.57 Eur
+
+  T = 284
+    1) Nupirkta 4.75 t grudu uz 1159.00 Eur
+    2) Parduota 2.83 t grudu uz 706.82 Eur
+    3) Dienos pelnas: -452.18 Eur
+
+  T = 285
+    1) Nupirkta 4.80 t grudu uz 1248.00 Eur
+    2) Parduota 3.61 t grudu uz 890.13 Eur
+    3) Dienos pelnas: -357.87 Eur
+
+  T = 286
+    1) Nupirkta 4.95 t grudu uz 1098.90 Eur
+    2) Parduota 3.70 t grudu uz 971.62 Eur
+    3) Dienos pelnas: -127.28 Eur
+
+  T = 287
+    1) Nupirkta 5.30 t grudu uz 1134.20 Eur
+    2) Parduota 1.93 t grudu uz 473.84 Eur
+    3) Dienos pelnas: -660.36 Eur
+
+  T = 288
+    1) Nupirkta 4.95 t grudu uz 871.20 Eur
+    2) Parduota 1.87 t grudu uz 418.56 Eur
+    3) Dienos pelnas: -452.64 Eur
+
+  T = 289
+    1) Nupirkta 4.95 t grudu uz 1138.50 Eur
+    2) Parduota 15.18 t grudu uz 3151.47 Eur
+    3) Dienos pelnas: 2012.97 Eur
+
+  T = 290
+    1) Nupirkta 4.80 t grudu uz 1200.00 Eur
+    2) Parduota 2.12 t grudu uz 492.54 Eur
+    3) Dienos pelnas: -707.46 Eur
+
+  T = 291
+    1) Nupirkta 4.70 t grudu uz 1203.20 Eur
+    2) Parduota 1.64 t grudu uz 411.13 Eur
+    3) Dienos pelnas: -792.07 Eur
+
+  T = 292
+    1) Nupirkta 4.30 t grudu uz 670.80 Eur
+    2) Parduota 9.97 t grudu uz 2359.39 Eur
+    3) Dienos pelnas: 1688.59 Eur
+
+  T = 293
+    1) Nupirkta 4.65 t grudu uz 1013.70 Eur
+    2) Parduota 2.31 t grudu uz 363.36 Eur
+    3) Dienos pelnas: -650.34 Eur
+
+  T = 294
+    1) Nupirkta 5.15 t grudu uz 885.80 Eur
+    2) Parduota 6.29 t grudu uz 1308.67 Eur
+    3) Dienos pelnas: 422.87 Eur
+
+  T = 295
+    1) Nupirkta 4.80 t grudu uz 748.80 Eur
+    2) Parduota 1.17 t grudu uz 202.83 Eur
+    3) Dienos pelnas: -545.97 Eur
+
+  T = 296
+    1) Nupirkta 5.10 t grudu uz 1326.00 Eur
+    2) Parduota 6.50 t grudu uz 1063.13 Eur
+    3) Dienos pelnas: -262.87 Eur
+
+  T = 297
+    1) Nupirkta 5.70 t grudu uz 1151.40 Eur
+    2) Parduota 9.40 t grudu uz 2186.26 Eur
+    3) Dienos pelnas: 1034.86 Eur
+
+  T = 298
+    1) Nupirkta 4.85 t grudu uz 717.80 Eur
+    2) Parduota 0.28 t grudu uz 56.43 Eur
+    3) Dienos pelnas: -661.37 Eur
+
+  T = 299
+    1) Nupirkta 4.45 t grudu uz 1103.60 Eur
+    2) Parduota 11.09 t grudu uz 2204.33 Eur
+    3) Dienos pelnas: 1100.73 Eur
+
+  T = 300
+    1) Nupirkta 5.20 t grudu uz 904.80 Eur
+    2) Parduota 5.04 t grudu uz 886.43 Eur
+    3) Dienos pelnas: -18.37 Eur
+
+  T = 301
+    1) Nupirkta 5.15 t grudu uz 1246.30 Eur
+    2) Parduota 5.31 t grudu uz 1286.18 Eur
+    3) Dienos pelnas: 39.88 Eur
+
+  T = 302
+    1) Nupirkta 5.10 t grudu uz 846.60 Eur
+    2) Parduota 4.69 t grudu uz 786.66 Eur
+    3) Dienos pelnas: -59.94 Eur
+
+  T = 303
+    1) Nupirkta 4.55 t grudu uz 855.40 Eur
+    2) Parduota 0.40 t grudu uz 66.50 Eur
+    3) Dienos pelnas: -788.90 Eur
+
+  T = 304
+    1) Nupirkta 4.70 t grudu uz 789.60 Eur
+    2) Parduota 5.28 t grudu uz 987.62 Eur
+    3) Dienos pelnas: 198.02 Eur
+
+  T = 305
+    1) Nupirkta 5.45 t grudu uz 981.00 Eur
+    2) Parduota 6.79 t grudu uz 1186.39 Eur
+    3) Dienos pelnas: 205.39 Eur
+
+  T = 306
+    1) Nupirkta 4.40 t grudu uz 844.80 Eur
+    2) Parduota 4.22 t grudu uz 787.23 Eur
+    3) Dienos pelnas: -57.57 Eur
+
+  T = 307
+    1) Nupirkta 4.25 t grudu uz 807.50 Eur
+    2) Parduota 0.42 t grudu uz 82.22 Eur
+    3) Dienos pelnas: -725.28 Eur
+
+  T = 308
+    1) Nupirkta 5.75 t grudu uz 1449.00 Eur
+    2) Parduota 7.31 t grudu uz 1449.82 Eur
+    3) Dienos pelnas: 0.82 Eur
+
+  T = 309
+    1) Nupirkta 4.25 t grudu uz 943.50 Eur
+    2) Parduota 3.17 t grudu uz 807.47 Eur
+    3) Dienos pelnas: -136.03 Eur
+
+  T = 310
+    1) Nupirkta 4.50 t grudu uz 1125.00 Eur
+    2) Parduota 10.34 t grudu uz 2494.17 Eur
+    3) Dienos pelnas: 1369.17 Eur
+
+  T = 311
+    1) Nupirkta 4.65 t grudu uz 651.00 Eur
+    2) Parduota 2.68 t grudu uz 414.99 Eur
+    3) Dienos pelnas: -236.01 Eur
+
+  T = 312
+    1) Nupirkta 5.00 t grudu uz 960.00 Eur
+    2) Parduota 6.27 t grudu uz 1095.04 Eur
+    3) Dienos pelnas: 135.04 Eur
+
+  T = 313
+    1) Nupirkta 4.75 t grudu uz 750.50 Eur
+    2) Parduota 5.37 t grudu uz 891.36 Eur
+    3) Dienos pelnas: 140.86 Eur
+
+  T = 314
+    1) Nupirkta 4.70 t grudu uz 733.20 Eur
+    2) Parduota 4.39 t grudu uz 692.40 Eur
+    3) Dienos pelnas: -40.80 Eur
+
+  T = 315
+    1) Nupirkta 5.60 t grudu uz 1254.40 Eur
+    2) Parduota 5.62 t grudu uz 1222.38 Eur
+    3) Dienos pelnas: -32.02 Eur
+
+  T = 316
+    1) Nupirkta 4.80 t grudu uz 969.60 Eur
+    2) Parduota 4.07 t grudu uz 844.98 Eur
+    3) Dienos pelnas: -124.62 Eur
+
+  T = 317
+    1) Nupirkta 5.35 t grudu uz 1080.70 Eur
+    2) Parduota 6.03 t grudu uz 1230.84 Eur
+    3) Dienos pelnas: 150.14 Eur
+
+  T = 318
+    1) Nupirkta 4.45 t grudu uz 961.20 Eur
+    2) Parduota 4.83 t grudu uz 1043.59 Eur
+    3) Dienos pelnas: 82.39 Eur
+
+  T = 319
+    1) Nupirkta 5.65 t grudu uz 892.70 Eur
+    2) Parduota 5.65 t grudu uz 923.39 Eur
+    3) Dienos pelnas: 30.69 Eur
+
+  T = 320
+    1) Nupirkta 4.95 t grudu uz 1029.60 Eur
+    2) Parduota 2.23 t grudu uz 450.37 Eur
+    3) Dienos pelnas: -579.23 Eur
+
+  T = 321
+    1) Nupirkta 4.40 t grudu uz 941.60 Eur
+    2) Parduota 5.09 t grudu uz 1080.75 Eur
+    3) Dienos pelnas: 139.15 Eur
+
+  T = 322
+    1) Nupirkta 5.05 t grudu uz 747.40 Eur
+    2) Parduota 1.49 t grudu uz 321.78 Eur
+    3) Dienos pelnas: -425.62 Eur
+
+  T = 323
+    1) Nupirkta 4.40 t grudu uz 880.00 Eur
+    2) Parduota 4.56 t grudu uz 741.38 Eur
+    3) Dienos pelnas: -138.62 Eur
+
+  T = 324
+    1) Nupirkta 4.80 t grudu uz 892.80 Eur
+    2) Parduota 5.19 t grudu uz 975.60 Eur
+    3) Dienos pelnas: 82.80 Eur
+
+  T = 325
+    1) Nupirkta 5.45 t grudu uz 1133.60 Eur
+    2) Parduota 2.71 t grudu uz 518.38 Eur
+    3) Dienos pelnas: -615.22 Eur
+
+  T = 326
+    1) Nupirkta 5.60 t grudu uz 1433.60 Eur
+    2) Parduota 4.40 t grudu uz 863.98 Eur
+    3) Dienos pelnas: -569.62 Eur
+
+  T = 327
+    1) Nupirkta 4.65 t grudu uz 1004.40 Eur
+    2) Parduota 12.17 t grudu uz 2852.08 Eur
+    3) Dienos pelnas: 1847.68 Eur
+
+  T = 328
+    1) Nupirkta 5.60 t grudu uz 1310.40 Eur
+    2) Parduota 1.56 t grudu uz 339.90 Eur
+    3) Dienos pelnas: -970.50 Eur
+
+  T = 329
+    1) Nupirkta 5.30 t grudu uz 858.60 Eur
+    2) Parduota 10.27 t grudu uz 2101.58 Eur
+    3) Dienos pelnas: 1242.98 Eur
+
+  T = 330
+    1) Nupirkta 4.30 t grudu uz 782.60 Eur
+    2) Parduota 1.56 t grudu uz 268.33 Eur
+    3) Dienos pelnas: -514.27 Eur
+
+  T = 331
+    1) Nupirkta 5.65 t grudu uz 1005.70 Eur
+    2) Parduota 3.62 t grudu uz 665.64 Eur
+    3) Dienos pelnas: -340.06 Eur
+
+  T = 332
+    1) Nupirkta 5.15 t grudu uz 1091.80 Eur
+    2) Parduota 0.32 t grudu uz 58.38 Eur
+    3) Dienos pelnas: -1033.42 Eur
+
+  T = 333
+    1) Nupirkta 5.00 t grudu uz 890.00 Eur
+    2) Parduota 11.62 t grudu uz 2265.37 Eur
+    3) Dienos pelnas: 1375.37 Eur
+
+  T = 334
+    1) Nupirkta 4.50 t grudu uz 675.00 Eur
+    2) Parduota 5.02 t grudu uz 870.56 Eur
+    3) Dienos pelnas: 195.56 Eur
+
+  T = 335
+    1) Nupirkta 4.25 t grudu uz 884.00 Eur
+    2) Parduota 1.37 t grudu uz 207.22 Eur
+    3) Dienos pelnas: -676.78 Eur
+
+  T = 336
+    1) Nupirkta 5.30 t grudu uz 1155.40 Eur
+    2) Parduota 5.19 t grudu uz 974.05 Eur
+    3) Dienos pelnas: -181.35 Eur
+
+  T = 337
+    1) Nupirkta 5.75 t grudu uz 908.50 Eur
+    2) Parduota 4.35 t grudu uz 947.95 Eur
+    3) Dienos pelnas: 39.45 Eur
+
+  T = 338
+    1) Nupirkta 4.65 t grudu uz 762.60 Eur
+    2) Parduota 9.42 t grudu uz 1633.23 Eur
+    3) Dienos pelnas: 870.63 Eur
+
+  T = 339
+    1) Nupirkta 5.25 t grudu uz 1113.00 Eur
+    2) Parduota 5.59 t grudu uz 1053.18 Eur
+    3) Dienos pelnas: -59.82 Eur
+
+  T = 340
+    1) Nupirkta 5.40 t grudu uz 1339.20 Eur
+    2) Parduota 6.10 t grudu uz 1433.23 Eur
+    3) Dienos pelnas: 94.03 Eur
+
+  T = 341
+    1) Nupirkta 5.20 t grudu uz 1268.80 Eur
+    2) Parduota 4.78 t grudu uz 1184.65 Eur
+    3) Dienos pelnas: -84.15 Eur
+
+  T = 342
+    1) Nupirkta 5.65 t grudu uz 1389.90 Eur
+    2) Parduota 2.96 t grudu uz 730.88 Eur
+    3) Dienos pelnas: -659.02 Eur
+
+  T = 343
+    1) Nupirkta 5.10 t grudu uz 1173.00 Eur
+    2) Parduota 4.87 t grudu uz 1209.46 Eur
+    3) Dienos pelnas: 36.46 Eur
+
+  T = 344
+    1) Nupirkta 4.85 t grudu uz 1222.20 Eur
+    2) Parduota 6.99 t grudu uz 1663.50 Eur
+    3) Dienos pelnas: 441.30 Eur
+
+  T = 345
+    1) Nupirkta 5.45 t grudu uz 861.10 Eur
+    2) Parduota 3.78 t grudu uz 900.98 Eur
+    3) Dienos pelnas: 39.88 Eur
+
+  T = 346
+    1) Nupirkta 4.60 t grudu uz 837.20 Eur
+    2) Parduota 7.72 t grudu uz 1301.73 Eur
+    3) Dienos pelnas: 464.53 Eur
+
+  T = 347
+    1) Nupirkta 5.70 t grudu uz 1402.20 Eur
+    2) Parduota 5.62 t grudu uz 1286.67 Eur
+    3) Dienos pelnas: -115.53 Eur
+
+  T = 348
+    1) Nupirkta 5.50 t grudu uz 1221.00 Eur
+    2) Parduota 7.13 t grudu uz 1641.48 Eur
+    3) Dienos pelnas: 420.48 Eur
+
+  T = 349
+    1) Nupirkta 5.20 t grudu uz 1050.40 Eur
+    2) Parduota 0.32 t grudu uz 68.37 Eur
+    3) Dienos pelnas: -982.03 Eur
+
+  T = 350
+    1) Nupirkta 4.50 t grudu uz 1152.00 Eur
+    2) Parduota 0.57 t grudu uz 116.59 Eur
+    3) Dienos pelnas: -1035.41 Eur
+
+  T = 351
+    1) Nupirkta 5.30 t grudu uz 1113.00 Eur
+    2) Parduota 14.25 t grudu uz 3196.21 Eur
+    3) Dienos pelnas: 2083.21 Eur
+
+  T = 352
+    1) Nupirkta 4.35 t grudu uz 852.60 Eur
+    2) Parduota 4.35 t grudu uz 861.13 Eur
+    3) Dienos pelnas: 8.53 Eur
+
+  T = 353
+    1) Nupirkta 4.25 t grudu uz 612.00 Eur
+    2) Parduota 2.72 t grudu uz 395.60 Eur
+    3) Dienos pelnas: -216.40 Eur
+
+  T = 354
+    1) Nupirkta 4.45 t grudu uz 747.60 Eur
+    2) Parduota 4.49 t grudu uz 723.93 Eur
+    3) Dienos pelnas: -23.67 Eur
+
+  T = 355
+    1) Nupirkta 5.15 t grudu uz 1184.50 Eur
+    2) Parduota 0.33 t grudu uz 56.38 Eur
+    3) Dienos pelnas: -1128.12 Eur
+
+  T = 356
+    1) Nupirkta 5.35 t grudu uz 995.10 Eur
+    2) Parduota 5.95 t grudu uz 1308.91 Eur
+    3) Dienos pelnas: 313.81 Eur
+
+  T = 357
+    1) Nupirkta 4.75 t grudu uz 931.00 Eur
+    2) Parduota 1.99 t grudu uz 389.73 Eur
+    3) Dienos pelnas: -541.27 Eur
+
+  T = 358
+    1) Nupirkta 5.60 t grudu uz 1355.20 Eur
+    2) Parduota 7.32 t grudu uz 1411.38 Eur
+    3) Dienos pelnas: 56.18 Eur
+
+  T = 359
+    1) Nupirkta 4.85 t grudu uz 989.40 Eur
+    2) Parduota 7.66 t grudu uz 1783.93 Eur
+    3) Dienos pelnas: 794.53 Eur
+
+  T = 360
+    1) Nupirkta 4.80 t grudu uz 1171.20 Eur
+    2) Parduota 2.71 t grudu uz 558.65 Eur
+    3) Dienos pelnas: -612.55 Eur
+
+  T = 361
+    1) Nupirkta 5.75 t grudu uz 989.00 Eur
+    2) Parduota 5.30 t grudu uz 1257.03 Eur
+    3) Dienos pelnas: 268.03 Eur
+
+  T = 362
+    1) Nupirkta 4.90 t grudu uz 1274.00 Eur
+    2) Parduota 4.44 t grudu uz 824.33 Eur
+    3) Dienos pelnas: -449.67 Eur
+
+  T = 363
+    1) Nupirkta 5.10 t grudu uz 907.80 Eur
+    2) Parduota 10.36 t grudu uz 2255.39 Eur
+    3) Dienos pelnas: 1347.59 Eur
+
+  T = 364
+    1) Nupirkta 5.20 t grudu uz 1092.00 Eur
+    2) Parduota 0.55 t grudu uz 99.04 Eur
+    3) Dienos pelnas: -992.96 Eur
+
+  T = 365
+    1) Nupirkta 4.45 t grudu uz 765.40 Eur
+    2) Parduota 0.54 t grudu uz 96.95 Eur
+    3) Dienos pelnas: -668.45 Eur
+
+  T = 366
+    1) Nupirkta 5.30 t grudu uz 1367.40 Eur
+    2) Parduota 4.04 t grudu uz 838.03 Eur
+    3) Dienos pelnas: -529.37 Eur
+
+  T = 367
+    1) Nupirkta 4.70 t grudu uz 827.20 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -827.20 Eur
+
+  T = 368
+    1) Nupirkta 5.60 t grudu uz 1008.00 Eur
+    2) Parduota 0.22 t grudu uz 46.25 Eur
+    3) Dienos pelnas: -961.75 Eur
+
+  T = 369
+    1) Nupirkta 4.60 t grudu uz 828.00 Eur
+    2) Parduota 17.02 t grudu uz 3503.52 Eur
+    3) Dienos pelnas: 2675.52 Eur
+
+  T = 370
+    1) Nupirkta 5.60 t grudu uz 1131.20 Eur
+    2) Parduota 7.23 t grudu uz 1315.30 Eur
+    3) Dienos pelnas: 184.10 Eur
+
+  T = 371
+    1) Nupirkta 5.30 t grudu uz 1038.80 Eur
+    2) Parduota 10.52 t grudu uz 2085.43 Eur
+    3) Dienos pelnas: 1046.63 Eur
+
+  T = 372
+    1) Nupirkta 4.40 t grudu uz 695.20 Eur
+    2) Parduota 4.76 t grudu uz 848.83 Eur
+    3) Dienos pelnas: 153.63 Eur
+
+  T = 373
+    1) Nupirkta 5.00 t grudu uz 1140.00 Eur
+    2) Parduota 4.10 t grudu uz 806.12 Eur
+    3) Dienos pelnas: -333.88 Eur
+
+  T = 374
+    1) Nupirkta 4.75 t grudu uz 1149.50 Eur
+    2) Parduota 5.24 t grudu uz 1241.09 Eur
+    3) Dienos pelnas: 91.59 Eur
+
+  T = 375
+    1) Nupirkta 4.55 t grudu uz 982.80 Eur
+    2) Parduota 3.18 t grudu uz 754.82 Eur
+    3) Dienos pelnas: -227.98 Eur
+
+  T = 376
+    1) Nupirkta 4.90 t grudu uz 1038.80 Eur
+    2) Parduota 5.00 t grudu uz 1086.68 Eur
+    3) Dienos pelnas: 47.88 Eur
+
+  T = 377
+    1) Nupirkta 5.25 t grudu uz 1092.00 Eur
+    2) Parduota 6.03 t grudu uz 1282.35 Eur
+    3) Dienos pelnas: 190.35 Eur
+
+  T = 378
+    1) Nupirkta 5.40 t grudu uz 1317.60 Eur
+    2) Parduota 3.96 t grudu uz 871.43 Eur
+    3) Dienos pelnas: -446.17 Eur
+
+  T = 379
+    1) Nupirkta 4.80 t grudu uz 777.60 Eur
+    2) Parduota 3.45 t grudu uz 850.75 Eur
+    3) Dienos pelnas: 73.15 Eur
+
+  T = 380
+    1) Nupirkta 4.85 t grudu uz 902.10 Eur
+    2) Parduota 8.81 t grudu uz 1586.58 Eur
+    3) Dienos pelnas: 684.48 Eur
+
+  T = 381
+    1) Nupirkta 5.15 t grudu uz 824.00 Eur
+    2) Parduota 2.39 t grudu uz 430.19 Eur
+    3) Dienos pelnas: -393.81 Eur
+
+  T = 382
+    1) Nupirkta 4.45 t grudu uz 1157.00 Eur
+    2) Parduota 7.11 t grudu uz 1418.92 Eur
+    3) Dienos pelnas: 261.92 Eur
+
+  T = 383
+    1) Nupirkta 4.80 t grudu uz 1008.00 Eur
+    2) Parduota 3.55 t grudu uz 843.12 Eur
+    3) Dienos pelnas: -164.88 Eur
+
+  T = 384
+    1) Nupirkta 5.70 t grudu uz 809.40 Eur
+    2) Parduota 6.37 t grudu uz 1121.35 Eur
+    3) Dienos pelnas: 311.95 Eur
+
+  T = 385
+    1) Nupirkta 4.30 t grudu uz 791.20 Eur
+    2) Parduota 2.93 t grudu uz 444.31 Eur
+    3) Dienos pelnas: -346.89 Eur
+
+  T = 386
+    1) Nupirkta 5.00 t grudu uz 910.00 Eur
+    2) Parduota 2.27 t grudu uz 421.69 Eur
+    3) Dienos pelnas: -488.31 Eur
+
+  T = 387
+    1) Nupirkta 5.50 t grudu uz 891.00 Eur
+    2) Parduota 9.69 t grudu uz 1718.25 Eur
+    3) Dienos pelnas: 827.25 Eur
+
+  T = 388
+    1) Nupirkta 5.70 t grudu uz 1197.00 Eur
+    2) Parduota 1.43 t grudu uz 234.79 Eur
+    3) Dienos pelnas: -962.21 Eur
+
+  T = 389
+    1) Nupirkta 5.35 t grudu uz 909.50 Eur
+    2) Parduota 3.09 t grudu uz 614.94 Eur
+    3) Dienos pelnas: -294.56 Eur
+
+  T = 390
+    1) Nupirkta 4.80 t grudu uz 1209.60 Eur
+    2) Parduota 3.40 t grudu uz 720.95 Eur
+    3) Dienos pelnas: -488.65 Eur
+
+  T = 391
+    1) Nupirkta 5.35 t grudu uz 845.30 Eur
+    2) Parduota 15.55 t grudu uz 3004.08 Eur
+    3) Dienos pelnas: 2158.78 Eur
+
+  T = 392
+    1) Nupirkta 4.65 t grudu uz 846.30 Eur
+    2) Parduota 1.39 t grudu uz 256.43 Eur
+    3) Dienos pelnas: -589.87 Eur
+
+  T = 393
+    1) Nupirkta 4.35 t grudu uz 922.20 Eur
+    2) Parduota 2.74 t grudu uz 503.26 Eur
+    3) Dienos pelnas: -418.94 Eur
+
+  T = 394
+    1) Nupirkta 5.15 t grudu uz 865.20 Eur
+    2) Parduota 8.61 t grudu uz 1662.39 Eur
+    3) Dienos pelnas: 797.19 Eur
+
+  T = 395
+    1) Nupirkta 5.65 t grudu uz 1062.20 Eur
+    2) Parduota 5.36 t grudu uz 989.40 Eur
+    3) Dienos pelnas: -72.80 Eur
+
+  T = 396
+    1) Nupirkta 5.50 t grudu uz 792.00 Eur
+    2) Parduota 6.76 t grudu uz 1058.54 Eur
+    3) Dienos pelnas: 266.54 Eur
+
+  T = 397
+    1) Nupirkta 5.55 t grudu uz 1332.00 Eur
+    2) Parduota 3.17 t grudu uz 726.62 Eur
+    3) Dienos pelnas: -605.38 Eur
+
+  T = 398
+    1) Nupirkta 4.65 t grudu uz 771.90 Eur
+    2) Parduota 3.58 t grudu uz 810.58 Eur
+    3) Dienos pelnas: 38.68 Eur
+
+  T = 399
+    1) Nupirkta 5.45 t grudu uz 850.20 Eur
+    2) Parduota 1.40 t grudu uz 234.64 Eur
+    3) Dienos pelnas: -615.56 Eur
+
+  T = 400
+    1) Nupirkta 4.70 t grudu uz 1005.80 Eur
+    2) Parduota 12.25 t grudu uz 2208.53 Eur
+    3) Dienos pelnas: 1202.73 Eur
+
+  T = 401
+    1) Nupirkta 4.90 t grudu uz 1058.40 Eur
+    2) Parduota 0.69 t grudu uz 148.95 Eur
+    3) Dienos pelnas: -909.45 Eur
+
+  T = 402
+    1) Nupirkta 4.40 t grudu uz 774.40 Eur
+    2) Parduota 2.25 t grudu uz 490.46 Eur
+    3) Dienos pelnas: -283.94 Eur
+
+  T = 403
+    1) Nupirkta 5.65 t grudu uz 847.50 Eur
+    2) Parduota 11.90 t grudu uz 2074.48 Eur
+    3) Dienos pelnas: 1226.98 Eur
+
+  T = 404
+    1) Nupirkta 5.65 t grudu uz 1389.90 Eur
+    2) Parduota 0.92 t grudu uz 180.98 Eur
+    3) Dienos pelnas: -1208.92 Eur
+
+  T = 405
+    1) Nupirkta 5.15 t grudu uz 1297.80 Eur
+    2) Parduota 9.23 t grudu uz 2318.27 Eur
+    3) Dienos pelnas: 1020.47 Eur
+
+  T = 406
+    1) Nupirkta 4.65 t grudu uz 1106.70 Eur
+    2) Parduota 1.04 t grudu uz 265.31 Eur
+    3) Dienos pelnas: -841.39 Eur
+
+  T = 407
+    1) Nupirkta 5.70 t grudu uz 1265.40 Eur
+    2) Parduota 7.52 t grudu uz 1764.96 Eur
+    3) Dienos pelnas: 499.56 Eur
+
+  T = 408
+    1) Nupirkta 4.45 t grudu uz 827.70 Eur
+    2) Parduota 2.21 t grudu uz 496.13 Eur
+    3) Dienos pelnas: -331.57 Eur
+
+  T = 409
+    1) Nupirkta 5.25 t grudu uz 861.00 Eur
+    2) Parduota 8.23 t grudu uz 1503.24 Eur
+    3) Dienos pelnas: 642.24 Eur
+
+  T = 410
+    1) Nupirkta 4.55 t grudu uz 737.10 Eur
+    2) Parduota 0.67 t grudu uz 111.59 Eur
+    3) Dienos pelnas: -625.51 Eur
+
+  T = 411
+    1) Nupirkta 5.75 t grudu uz 1449.00 Eur
+    2) Parduota 5.32 t grudu uz 872.84 Eur
+    3) Dienos pelnas: -576.16 Eur
+
+  T = 412
+    1) Nupirkta 5.30 t grudu uz 1038.80 Eur
+    2) Parduota 10.50 t grudu uz 2378.04 Eur
+    3) Dienos pelnas: 1339.24 Eur
+
+  T = 413
+    1) Nupirkta 5.10 t grudu uz 1183.20 Eur
+    2) Parduota 0.83 t grudu uz 164.64 Eur
+    3) Dienos pelnas: -1018.56 Eur
+
+  T = 414
+    1) Nupirkta 5.55 t grudu uz 1298.70 Eur
+    2) Parduota 9.78 t grudu uz 2283.71 Eur
+    3) Dienos pelnas: 985.01 Eur
+
+  T = 415
+    1) Nupirkta 5.70 t grudu uz 1436.40 Eur
+    2) Parduota 4.92 t grudu uz 1228.94 Eur
+    3) Dienos pelnas: -207.46 Eur
+
+  T = 416
+    1) Nupirkta 4.30 t grudu uz 791.20 Eur
+    2) Parduota 2.95 t grudu uz 692.91 Eur
+    3) Dienos pelnas: -98.29 Eur
+
+  T = 417
+    1) Nupirkta 4.25 t grudu uz 850.00 Eur
+    2) Parduota 0.39 t grudu uz 71.66 Eur
+    3) Dienos pelnas: -778.34 Eur
+
+  T = 418
+    1) Nupirkta 4.95 t grudu uz 881.10 Eur
+    2) Parduota 5.40 t grudu uz 1041.38 Eur
+    3) Dienos pelnas: 160.28 Eur
+
+  T = 419
+    1) Nupirkta 4.35 t grudu uz 1009.20 Eur
+    2) Parduota 9.43 t grudu uz 1877.13 Eur
+    3) Dienos pelnas: 867.93 Eur
+
+  T = 420
+    1) Nupirkta 5.60 t grudu uz 1052.80 Eur
+    2) Parduota 6.88 t grudu uz 1385.84 Eur
+    3) Dienos pelnas: 333.04 Eur
+
+  T = 421
+    1) Nupirkta 4.35 t grudu uz 852.60 Eur
+    2) Parduota 3.89 t grudu uz 766.71 Eur
+    3) Dienos pelnas: -85.89 Eur
+
+  T = 422
+    1) Nupirkta 4.65 t grudu uz 911.40 Eur
+    2) Parduota 4.05 t grudu uz 801.53 Eur
+    3) Dienos pelnas: -109.87 Eur
+
+  T = 423
+    1) Nupirkta 5.25 t grudu uz 1344.00 Eur
+    2) Parduota 6.28 t grudu uz 1527.98 Eur
+    3) Dienos pelnas: 183.98 Eur
+
+  T = 424
+    1) Nupirkta 5.05 t grudu uz 1262.50 Eur
+    2) Parduota 3.19 t grudu uz 808.71 Eur
+    3) Dienos pelnas: -453.79 Eur
+
+  T = 425
+    1) Nupirkta 4.30 t grudu uz 877.20 Eur
+    2) Parduota 0.13 t grudu uz 33.87 Eur
+    3) Dienos pelnas: -843.33 Eur
+
+  T = 426
+    1) Nupirkta 4.70 t grudu uz 940.00 Eur
+    2) Parduota 10.14 t grudu uz 2181.39 Eur
+    3) Dienos pelnas: 1241.39 Eur
+
+  T = 427
+    1) Nupirkta 5.40 t grudu uz 1123.20 Eur
+    2) Parduota 4.24 t grudu uz 882.20 Eur
+    3) Dienos pelnas: -241.00 Eur
+
+  T = 428
+    1) Nupirkta 4.85 t grudu uz 1037.90 Eur
+    2) Parduota 4.49 t grudu uz 957.65 Eur
+    3) Dienos pelnas: -80.25 Eur
+
+  T = 429
+    1) Nupirkta 4.50 t grudu uz 1143.00 Eur
+    2) Parduota 5.43 t grudu uz 1285.40 Eur
+    3) Dienos pelnas: 142.40 Eur
+
+  T = 430
+    1) Nupirkta 4.70 t grudu uz 799.00 Eur
+    2) Parduota 1.73 t grudu uz 442.70 Eur
+    3) Dienos pelnas: -356.30 Eur
+
+  T = 431
+    1) Nupirkta 5.40 t grudu uz 1360.80 Eur
+    2) Parduota 7.76 t grudu uz 1588.10 Eur
+    3) Dienos pelnas: 227.30 Eur
+
+  T = 432
+    1) Nupirkta 5.30 t grudu uz 1155.40 Eur
+    2) Parduota 6.25 t grudu uz 1455.19 Eur
+    3) Dienos pelnas: 299.79 Eur
+
+  T = 433
+    1) Nupirkta 4.60 t grudu uz 966.00 Eur
+    2) Parduota 5.97 t grudu uz 1277.61 Eur
+    3) Dienos pelnas: 311.61 Eur
+
+  T = 434
+    1) Nupirkta 5.35 t grudu uz 1358.90 Eur
+    2) Parduota 1.39 t grudu uz 356.85 Eur
+    3) Dienos pelnas: -1002.05 Eur
+
+  T = 435
+    1) Nupirkta 5.70 t grudu uz 1026.00 Eur
+    2) Parduota 8.21 t grudu uz 1788.50 Eur
+    3) Dienos pelnas: 762.50 Eur
+
+  T = 436
+    1) Nupirkta 5.50 t grudu uz 1111.00 Eur
+    2) Parduota 5.07 t grudu uz 1002.73 Eur
+    3) Dienos pelnas: -108.27 Eur
+
+  T = 437
+    1) Nupirkta 4.65 t grudu uz 1060.20 Eur
+    2) Parduota 1.37 t grudu uz 279.61 Eur
+    3) Dienos pelnas: -780.59 Eur
+
+  T = 438
+    1) Nupirkta 5.55 t grudu uz 987.90 Eur
+    2) Parduota 7.17 t grudu uz 1536.61 Eur
+    3) Dienos pelnas: 548.71 Eur
+
+  T = 439
+    1) Nupirkta 4.35 t grudu uz 809.10 Eur
+    2) Parduota 1.42 t grudu uz 255.09 Eur
+    3) Dienos pelnas: -554.01 Eur
+
+  T = 440
+    1) Nupirkta 5.20 t grudu uz 904.80 Eur
+    2) Parduota 10.61 t grudu uz 1926.60 Eur
+    3) Dienos pelnas: 1021.80 Eur
+
+  T = 441
+    1) Nupirkta 4.65 t grudu uz 1032.30 Eur
+    2) Parduota 3.25 t grudu uz 677.57 Eur
+    3) Dienos pelnas: -354.73 Eur
+
+  T = 442
+    1) Nupirkta 5.30 t grudu uz 964.60 Eur
+    2) Parduota 6.28 t grudu uz 1253.08 Eur
+    3) Dienos pelnas: 288.48 Eur
+
+  T = 443
+    1) Nupirkta 5.35 t grudu uz 1262.60 Eur
+    2) Parduota 6.41 t grudu uz 1448.36 Eur
+    3) Dienos pelnas: 185.76 Eur
+
+  T = 444
+    1) Nupirkta 5.00 t grudu uz 1000.00 Eur
+    2) Parduota 0.97 t grudu uz 211.57 Eur
+    3) Dienos pelnas: -788.43 Eur
+
+  T = 445
+    1) Nupirkta 5.60 t grudu uz 1254.40 Eur
+    2) Parduota 2.01 t grudu uz 405.44 Eur
+    3) Dienos pelnas: -848.96 Eur
+
+  T = 446
+    1) Nupirkta 4.65 t grudu uz 1069.50 Eur
+    2) Parduota 5.45 t grudu uz 1174.54 Eur
+    3) Dienos pelnas: 105.04 Eur
+
+  T = 447
+    1) Nupirkta 5.70 t grudu uz 889.20 Eur
+    2) Parduota 0.26 t grudu uz 58.49 Eur
+    3) Dienos pelnas: -830.71 Eur
+
+  T = 448
+    1) Nupirkta 5.75 t grudu uz 1069.50 Eur
+    2) Parduota 9.95 t grudu uz 2073.82 Eur
+    3) Dienos pelnas: 1004.32 Eur
+
+  T = 449
+    1) Nupirkta 4.95 t grudu uz 702.90 Eur
+    2) Parduota 0.13 t grudu uz 21.15 Eur
+    3) Dienos pelnas: -681.75 Eur
+
+  T = 450
+    1) Nupirkta 5.45 t grudu uz 773.90 Eur
+    2) Parduota 16.68 t grudu uz 2683.94 Eur
+    3) Dienos pelnas: 1910.04 Eur
+
+  T = 451
+    1) Nupirkta 5.10 t grudu uz 1081.20 Eur
+    2) Parduota 4.01 t grudu uz 712.95 Eur
+    3) Dienos pelnas: -368.25 Eur
+
+  T = 452
+    1) Nupirkta 4.60 t grudu uz 644.00 Eur
+    2) Parduota 2.33 t grudu uz 497.89 Eur
+    3) Dienos pelnas: -146.11 Eur
+
+  T = 453
+    1) Nupirkta 5.65 t grudu uz 1231.70 Eur
+    2) Parduota 3.10 t grudu uz 498.55 Eur
+    3) Dienos pelnas: -733.15 Eur
+
+  T = 454
+    1) Nupirkta 5.40 t grudu uz 1274.40 Eur
+    2) Parduota 2.81 t grudu uz 435.28 Eur
+    3) Dienos pelnas: -839.12 Eur
+
+  T = 455
+    1) Nupirkta 4.80 t grudu uz 1219.20 Eur
+    2) Parduota 1.23 t grudu uz 270.66 Eur
+    3) Dienos pelnas: -948.54 Eur
+
+  T = 456
+    1) Nupirkta 4.70 t grudu uz 855.40 Eur
+    2) Parduota 1.51 t grudu uz 331.79 Eur
+    3) Dienos pelnas: -523.61 Eur
+
+  T = 457
+    1) Nupirkta 5.50 t grudu uz 825.00 Eur
+    2) Parduota 18.04 t grudu uz 4024.37 Eur
+    3) Dienos pelnas: 3199.37 Eur
+
+  T = 458
+    1) Nupirkta 4.25 t grudu uz 875.50 Eur
+    2) Parduota 1.90 t grudu uz 287.74 Eur
+    3) Dienos pelnas: -587.76 Eur
+
+  T = 459
+    1) Nupirkta 4.30 t grudu uz 885.80 Eur
+    2) Parduota 5.72 t grudu uz 1026.88 Eur
+    3) Dienos pelnas: 141.08 Eur
+
+  T = 460
+    1) Nupirkta 4.95 t grudu uz 702.90 Eur
+    2) Parduota 4.06 t grudu uz 843.80 Eur
+    3) Dienos pelnas: 140.90 Eur
+
+  T = 461
+    1) Nupirkta 4.30 t grudu uz 1118.00 Eur
+    2) Parduota 9.50 t grudu uz 1813.25 Eur
+    3) Dienos pelnas: 695.25 Eur
+
+  T = 462
+    1) Nupirkta 4.75 t grudu uz 779.00 Eur
+    2) Parduota 2.28 t grudu uz 515.70 Eur
+    3) Dienos pelnas: -263.30 Eur
+
+  T = 463
+    1) Nupirkta 4.30 t grudu uz 679.40 Eur
+    2) Parduota 0.33 t grudu uz 54.24 Eur
+    3) Dienos pelnas: -625.16 Eur
+
+  T = 464
+    1) Nupirkta 4.85 t grudu uz 960.30 Eur
+    2) Parduota 8.26 t grudu uz 1356.08 Eur
+    3) Dienos pelnas: 395.78 Eur
+
+  T = 465
+    1) Nupirkta 4.45 t grudu uz 916.70 Eur
+    2) Parduota 1.60 t grudu uz 320.30 Eur
+    3) Dienos pelnas: -596.40 Eur
+
+  T = 466
+    1) Nupirkta 4.65 t grudu uz 911.40 Eur
+    2) Parduota 2.75 t grudu uz 549.49 Eur
+    3) Dienos pelnas: -361.91 Eur
+
+  T = 467
+    1) Nupirkta 5.25 t grudu uz 1312.50 Eur
+    2) Parduota 6.65 t grudu uz 1360.88 Eur
+    3) Dienos pelnas: 48.38 Eur
+
+  T = 468
+    1) Nupirkta 5.35 t grudu uz 1380.30 Eur
+    2) Parduota 1.32 t grudu uz 260.36 Eur
+    3) Dienos pelnas: -1119.94 Eur
+
+  T = 469
+    1) Nupirkta 4.50 t grudu uz 1026.00 Eur
+    2) Parduota 9.80 t grudu uz 2434.39 Eur
+    3) Dienos pelnas: 1408.39 Eur
+
+  T = 470
+    1) Nupirkta 4.70 t grudu uz 714.40 Eur
+    2) Parduota 2.70 t grudu uz 682.57 Eur
+    3) Dienos pelnas: -31.83 Eur
+
+  T = 471
+    1) Nupirkta 5.00 t grudu uz 1170.00 Eur
+    2) Parduota 9.75 t grudu uz 1891.26 Eur
+    3) Dienos pelnas: 721.26 Eur
+
+  T = 472
+    1) Nupirkta 4.80 t grudu uz 758.40 Eur
+    2) Parduota 4.64 t grudu uz 1031.27 Eur
+    3) Dienos pelnas: 272.87 Eur
+
+  T = 473
+    1) Nupirkta 5.55 t grudu uz 1420.80 Eur
+    2) Parduota 0.10 t grudu uz 15.16 Eur
+    3) Dienos pelnas: -1405.64 Eur
+
+  T = 474
+    1) Nupirkta 4.45 t grudu uz 1050.20 Eur
+    2) Parduota 0.28 t grudu uz 44.23 Eur
+    3) Dienos pelnas: -1005.97 Eur
+
+  T = 475
+    1) Nupirkta 5.00 t grudu uz 1010.00 Eur
+    2) Parduota 10.59 t grudu uz 2354.43 Eur
+    3) Dienos pelnas: 1344.43 Eur
+
+  T = 476
+    1) Nupirkta 4.75 t grudu uz 1168.50 Eur
+    2) Parduota 1.15 t grudu uz 273.29 Eur
+    3) Dienos pelnas: -895.21 Eur
+
+  T = 477
+    1) Nupirkta 4.45 t grudu uz 631.90 Eur
+    2) Parduota 5.13 t grudu uz 1110.65 Eur
+    3) Dienos pelnas: 478.75 Eur
+
+  T = 478
+    1) Nupirkta 5.20 t grudu uz 1008.80 Eur
+    2) Parduota 15.14 t grudu uz 2996.59 Eur
+    3) Dienos pelnas: 1987.79 Eur
+
+  T = 479
+    1) Nupirkta 5.10 t grudu uz 1203.60 Eur
+    2) Parduota 5.22 t grudu uz 1202.58 Eur
+    3) Dienos pelnas: -1.02 Eur
+
+  T = 480
+    1) Nupirkta 5.45 t grudu uz 1111.80 Eur
+    2) Parduota 4.72 t grudu uz 1000.88 Eur
+    3) Dienos pelnas: -110.92 Eur
+
+  T = 481
+    1) Nupirkta 5.60 t grudu uz 974.40 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -974.40 Eur
+
+  T = 482
+    1) Nupirkta 5.55 t grudu uz 1343.10 Eur
+    2) Parduota 0.38 t grudu uz 78.65 Eur
+    3) Dienos pelnas: -1264.45 Eur
+
+  T = 483
+    1) Nupirkta 5.35 t grudu uz 1187.70 Eur
+    2) Parduota 0.35 t grudu uz 72.91 Eur
+    3) Dienos pelnas: -1114.79 Eur
+
+  T = 484
+    1) Nupirkta 5.40 t grudu uz 1004.40 Eur
+    2) Parduota 5.00 t grudu uz 904.59 Eur
+    3) Dienos pelnas: -99.81 Eur
+
+  T = 485
+    1) Nupirkta 4.25 t grudu uz 892.50 Eur
+    2) Parduota 16.93 t grudu uz 3671.43 Eur
+    3) Dienos pelnas: 2778.93 Eur
+
+  T = 486
+    1) Nupirkta 4.55 t grudu uz 700.70 Eur
+    2) Parduota 6.24 t grudu uz 1237.73 Eur
+    3) Dienos pelnas: 537.03 Eur
+
+  T = 487
+    1) Nupirkta 4.95 t grudu uz 1138.50 Eur
+    2) Parduota 1.08 t grudu uz 168.08 Eur
+    3) Dienos pelnas: -970.42 Eur
+
+  T = 488
+    1) Nupirkta 4.85 t grudu uz 989.40 Eur
+    2) Parduota 5.80 t grudu uz 1172.02 Eur
+    3) Dienos pelnas: 182.62 Eur
+
+  T = 489
+    1) Nupirkta 4.50 t grudu uz 909.00 Eur
+    2) Parduota 7.76 t grudu uz 1634.20 Eur
+    3) Dienos pelnas: 725.20 Eur
+
+  T = 490
+    1) Nupirkta 5.70 t grudu uz 1311.00 Eur
+    2) Parduota 7.32 t grudu uz 1616.00 Eur
+    3) Dienos pelnas: 305.00 Eur
+
+  T = 491
+    1) Nupirkta 5.45 t grudu uz 872.00 Eur
+    2) Parduota 6.16 t grudu uz 1094.18 Eur
+    3) Dienos pelnas: 222.18 Eur
+
+  T = 492
+    1) Nupirkta 4.40 t grudu uz 668.80 Eur
+    2) Parduota 4.42 t grudu uz 684.63 Eur
+    3) Dienos pelnas: 15.83 Eur
+
+  T = 493
+    1) Nupirkta 5.50 t grudu uz 1089.00 Eur
+    2) Parduota 0.80 t grudu uz 129.46 Eur
+    3) Dienos pelnas: -959.54 Eur
+
+  T = 494
+    1) Nupirkta 4.65 t grudu uz 1004.40 Eur
+    2) Parduota 5.21 t grudu uz 1040.94 Eur
+    3) Dienos pelnas: 36.54 Eur
+
+  T = 495
+    1) Nupirkta 4.40 t grudu uz 915.20 Eur
+    2) Parduota 1.66 t grudu uz 358.65 Eur
+    3) Dienos pelnas: -556.55 Eur
+
+  T = 496
+    1) Nupirkta 4.40 t grudu uz 1144.00 Eur
+    2) Parduota 5.97 t grudu uz 1280.45 Eur
+    3) Dienos pelnas: 136.45 Eur
+
+  T = 497
+    1) Nupirkta 5.10 t grudu uz 897.60 Eur
+    2) Parduota 8.19 t grudu uz 1880.86 Eur
+    3) Dienos pelnas: 983.26 Eur
+
+  T = 498
+    1) Nupirkta 4.30 t grudu uz 928.80 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -928.80 Eur
+
+  T = 499
+    1) Nupirkta 4.25 t grudu uz 782.00 Eur
+    2) Parduota 1.94 t grudu uz 345.38 Eur
+    3) Dienos pelnas: -436.62 Eur
+
+  T = 500
+    1) Nupirkta 4.60 t grudu uz 782.00 Eur
+    2) Parduota 5.92 t grudu uz 1230.88 Eur
+    3) Dienos pelnas: 448.88 Eur
+
+
+LIFO supirkimo metodas:
+  T = 1
+    1) Nupirkta 4.60 t grudu uz 993.60 Eur
+    2) Parduota 4.42 t grudu uz 963.39 Eur
+    3) Dienos pelnas: -30.21 Eur
+
+  T = 2
+    1) Nupirkta 4.40 t grudu uz 633.60 Eur
+    2) Parduota 3.44 t grudu uz 540.16 Eur
+    3) Dienos pelnas: -93.44 Eur
+
+  T = 3
+    1) Nupirkta 5.10 t grudu uz 958.80 Eur
+    2) Parduota 4.50 t grudu uz 757.36 Eur
+    3) Dienos pelnas: -201.44 Eur
+
+  T = 4
+    1) Nupirkta 4.80 t grudu uz 777.60 Eur
+    2) Parduota 5.83 t grudu uz 962.86 Eur
+    3) Dienos pelnas: 185.26 Eur
+
+  T = 5
+    1) Nupirkta 5.15 t grudu uz 1050.60 Eur
+    2) Parduota 5.11 t grudu uz 849.69 Eur
+    3) Dienos pelnas: -200.91 Eur
+
+  T = 6
+    1) Nupirkta 4.25 t grudu uz 1037.00 Eur
+    2) Parduota 2.86 t grudu uz 623.20 Eur
+    3) Dienos pelnas: -413.80 Eur
+
+  T = 7
+    1) Nupirkta 4.90 t grudu uz 833.00 Eur
+    2) Parduota 0.35 t grudu uz 65.84 Eur
+    3) Dienos pelnas: -767.16 Eur
+
+  T = 8
+    1) Nupirkta 5.40 t grudu uz 1328.40 Eur
+    2) Parduota 9.32 t grudu uz 1970.48 Eur
+    3) Dienos pelnas: 642.08 Eur
+
+  T = 9
+    1) Nupirkta 4.65 t grudu uz 790.50 Eur
+    2) Parduota 4.16 t grudu uz 842.04 Eur
+    3) Dienos pelnas: 51.54 Eur
+
+  T = 10
+    1) Nupirkta 4.75 t grudu uz 826.50 Eur
+    2) Parduota 5.69 t grudu uz 1082.95 Eur
+    3) Dienos pelnas: 256.45 Eur
+
+  T = 11
+    1) Nupirkta 5.00 t grudu uz 1180.00 Eur
+    2) Parduota 3.44 t grudu uz 771.92 Eur
+    3) Dienos pelnas: -408.08 Eur
+
+  T = 12
+    1) Nupirkta 5.70 t grudu uz 1379.40 Eur
+    2) Parduota 3.74 t grudu uz 863.23 Eur
+    3) Dienos pelnas: -516.17 Eur
+
+  T = 13
+    1) Nupirkta 5.05 t grudu uz 1020.10 Eur
+    2) Parduota 5.45 t grudu uz 1194.82 Eur
+    3) Dienos pelnas: 174.72 Eur
+
+  T = 14
+    1) Nupirkta 5.40 t grudu uz 1166.40 Eur
+    2) Parduota 7.05 t grudu uz 1589.37 Eur
+    3) Dienos pelnas: 422.97 Eur
+
+  T = 15
+    1) Nupirkta 5.70 t grudu uz 900.60 Eur
+    2) Parduota 7.79 t grudu uz 1515.92 Eur
+    3) Dienos pelnas: 615.32 Eur
+
+  T = 16
+    1) Nupirkta 4.45 t grudu uz 836.60 Eur
+    2) Parduota 2.09 t grudu uz 415.97 Eur
+    3) Dienos pelnas: -420.63 Eur
+
+  T = 17
+    1) Nupirkta 5.15 t grudu uz 731.30 Eur
+    2) Parduota 1.29 t grudu uz 221.57 Eur
+    3) Dienos pelnas: -509.73 Eur
+
+  T = 18
+    1) Nupirkta 4.60 t grudu uz 1058.00 Eur
+    2) Parduota 11.77 t grudu uz 2224.46 Eur
+    3) Dienos pelnas: 1166.46 Eur
+
+  T = 19
+    1) Nupirkta 4.65 t grudu uz 762.60 Eur
+    2) Parduota 1.89 t grudu uz 313.19 Eur
+    3) Dienos pelnas: -449.41 Eur
+
+  T = 20
+    1) Nupirkta 4.40 t grudu uz 800.80 Eur
+    2) Parduota 3.80 t grudu uz 639.17 Eur
+    3) Dienos pelnas: -161.63 Eur
+
+  T = 21
+    1) Nupirkta 5.45 t grudu uz 893.80 Eur
+    2) Parduota 0.96 t grudu uz 159.64 Eur
+    3) Dienos pelnas: -734.16 Eur
+
+  T = 22
+    1) Nupirkta 4.30 t grudu uz 1118.00 Eur
+    2) Parduota 8.13 t grudu uz 1498.36 Eur
+    3) Dienos pelnas: 380.36 Eur
+
+  T = 23
+    1) Nupirkta 4.40 t grudu uz 712.80 Eur
+    2) Parduota 2.94 t grudu uz 490.16 Eur
+    3) Dienos pelnas: -222.64 Eur
+
+  T = 24
+    1) Nupirkta 4.90 t grudu uz 1166.20 Eur
+    2) Parduota 7.35 t grudu uz 1386.32 Eur
+    3) Dienos pelnas: 220.12 Eur
+
+  T = 25
+    1) Nupirkta 4.45 t grudu uz 863.30 Eur
+    2) Parduota 7.99 t grudu uz 1415.62 Eur
+    3) Dienos pelnas: 552.32 Eur
+
+  T = 26
+    1) Nupirkta 4.40 t grudu uz 704.00 Eur
+    2) Parduota 3.44 t grudu uz 582.44 Eur
+    3) Dienos pelnas: -121.56 Eur
+
+  T = 27
+    1) Nupirkta 5.70 t grudu uz 1117.20 Eur
+    2) Parduota 3.94 t grudu uz 733.72 Eur
+    3) Dienos pelnas: -383.48 Eur
+
+  T = 28
+    1) Nupirkta 4.40 t grudu uz 1012.00 Eur
+    2) Parduota 7.00 t grudu uz 1426.06 Eur
+    3) Dienos pelnas: 414.06 Eur
+
+  T = 29
+    1) Nupirkta 5.30 t grudu uz 1166.00 Eur
+    2) Parduota 1.64 t grudu uz 359.98 Eur
+    3) Dienos pelnas: -806.02 Eur
+
+  T = 30
+    1) Nupirkta 5.75 t grudu uz 1322.50 Eur
+    2) Parduota 5.57 t grudu uz 1223.23 Eur
+    3) Dienos pelnas: -99.27 Eur
+
+  T = 31
+    1) Nupirkta 4.25 t grudu uz 1003.00 Eur
+    2) Parduota 4.65 t grudu uz 1060.76 Eur
+    3) Dienos pelnas: 57.76 Eur
+
+  T = 32
+    1) Nupirkta 4.35 t grudu uz 791.70 Eur
+    2) Parduota 5.71 t grudu uz 1165.10 Eur
+    3) Dienos pelnas: 373.40 Eur
+
+  T = 33
+    1) Nupirkta 5.65 t grudu uz 1412.50 Eur
+    2) Parduota 2.27 t grudu uz 538.54 Eur
+    3) Dienos pelnas: -873.96 Eur
+
+  T = 34
+    1) Nupirkta 4.30 t grudu uz 791.20 Eur
+    2) Parduota 5.98 t grudu uz 1315.22 Eur
+    3) Dienos pelnas: 524.02 Eur
+
+  T = 35
+    1) Nupirkta 4.95 t grudu uz 970.20 Eur
+    2) Parduota 2.09 t grudu uz 456.12 Eur
+    3) Dienos pelnas: -514.08 Eur
+
+  T = 36
+    1) Nupirkta 4.40 t grudu uz 765.60 Eur
+    2) Parduota 5.36 t grudu uz 1099.80 Eur
+    3) Dienos pelnas: 334.20 Eur
+
+  T = 37
+    1) Nupirkta 5.20 t grudu uz 1112.80 Eur
+    2) Parduota 9.33 t grudu uz 2066.44 Eur
+    3) Dienos pelnas: 953.64 Eur
+
+  T = 38
+    1) Nupirkta 5.25 t grudu uz 819.00 Eur
+    2) Parduota 4.37 t grudu uz 861.41 Eur
+    3) Dienos pelnas: 42.41 Eur
+
+  T = 39
+    1) Nupirkta 5.25 t grudu uz 1312.50 Eur
+    2) Parduota 1.45 t grudu uz 331.64 Eur
+    3) Dienos pelnas: -980.86 Eur
+
+  T = 40
+    1) Nupirkta 4.80 t grudu uz 1113.60 Eur
+    2) Parduota 7.29 t grudu uz 1645.73 Eur
+    3) Dienos pelnas: 532.13 Eur
+
+  T = 41
+    1) Nupirkta 5.25 t grudu uz 1281.00 Eur
+    2) Parduota 0.75 t grudu uz 173.11 Eur
+    3) Dienos pelnas: -1107.89 Eur
+
+  T = 42
+    1) Nupirkta 4.30 t grudu uz 645.00 Eur
+    2) Parduota 0.39 t grudu uz 79.90 Eur
+    3) Dienos pelnas: -565.10 Eur
+
+  T = 43
+    1) Nupirkta 4.40 t grudu uz 818.40 Eur
+    2) Parduota 9.30 t grudu uz 1922.02 Eur
+    3) Dienos pelnas: 1103.62 Eur
+
+  T = 44
+    1) Nupirkta 4.85 t grudu uz 737.20 Eur
+    2) Parduota 9.35 t grudu uz 1974.87 Eur
+    3) Dienos pelnas: 1237.67 Eur
+
+  T = 45
+    1) Nupirkta 5.05 t grudu uz 747.40 Eur
+    2) Parduota 3.76 t grudu uz 703.26 Eur
+    3) Dienos pelnas: -44.14 Eur
+
+  T = 46
+    1) Nupirkta 4.75 t grudu uz 703.00 Eur
+    2) Parduota 3.85 t grudu uz 695.57 Eur
+    3) Dienos pelnas: -7.43 Eur
+
+  T = 47
+    1) Nupirkta 5.60 t grudu uz 1332.80 Eur
+    2) Parduota 1.86 t grudu uz 381.12 Eur
+    3) Dienos pelnas: -951.68 Eur
+
+  T = 48
+    1) Nupirkta 4.30 t grudu uz 980.40 Eur
+    2) Parduota 0.80 t grudu uz 170.20 Eur
+    3) Dienos pelnas: -810.20 Eur
+
+  T = 49
+    1) Nupirkta 4.55 t grudu uz 1037.40 Eur
+    2) Parduota 4.62 t grudu uz 1002.49 Eur
+    3) Dienos pelnas: -34.91 Eur
+
+  T = 50
+    1) Nupirkta 5.35 t grudu uz 1080.70 Eur
+    2) Parduota 4.82 t grudu uz 1020.65 Eur
+    3) Dienos pelnas: -60.05 Eur
+
+  T = 51
+    1) Nupirkta 5.15 t grudu uz 1215.40 Eur
+    2) Parduota 7.63 t grudu uz 1650.15 Eur
+    3) Dienos pelnas: 434.75 Eur
+
+  T = 52
+    1) Nupirkta 4.25 t grudu uz 799.00 Eur
+    2) Parduota 8.13 t grudu uz 1637.53 Eur
+    3) Dienos pelnas: 838.53 Eur
+
+  T = 53
+    1) Nupirkta 4.45 t grudu uz 649.70 Eur
+    2) Parduota 9.88 t grudu uz 1826.88 Eur
+    3) Dienos pelnas: 1177.18 Eur
+
+  T = 54
+    1) Nupirkta 5.65 t grudu uz 1457.70 Eur
+    2) Parduota 5.43 t grudu uz 1189.50 Eur
+    3) Dienos pelnas: -268.20 Eur
+
+  T = 55
+    1) Nupirkta 4.65 t grudu uz 892.80 Eur
+    2) Parduota 4.14 t grudu uz 880.73 Eur
+    3) Dienos pelnas: -12.07 Eur
+
+  T = 56
+    1) Nupirkta 4.90 t grudu uz 891.80 Eur
+    2) Parduota 5.55 t grudu uz 1078.92 Eur
+    3) Dienos pelnas: 187.12 Eur
+
+  T = 57
+    1) Nupirkta 5.65 t grudu uz 1344.70 Eur
+    2) Parduota 1.11 t grudu uz 260.97 Eur
+    3) Dienos pelnas: -1083.73 Eur
+
+  T = 58
+    1) Nupirkta 4.40 t grudu uz 871.20 Eur
+    2) Parduota 9.52 t grudu uz 2151.79 Eur
+    3) Dienos pelnas: 1280.59 Eur
+
+  T = 59
+    1) Nupirkta 4.60 t grudu uz 1186.80 Eur
+    2) Parduota 5.32 t grudu uz 1310.20 Eur
+    3) Dienos pelnas: 123.40 Eur
+
+  T = 60
+    1) Nupirkta 4.25 t grudu uz 867.00 Eur
+    2) Parduota 2.25 t grudu uz 464.11 Eur
+    3) Dienos pelnas: -402.89 Eur
+
+  T = 61
+    1) Nupirkta 5.05 t grudu uz 1313.00 Eur
+    2) Parduota 2.82 t grudu uz 664.95 Eur
+    3) Dienos pelnas: -648.05 Eur
+
+  T = 62
+    1) Nupirkta 5.45 t grudu uz 1079.10 Eur
+    2) Parduota 8.90 t grudu uz 1953.66 Eur
+    3) Dienos pelnas: 874.56 Eur
+
+  T = 63
+    1) Nupirkta 5.40 t grudu uz 1231.20 Eur
+    2) Parduota 3.64 t grudu uz 811.86 Eur
+    3) Dienos pelnas: -419.34 Eur
+
+  T = 64
+    1) Nupirkta 5.60 t grudu uz 1321.60 Eur
+    2) Parduota 1.38 t grudu uz 321.46 Eur
+    3) Dienos pelnas: -1000.14 Eur
+
+  T = 65
+    1) Nupirkta 5.55 t grudu uz 799.20 Eur
+    2) Parduota 4.06 t grudu uz 879.86 Eur
+    3) Dienos pelnas: 80.66 Eur
+
+  T = 66
+    1) Nupirkta 4.25 t grudu uz 1054.00 Eur
+    2) Parduota 11.12 t grudu uz 2524.90 Eur
+    3) Dienos pelnas: 1470.90 Eur
+
+  T = 67
+    1) Nupirkta 5.45 t grudu uz 1286.20 Eur
+    2) Parduota 5.80 t grudu uz 1349.46 Eur
+    3) Dienos pelnas: 63.26 Eur
+
+  T = 68
+    1) Nupirkta 4.95 t grudu uz 821.70 Eur
+    2) Parduota 5.50 t grudu uz 981.39 Eur
+    3) Dienos pelnas: 159.69 Eur
+
+  T = 69
+    1) Nupirkta 5.40 t grudu uz 1177.20 Eur
+    2) Parduota 0.24 t grudu uz 51.49 Eur
+    3) Dienos pelnas: -1125.71 Eur
+
+  T = 70
+    1) Nupirkta 4.25 t grudu uz 731.00 Eur
+    2) Parduota 7.91 t grudu uz 1642.31 Eur
+    3) Dienos pelnas: 911.31 Eur
+
+  T = 71
+    1) Nupirkta 5.00 t grudu uz 1020.00 Eur
+    2) Parduota 4.95 t grudu uz 1072.83 Eur
+    3) Dienos pelnas: 52.83 Eur
+
+  T = 72
+    1) Nupirkta 5.35 t grudu uz 898.80 Eur
+    2) Parduota 1.47 t grudu uz 273.94 Eur
+    3) Dienos pelnas: -624.86 Eur
+
+  T = 73
+    1) Nupirkta 5.55 t grudu uz 843.60 Eur
+    2) Parduota 8.93 t grudu uz 1644.99 Eur
+    3) Dienos pelnas: 801.39 Eur
+
+  T = 74
+    1) Nupirkta 5.20 t grudu uz 863.20 Eur
+    2) Parduota 3.24 t grudu uz 615.87 Eur
+    3) Dienos pelnas: -247.33 Eur
+
+  T = 75
+    1) Nupirkta 4.75 t grudu uz 741.00 Eur
+    2) Parduota 1.11 t grudu uz 194.24 Eur
+    3) Dienos pelnas: -546.76 Eur
+
+  T = 76
+    1) Nupirkta 5.00 t grudu uz 730.00 Eur
+    2) Parduota 0.79 t grudu uz 130.57 Eur
+    3) Dienos pelnas: -599.43 Eur
+
+  T = 77
+    1) Nupirkta 5.70 t grudu uz 1470.60 Eur
+    2) Parduota 3.43 t grudu uz 618.83 Eur
+    3) Dienos pelnas: -851.77 Eur
+
+  T = 78
+    1) Nupirkta 4.45 t grudu uz 712.00 Eur
+    2) Parduota 14.10 t grudu uz 2484.87 Eur
+    3) Dienos pelnas: 1772.87 Eur
+
+  T = 79
+    1) Nupirkta 4.50 t grudu uz 972.00 Eur
+    2) Parduota 5.77 t grudu uz 1150.92 Eur
+    3) Dienos pelnas: 178.92 Eur
+
+  T = 80
+    1) Nupirkta 4.40 t grudu uz 712.80 Eur
+    2) Parduota 3.40 t grudu uz 638.89 Eur
+    3) Dienos pelnas: -73.91 Eur
+
+  T = 81
+    1) Nupirkta 5.30 t grudu uz 1091.80 Eur
+    2) Parduota 4.50 t grudu uz 858.76 Eur
+    3) Dienos pelnas: -233.04 Eur
+
+  T = 82
+    1) Nupirkta 5.30 t grudu uz 1187.20 Eur
+    2) Parduota 4.32 t grudu uz 847.85 Eur
+    3) Dienos pelnas: -339.35 Eur
+
+  T = 83
+    1) Nupirkta 5.65 t grudu uz 1163.90 Eur
+    2) Parduota 8.37 t grudu uz 1667.48 Eur
+    3) Dienos pelnas: 503.58 Eur
+
+  T = 84
+    1) Nupirkta 4.85 t grudu uz 1222.20 Eur
+    2) Parduota 3.01 t grudu uz 644.74 Eur
+    3) Dienos pelnas: -577.46 Eur
+
+  T = 85
+    1) Nupirkta 4.90 t grudu uz 1097.60 Eur
+    2) Parduota 0.31 t grudu uz 69.11 Eur
+    3) Dienos pelnas: -1028.49 Eur
+
+  T = 86
+    1) Nupirkta 5.60 t grudu uz 1388.80 Eur
+    2) Parduota 7.57 t grudu uz 1721.03 Eur
+    3) Dienos pelnas: 332.23 Eur
+
+  T = 87
+    1) Nupirkta 5.05 t grudu uz 777.70 Eur
+    2) Parduota 6.10 t grudu uz 1207.35 Eur
+    3) Dienos pelnas: 429.65 Eur
+
+  T = 88
+    1) Nupirkta 4.40 t grudu uz 836.00 Eur
+    2) Parduota 11.33 t grudu uz 2373.35 Eur
+    3) Dienos pelnas: 1537.35 Eur
+
+  T = 89
+    1) Nupirkta 5.00 t grudu uz 1200.00 Eur
+    2) Parduota 5.13 t grudu uz 1230.04 Eur
+    3) Dienos pelnas: 30.04 Eur
+
+  T = 90
+    1) Nupirkta 5.35 t grudu uz 1091.40 Eur
+    2) Parduota 1.42 t grudu uz 292.21 Eur
+    3) Dienos pelnas: -799.19 Eur
+
+  T = 91
+    1) Nupirkta 4.55 t grudu uz 1019.20 Eur
+    2) Parduota 3.01 t grudu uz 636.00 Eur
+    3) Dienos pelnas: -383.20 Eur
+
+  T = 92
+    1) Nupirkta 4.30 t grudu uz 946.00 Eur
+    2) Parduota 1.98 t grudu uz 424.37 Eur
+    3) Dienos pelnas: -521.63 Eur
+
+  T = 93
+    1) Nupirkta 4.30 t grudu uz 782.60 Eur
+    2) Parduota 1.22 t grudu uz 251.51 Eur
+    3) Dienos pelnas: -531.09 Eur
+
+  T = 94
+    1) Nupirkta 5.55 t grudu uz 1010.10 Eur
+    2) Parduota 15.21 t grudu uz 3121.87 Eur
+    3) Dienos pelnas: 2111.77 Eur
+
+  T = 95
+    1) Nupirkta 4.90 t grudu uz 735.00 Eur
+    2) Parduota 5.72 t grudu uz 969.13 Eur
+    3) Dienos pelnas: 234.13 Eur
+
+  T = 96
+    1) Nupirkta 4.70 t grudu uz 1071.60 Eur
+    2) Parduota 4.16 t grudu uz 909.29 Eur
+    3) Dienos pelnas: -162.31 Eur
+
+  T = 97
+    1) Nupirkta 4.35 t grudu uz 1113.60 Eur
+    2) Parduota 4.31 t grudu uz 948.96 Eur
+    3) Dienos pelnas: -164.64 Eur
+
+  T = 98
+    1) Nupirkta 4.55 t grudu uz 1073.80 Eur
+    2) Parduota 1.13 t grudu uz 263.37 Eur
+    3) Dienos pelnas: -810.43 Eur
+
+  T = 99
+    1) Nupirkta 5.50 t grudu uz 1331.00 Eur
+    2) Parduota 9.50 t grudu uz 2239.39 Eur
+    3) Dienos pelnas: 908.39 Eur
+
+  T = 100
+    1) Nupirkta 5.60 t grudu uz 1176.00 Eur
+    2) Parduota 1.46 t grudu uz 309.58 Eur
+    3) Dienos pelnas: -866.42 Eur
+
+  T = 101
+    1) Nupirkta 5.40 t grudu uz 831.60 Eur
+    2) Parduota 1.61 t grudu uz 299.14 Eur
+    3) Dienos pelnas: -532.46 Eur
+
+  T = 102
+    1) Nupirkta 5.55 t grudu uz 1298.70 Eur
+    2) Parduota 4.89 t grudu uz 929.25 Eur
+    3) Dienos pelnas: -369.45 Eur
+
+  T = 103
+    1) Nupirkta 4.65 t grudu uz 1106.70 Eur
+    2) Parduota 0.41 t grudu uz 84.88 Eur
+    3) Dienos pelnas: -1021.82 Eur
+
+  T = 104
+    1) Nupirkta 4.50 t grudu uz 864.00 Eur
+    2) Parduota 15.51 t grudu uz 3106.41 Eur
+    3) Dienos pelnas: 2242.41 Eur
+
+  T = 105
+    1) Nupirkta 5.70 t grudu uz 1288.20 Eur
+    2) Parduota 0.64 t grudu uz 142.89 Eur
+    3) Dienos pelnas: -1145.31 Eur
+
+  T = 106
+    1) Nupirkta 4.50 t grudu uz 990.00 Eur
+    2) Parduota 10.33 t grudu uz 2291.03 Eur
+    3) Dienos pelnas: 1301.03 Eur
+
+  T = 107
+    1) Nupirkta 5.30 t grudu uz 1293.20 Eur
+    2) Parduota 6.43 t grudu uz 1500.58 Eur
+    3) Dienos pelnas: 207.38 Eur
+
+  T = 108
+    1) Nupirkta 4.60 t grudu uz 763.60 Eur
+    2) Parduota 3.46 t grudu uz 614.74 Eur
+    3) Dienos pelnas: -148.86 Eur
+
+  T = 109
+    1) Nupirkta 5.00 t grudu uz 840.00 Eur
+    2) Parduota 0.39 t grudu uz 67.52 Eur
+    3) Dienos pelnas: -772.48 Eur
+
+  T = 110
+    1) Nupirkta 4.90 t grudu uz 1107.40 Eur
+    2) Parduota 6.30 t grudu uz 1206.19 Eur
+    3) Dienos pelnas: 98.79 Eur
+
+  T = 111
+    1) Nupirkta 5.10 t grudu uz 989.40 Eur
+    2) Parduota 0.79 t grudu uz 144.73 Eur
+    3) Dienos pelnas: -844.67 Eur
+
+  T = 112
+    1) Nupirkta 5.70 t grudu uz 1356.60 Eur
+    2) Parduota 2.81 t grudu uz 553.60 Eur
+    3) Dienos pelnas: -803.00 Eur
+
+  T = 113
+    1) Nupirkta 4.50 t grudu uz 981.00 Eur
+    2) Parduota 6.26 t grudu uz 1249.37 Eur
+    3) Dienos pelnas: 268.37 Eur
+
+  T = 114
+    1) Nupirkta 4.80 t grudu uz 835.20 Eur
+    2) Parduota 1.65 t grudu uz 307.95 Eur
+    3) Dienos pelnas: -527.25 Eur
+
+  T = 115
+    1) Nupirkta 4.70 t grudu uz 893.00 Eur
+    2) Parduota 18.06 t grudu uz 3318.27 Eur
+    3) Dienos pelnas: 2425.27 Eur
+
+  T = 116
+    1) Nupirkta 5.45 t grudu uz 1013.70 Eur
+    2) Parduota 4.58 t grudu uz 860.02 Eur
+    3) Dienos pelnas: -153.68 Eur
+
+  T = 117
+    1) Nupirkta 5.70 t grudu uz 1345.20 Eur
+    2) Parduota 2.89 t grudu uz 654.66 Eur
+    3) Dienos pelnas: -690.54 Eur
+
+  T = 118
+    1) Nupirkta 4.40 t grudu uz 712.80 Eur
+    2) Parduota 4.85 t grudu uz 946.46 Eur
+    3) Dienos pelnas: 233.66 Eur
+
+  T = 119
+    1) Nupirkta 4.75 t grudu uz 950.00 Eur
+    2) Parduota 0.56 t grudu uz 118.40 Eur
+    3) Dienos pelnas: -831.60 Eur
+
+  T = 120
+    1) Nupirkta 5.00 t grudu uz 860.00 Eur
+    2) Parduota 8.82 t grudu uz 1832.35 Eur
+    3) Dienos pelnas: 972.35 Eur
+
+  T = 121
+    1) Nupirkta 5.10 t grudu uz 1264.80 Eur
+    2) Parduota 2.78 t grudu uz 649.95 Eur
+    3) Dienos pelnas: -614.85 Eur
+
+  T = 122
+    1) Nupirkta 5.35 t grudu uz 1241.20 Eur
+    2) Parduota 4.06 t grudu uz 947.39 Eur
+    3) Dienos pelnas: -293.81 Eur
+
+  T = 123
+    1) Nupirkta 5.30 t grudu uz 805.60 Eur
+    2) Parduota 0.25 t grudu uz 50.19 Eur
+    3) Dienos pelnas: -755.41 Eur
+
+  T = 124
+    1) Nupirkta 5.40 t grudu uz 1036.80 Eur
+    2) Parduota 0.18 t grudu uz 35.07 Eur
+    3) Dienos pelnas: -1001.73 Eur
+
+  T = 125
+    1) Nupirkta 4.25 t grudu uz 960.50 Eur
+    2) Parduota 1.96 t grudu uz 395.21 Eur
+    3) Dienos pelnas: -565.29 Eur
+
+  T = 126
+    1) Nupirkta 4.70 t grudu uz 827.20 Eur
+    2) Parduota 2.94 t grudu uz 587.63 Eur
+    3) Dienos pelnas: -239.57 Eur
+
+  T = 127
+    1) Nupirkta 4.90 t grudu uz 1234.80 Eur
+    2) Parduota 3.17 t grudu uz 647.58 Eur
+    3) Dienos pelnas: -587.22 Eur
+
+  T = 128
+    1) Nupirkta 5.60 t grudu uz 784.00 Eur
+    2) Parduota 21.65 t grudu uz 4458.48 Eur
+    3) Dienos pelnas: 3674.48 Eur
+
+  T = 129
+    1) Nupirkta 5.75 t grudu uz 1322.50 Eur
+    2) Parduota 12.19 t grudu uz 2813.75 Eur
+    3) Dienos pelnas: 1491.25 Eur
+
+  T = 130
+    1) Nupirkta 5.70 t grudu uz 1060.20 Eur
+    2) Parduota 2.46 t grudu uz 462.45 Eur
+    3) Dienos pelnas: -597.75 Eur
+
+  T = 131
+    1) Nupirkta 4.80 t grudu uz 902.40 Eur
+    2) Parduota 7.67 t grudu uz 1446.21 Eur
+    3) Dienos pelnas: 543.81 Eur
+
+  T = 132
+    1) Nupirkta 4.55 t grudu uz 664.30 Eur
+    2) Parduota 3.42 t grudu uz 573.43 Eur
+    3) Dienos pelnas: -90.87 Eur
+
+  T = 133
+    1) Nupirkta 4.50 t grudu uz 1017.00 Eur
+    2) Parduota 3.25 t grudu uz 615.48 Eur
+    3) Dienos pelnas: -401.52 Eur
+
+  T = 134
+    1) Nupirkta 5.10 t grudu uz 1101.60 Eur
+    2) Parduota 1.81 t grudu uz 367.97 Eur
+    3) Dienos pelnas: -733.63 Eur
+
+  T = 135
+    1) Nupirkta 4.85 t grudu uz 1154.30 Eur
+    2) Parduota 6.41 t grudu uz 1371.34 Eur
+    3) Dienos pelnas: 217.04 Eur
+
+  T = 136
+    1) Nupirkta 4.75 t grudu uz 1102.00 Eur
+    2) Parduota 1.80 t grudu uz 380.67 Eur
+    3) Dienos pelnas: -721.33 Eur
+
+  T = 137
+    1) Nupirkta 4.55 t grudu uz 855.40 Eur
+    2) Parduota 3.70 t grudu uz 774.46 Eur
+    3) Dienos pelnas: -80.94 Eur
+
+  T = 138
+    1) Nupirkta 5.75 t grudu uz 1092.50 Eur
+    2) Parduota 0.44 t grudu uz 90.13 Eur
+    3) Dienos pelnas: -1002.37 Eur
+
+  T = 139
+    1) Nupirkta 4.70 t grudu uz 1081.00 Eur
+    2) Parduota 0.76 t grudu uz 159.54 Eur
+    3) Dienos pelnas: -921.46 Eur
+
+  T = 140
+    1) Nupirkta 5.65 t grudu uz 949.20 Eur
+    2) Parduota 19.40 t grudu uz 3970.24 Eur
+    3) Dienos pelnas: 3021.04 Eur
+
+  T = 141
+    1) Nupirkta 5.60 t grudu uz 1254.40 Eur
+    2) Parduota 7.82 t grudu uz 1592.28 Eur
+    3) Dienos pelnas: 337.88 Eur
+
+  T = 142
+    1) Nupirkta 4.65 t grudu uz 660.30 Eur
+    2) Parduota 4.12 t grudu uz 677.72 Eur
+    3) Dienos pelnas: 17.42 Eur
+
+  T = 143
+    1) Nupirkta 5.60 t grudu uz 1075.20 Eur
+    2) Parduota 1.44 t grudu uz 261.74 Eur
+    3) Dienos pelnas: -813.46 Eur
+
+  T = 144
+    1) Nupirkta 4.40 t grudu uz 1117.60 Eur
+    2) Parduota 0.46 t grudu uz 95.39 Eur
+    3) Dienos pelnas: -1022.21 Eur
+
+  T = 145
+    1) Nupirkta 4.75 t grudu uz 931.00 Eur
+    2) Parduota 11.63 t grudu uz 2308.23 Eur
+    3) Dienos pelnas: 1377.23 Eur
+
+  T = 146
+    1) Nupirkta 4.65 t grudu uz 1116.00 Eur
+    2) Parduota 6.73 t grudu uz 1331.11 Eur
+    3) Dienos pelnas: 215.11 Eur
+
+  T = 147
+    1) Nupirkta 4.75 t grudu uz 1121.00 Eur
+    2) Parduota 5.07 t grudu uz 1092.27 Eur
+    3) Dienos pelnas: -28.73 Eur
+
+  T = 148
+    1) Nupirkta 4.70 t grudu uz 1222.00 Eur
+    2) Parduota 1.09 t grudu uz 254.89 Eur
+    3) Dienos pelnas: -967.11 Eur
+
+  T = 149
+    1) Nupirkta 5.10 t grudu uz 867.00 Eur
+    2) Parduota 0.42 t grudu uz 85.36 Eur
+    3) Dienos pelnas: -781.64 Eur
+
+  T = 150
+    1) Nupirkta 4.70 t grudu uz 977.60 Eur
+    2) Parduota 0.44 t grudu uz 91.04 Eur
+    3) Dienos pelnas: -886.56 Eur
+
+  T = 151
+    1) Nupirkta 4.50 t grudu uz 1053.00 Eur
+    2) Parduota 11.81 t grudu uz 2512.58 Eur
+    3) Dienos pelnas: 1459.58 Eur
+
+  T = 152
+    1) Nupirkta 4.90 t grudu uz 1048.60 Eur
+    2) Parduota 2.01 t grudu uz 440.15 Eur
+    3) Dienos pelnas: -608.45 Eur
+
+  T = 153
+    1) Nupirkta 4.45 t grudu uz 623.00 Eur
+    2) Parduota 14.13 t grudu uz 2988.24 Eur
+    3) Dienos pelnas: 2365.24 Eur
+
+  T = 154
+    1) Nupirkta 5.70 t grudu uz 969.00 Eur
+    2) Parduota 1.58 t grudu uz 271.72 Eur
+    3) Dienos pelnas: -697.28 Eur
+
+  T = 155
+    1) Nupirkta 4.30 t grudu uz 619.20 Eur
+    2) Parduota 8.31 t grudu uz 1406.98 Eur
+    3) Dienos pelnas: 787.78 Eur
+
+  T = 156
+    1) Nupirkta 4.70 t grudu uz 1165.60 Eur
+    2) Parduota 2.08 t grudu uz 508.49 Eur
+    3) Dienos pelnas: -657.11 Eur
+
+  T = 157
+    1) Nupirkta 5.65 t grudu uz 1175.20 Eur
+    2) Parduota 6.99 t grudu uz 1572.15 Eur
+    3) Dienos pelnas: 396.95 Eur
+
+  T = 158
+    1) Nupirkta 4.30 t grudu uz 670.80 Eur
+    2) Parduota 0.76 t grudu uz 138.13 Eur
+    3) Dienos pelnas: -532.67 Eur
+
+  T = 159
+    1) Nupirkta 4.30 t grudu uz 868.60 Eur
+    2) Parduota 4.31 t grudu uz 828.66 Eur
+    3) Dienos pelnas: -39.94 Eur
+
+  T = 160
+    1) Nupirkta 4.60 t grudu uz 901.60 Eur
+    2) Parduota 0.39 t grudu uz 73.19 Eur
+    3) Dienos pelnas: -828.41 Eur
+
+  T = 161
+    1) Nupirkta 4.60 t grudu uz 938.40 Eur
+    2) Parduota 4.16 t grudu uz 791.37 Eur
+    3) Dienos pelnas: -147.03 Eur
+
+  T = 162
+    1) Nupirkta 5.60 t grudu uz 1332.80 Eur
+    2) Parduota 10.72 t grudu uz 2135.03 Eur
+    3) Dienos pelnas: 802.23 Eur
+
+  T = 163
+    1) Nupirkta 5.65 t grudu uz 1435.10 Eur
+    2) Parduota 1.84 t grudu uz 400.59 Eur
+    3) Dienos pelnas: -1034.51 Eur
+
+  T = 164
+    1) Nupirkta 5.45 t grudu uz 1166.30 Eur
+    2) Parduota 13.02 t grudu uz 2734.58 Eur
+    3) Dienos pelnas: 1568.28 Eur
+
+  T = 165
+    1) Nupirkta 4.90 t grudu uz 989.80 Eur
+    2) Parduota 0.23 t grudu uz 47.63 Eur
+    3) Dienos pelnas: -942.17 Eur
+
+  T = 166
+    1) Nupirkta 4.75 t grudu uz 1149.50 Eur
+    2) Parduota 2.97 t grudu uz 644.32 Eur
+    3) Dienos pelnas: -505.18 Eur
+
+  T = 167
+    1) Nupirkta 5.00 t grudu uz 860.00 Eur
+    2) Parduota 8.23 t grudu uz 1684.35 Eur
+    3) Dienos pelnas: 824.35 Eur
+
+  T = 168
+    1) Nupirkta 5.05 t grudu uz 1151.40 Eur
+    2) Parduota 8.46 t grudu uz 1832.03 Eur
+    3) Dienos pelnas: 680.63 Eur
+
+  T = 169
+    1) Nupirkta 4.80 t grudu uz 844.80 Eur
+    2) Parduota 4.30 t grudu uz 870.36 Eur
+    3) Dienos pelnas: 25.56 Eur
+
+  T = 170
+    1) Nupirkta 5.15 t grudu uz 875.50 Eur
+    2) Parduota 1.32 t grudu uz 236.25 Eur
+    3) Dienos pelnas: -639.25 Eur
+
+  T = 171
+    1) Nupirkta 5.55 t grudu uz 832.50 Eur
+    2) Parduota 4.00 t grudu uz 688.85 Eur
+    3) Dienos pelnas: -143.65 Eur
+
+  T = 172
+    1) Nupirkta 4.85 t grudu uz 785.70 Eur
+    2) Parduota 6.48 t grudu uz 1099.54 Eur
+    3) Dienos pelnas: 313.84 Eur
+
+  T = 173
+    1) Nupirkta 5.20 t grudu uz 852.80 Eur
+    2) Parduota 9.38 t grudu uz 1660.40 Eur
+    3) Dienos pelnas: 807.60 Eur
+
+  T = 174
+    1) Nupirkta 4.60 t grudu uz 662.40 Eur
+    2) Parduota 4.93 t grudu uz 782.23 Eur
+    3) Dienos pelnas: 119.83 Eur
+
+  T = 175
+    1) Nupirkta 4.45 t grudu uz 649.70 Eur
+    2) Parduota 4.29 t grudu uz 797.25 Eur
+    3) Dienos pelnas: 147.55 Eur
+
+  T = 176
+    1) Nupirkta 4.45 t grudu uz 1094.70 Eur
+    2) Parduota 1.29 t grudu uz 310.05 Eur
+    3) Dienos pelnas: -784.65 Eur
+
+  T = 177
+    1) Nupirkta 5.75 t grudu uz 1127.00 Eur
+    2) Parduota 8.87 t grudu uz 1823.33 Eur
+    3) Dienos pelnas: 696.33 Eur
+
+  T = 178
+    1) Nupirkta 4.40 t grudu uz 871.20 Eur
+    2) Parduota 2.78 t grudu uz 548.78 Eur
+    3) Dienos pelnas: -322.42 Eur
+
+  T = 179
+    1) Nupirkta 4.75 t grudu uz 1054.50 Eur
+    2) Parduota 5.89 t grudu uz 1247.37 Eur
+    3) Dienos pelnas: 192.87 Eur
+
+  T = 180
+    1) Nupirkta 5.10 t grudu uz 1040.40 Eur
+    2) Parduota 5.16 t grudu uz 1051.98 Eur
+    3) Dienos pelnas: 11.58 Eur
+
+  T = 181
+    1) Nupirkta 4.60 t grudu uz 1196.00 Eur
+    2) Parduota 4.91 t grudu uz 1212.30 Eur
+    3) Dienos pelnas: 16.30 Eur
+
+  T = 182
+    1) Nupirkta 4.30 t grudu uz 920.20 Eur
+    2) Parduota 1.49 t grudu uz 315.14 Eur
+    3) Dienos pelnas: -605.06 Eur
+
+  T = 183
+    1) Nupirkta 5.15 t grudu uz 1266.90 Eur
+    2) Parduota 1.21 t grudu uz 279.14 Eur
+    3) Dienos pelnas: -987.76 Eur
+
+  T = 184
+    1) Nupirkta 5.65 t grudu uz 1344.70 Eur
+    2) Parduota 9.41 t grudu uz 2130.12 Eur
+    3) Dienos pelnas: 785.42 Eur
+
+  T = 185
+    1) Nupirkta 5.15 t grudu uz 999.10 Eur
+    2) Parduota 6.43 t grudu uz 1314.71 Eur
+    3) Dienos pelnas: 315.61 Eur
+
+  T = 186
+    1) Nupirkta 5.10 t grudu uz 887.40 Eur
+    2) Parduota 5.76 t grudu uz 1086.46 Eur
+    3) Dienos pelnas: 199.06 Eur
+
+  T = 187
+    1) Nupirkta 4.75 t grudu uz 807.50 Eur
+    2) Parduota 2.01 t grudu uz 371.26 Eur
+    3) Dienos pelnas: -436.24 Eur
+
+  T = 188
+    1) Nupirkta 4.55 t grudu uz 1128.40 Eur
+    2) Parduota 7.66 t grudu uz 1575.33 Eur
+    3) Dienos pelnas: 446.93 Eur
+
+  T = 189
+    1) Nupirkta 4.60 t grudu uz 708.40 Eur
+    2) Parduota 5.48 t grudu uz 941.99 Eur
+    3) Dienos pelnas: 233.59 Eur
+
+  T = 190
+    1) Nupirkta 5.15 t grudu uz 1318.40 Eur
+    2) Parduota 5.29 t grudu uz 1328.37 Eur
+    3) Dienos pelnas: 9.97 Eur
+
+  T = 191
+    1) Nupirkta 5.55 t grudu uz 1387.50 Eur
+    2) Parduota 3.41 t grudu uz 836.52 Eur
+    3) Dienos pelnas: -550.98 Eur
+
+  T = 192
+    1) Nupirkta 5.50 t grudu uz 836.00 Eur
+    2) Parduota 1.91 t grudu uz 365.17 Eur
+    3) Dienos pelnas: -470.83 Eur
+
+  T = 193
+    1) Nupirkta 4.25 t grudu uz 952.00 Eur
+    2) Parduota 8.87 t grudu uz 1804.21 Eur
+    3) Dienos pelnas: 852.21 Eur
+
+  T = 194
+    1) Nupirkta 5.45 t grudu uz 773.90 Eur
+    2) Parduota 5.10 t grudu uz 1126.69 Eur
+    3) Dienos pelnas: 352.79 Eur
+
+  T = 195
+    1) Nupirkta 4.95 t grudu uz 762.30 Eur
+    2) Parduota 0.88 t grudu uz 153.83 Eur
+    3) Dienos pelnas: -608.47 Eur
+
+  T = 196
+    1) Nupirkta 4.90 t grudu uz 1058.40 Eur
+    2) Parduota 8.40 t grudu uz 1671.97 Eur
+    3) Dienos pelnas: 613.57 Eur
+
+  T = 197
+    1) Nupirkta 5.55 t grudu uz 1320.90 Eur
+    2) Parduota 0.79 t grudu uz 181.03 Eur
+    3) Dienos pelnas: -1139.87 Eur
+
+  T = 198
+    1) Nupirkta 4.25 t grudu uz 671.50 Eur
+    2) Parduota 3.19 t grudu uz 699.66 Eur
+    3) Dienos pelnas: 28.16 Eur
+
+  T = 199
+    1) Nupirkta 4.45 t grudu uz 658.60 Eur
+    2) Parduota 5.18 t grudu uz 1032.80 Eur
+    3) Dienos pelnas: 374.20 Eur
+
+  T = 200
+    1) Nupirkta 4.50 t grudu uz 1080.00 Eur
+    2) Parduota 2.15 t grudu uz 494.17 Eur
+    3) Dienos pelnas: -585.83 Eur
+
+  T = 201
+    1) Nupirkta 4.85 t grudu uz 999.10 Eur
+    2) Parduota 8.50 t grudu uz 1912.90 Eur
+    3) Dienos pelnas: 913.80 Eur
+
+  T = 202
+    1) Nupirkta 5.35 t grudu uz 1070.00 Eur
+    2) Parduota 8.97 t grudu uz 1902.71 Eur
+    3) Dienos pelnas: 832.71 Eur
+
+  T = 203
+    1) Nupirkta 5.35 t grudu uz 1273.30 Eur
+    2) Parduota 3.94 t grudu uz 863.40 Eur
+    3) Dienos pelnas: -409.90 Eur
+
+  T = 204
+    1) Nupirkta 5.70 t grudu uz 957.60 Eur
+    2) Parduota 2.41 t grudu uz 473.87 Eur
+    3) Dienos pelnas: -483.73 Eur
+
+  T = 205
+    1) Nupirkta 4.30 t grudu uz 610.60 Eur
+    2) Parduota 5.88 t grudu uz 1082.81 Eur
+    3) Dienos pelnas: 472.21 Eur
+
+  T = 206
+    1) Nupirkta 5.60 t grudu uz 918.40 Eur
+    2) Parduota 10.91 t grudu uz 2187.50 Eur
+    3) Dienos pelnas: 1269.10 Eur
+
+  T = 207
+    1) Nupirkta 4.70 t grudu uz 855.40 Eur
+    2) Parduota 4.99 t grudu uz 922.10 Eur
+    3) Dienos pelnas: 66.70 Eur
+
+  T = 208
+    1) Nupirkta 5.20 t grudu uz 915.20 Eur
+    2) Parduota 1.68 t grudu uz 298.90 Eur
+    3) Dienos pelnas: -616.30 Eur
+
+  T = 209
+    1) Nupirkta 4.80 t grudu uz 1046.40 Eur
+    2) Parduota 0.42 t grudu uz 84.20 Eur
+    3) Dienos pelnas: -962.20 Eur
+
+  T = 210
+    1) Nupirkta 5.45 t grudu uz 806.60 Eur
+    2) Parduota 7.64 t grudu uz 1406.54 Eur
+    3) Dienos pelnas: 599.94 Eur
+
+  T = 211
+    1) Nupirkta 4.30 t grudu uz 997.60 Eur
+    2) Parduota 8.75 t grudu uz 1736.56 Eur
+    3) Dienos pelnas: 738.96 Eur
+
+  T = 212
+    1) Nupirkta 5.20 t grudu uz 1185.60 Eur
+    2) Parduota 2.34 t grudu uz 501.17 Eur
+    3) Dienos pelnas: -684.43 Eur
+
+  T = 213
+    1) Nupirkta 5.15 t grudu uz 1009.40 Eur
+    2) Parduota 2.61 t grudu uz 542.16 Eur
+    3) Dienos pelnas: -467.24 Eur
+
+  T = 214
+    1) Nupirkta 5.05 t grudu uz 787.80 Eur
+    2) Parduota 1.29 t grudu uz 245.47 Eur
+    3) Dienos pelnas: -542.33 Eur
+
+  T = 215
+    1) Nupirkta 4.75 t grudu uz 1235.00 Eur
+    2) Parduota 14.00 t grudu uz 2878.27 Eur
+    3) Dienos pelnas: 1643.27 Eur
+
+  T = 216
+    1) Nupirkta 5.45 t grudu uz 937.40 Eur
+    2) Parduota 0.20 t grudu uz 34.91 Eur
+    3) Dienos pelnas: -902.49 Eur
+
+  T = 217
+    1) Nupirkta 5.05 t grudu uz 727.20 Eur
+    2) Parduota 6.68 t grudu uz 1102.02 Eur
+    3) Dienos pelnas: 374.82 Eur
+
+  T = 218
+    1) Nupirkta 5.65 t grudu uz 1288.20 Eur
+    2) Parduota 0.21 t grudu uz 42.83 Eur
+    3) Dienos pelnas: -1245.37 Eur
+
+  T = 219
+    1) Nupirkta 4.50 t grudu uz 963.00 Eur
+    2) Parduota 0.59 t grudu uz 122.64 Eur
+    3) Dienos pelnas: -840.36 Eur
+
+  T = 220
+    1) Nupirkta 5.00 t grudu uz 800.00 Eur
+    2) Parduota 15.54 t grudu uz 3108.28 Eur
+    3) Dienos pelnas: 2308.28 Eur
+
+  T = 221
+    1) Nupirkta 4.65 t grudu uz 1013.70 Eur
+    2) Parduota 4.40 t grudu uz 783.17 Eur
+    3) Dienos pelnas: -230.53 Eur
+
+  T = 222
+    1) Nupirkta 4.65 t grudu uz 837.00 Eur
+    2) Parduota 0.09 t grudu uz 15.40 Eur
+    3) Dienos pelnas: -821.60 Eur
+
+  T = 223
+    1) Nupirkta 4.75 t grudu uz 703.00 Eur
+    2) Parduota 11.76 t grudu uz 2059.45 Eur
+    3) Dienos pelnas: 1356.45 Eur
+
+  T = 224
+    1) Nupirkta 4.55 t grudu uz 682.50 Eur
+    2) Parduota 1.80 t grudu uz 289.03 Eur
+    3) Dienos pelnas: -393.47 Eur
+
+  T = 225
+    1) Nupirkta 5.20 t grudu uz 811.20 Eur
+    2) Parduota 5.08 t grudu uz 814.37 Eur
+    3) Dienos pelnas: 3.17 Eur
+
+  T = 226
+    1) Nupirkta 5.30 t grudu uz 1356.80 Eur
+    2) Parduota 8.95 t grudu uz 1736.34 Eur
+    3) Dienos pelnas: 379.54 Eur
+
+  T = 227
+    1) Nupirkta 5.25 t grudu uz 882.00 Eur
+    2) Parduota 5.51 t grudu uz 942.47 Eur
+    3) Dienos pelnas: 60.47 Eur
+
+  T = 228
+    1) Nupirkta 4.85 t grudu uz 1154.30 Eur
+    2) Parduota 0.74 t grudu uz 173.03 Eur
+    3) Dienos pelnas: -981.27 Eur
+
+  T = 229
+    1) Nupirkta 4.95 t grudu uz 1247.40 Eur
+    2) Parduota 9.19 t grudu uz 2202.08 Eur
+    3) Dienos pelnas: 954.68 Eur
+
+  T = 230
+    1) Nupirkta 4.60 t grudu uz 1058.00 Eur
+    2) Parduota 1.81 t grudu uz 411.00 Eur
+    3) Dienos pelnas: -647.00 Eur
+
+  T = 231
+    1) Nupirkta 4.40 t grudu uz 1135.20 Eur
+    2) Parduota 6.06 t grudu uz 1453.82 Eur
+    3) Dienos pelnas: 318.62 Eur
+
+  T = 232
+    1) Nupirkta 5.30 t grudu uz 816.20 Eur
+    2) Parduota 4.30 t grudu uz 836.21 Eur
+    3) Dienos pelnas: 20.01 Eur
+
+  T = 233
+    1) Nupirkta 5.35 t grudu uz 1219.80 Eur
+    2) Parduota 2.33 t grudu uz 499.55 Eur
+    3) Dienos pelnas: -720.25 Eur
+
+  T = 234
+    1) Nupirkta 4.85 t grudu uz 805.10 Eur
+    2) Parduota 2.06 t grudu uz 408.44 Eur
+    3) Dienos pelnas: -396.66 Eur
+
+  T = 235
+    1) Nupirkta 5.40 t grudu uz 1220.40 Eur
+    2) Parduota 0.68 t grudu uz 142.67 Eur
+    3) Dienos pelnas: -1077.73 Eur
+
+  T = 236
+    1) Nupirkta 4.70 t grudu uz 855.40 Eur
+    2) Parduota 9.00 t grudu uz 1811.89 Eur
+    3) Dienos pelnas: 956.49 Eur
+
+  T = 237
+    1) Nupirkta 4.80 t grudu uz 787.20 Eur
+    2) Parduota 9.01 t grudu uz 1749.47 Eur
+    3) Dienos pelnas: 962.27 Eur
+
+  T = 238
+    1) Nupirkta 4.60 t grudu uz 956.80 Eur
+    2) Parduota 5.33 t grudu uz 1119.32 Eur
+    3) Dienos pelnas: 162.52 Eur
+
+  T = 239
+    1) Nupirkta 5.10 t grudu uz 816.00 Eur
+    2) Parduota 8.45 t grudu uz 1584.22 Eur
+    3) Dienos pelnas: 768.22 Eur
+
+  T = 240
+    1) Nupirkta 5.65 t grudu uz 824.90 Eur
+    2) Parduota 2.64 t grudu uz 401.14 Eur
+    3) Dienos pelnas: -423.76 Eur
+
+  T = 241
+    1) Nupirkta 4.40 t grudu uz 1091.20 Eur
+    2) Parduota 3.57 t grudu uz 611.96 Eur
+    3) Dienos pelnas: -479.24 Eur
+
+  T = 242
+    1) Nupirkta 4.95 t grudu uz 1128.60 Eur
+    2) Parduota 5.39 t grudu uz 1078.11 Eur
+    3) Dienos pelnas: -50.49 Eur
+
+  T = 243
+    1) Nupirkta 5.70 t grudu uz 1174.20 Eur
+    2) Parduota 8.31 t grudu uz 1502.29 Eur
+    3) Dienos pelnas: 328.09 Eur
+
+  T = 244
+    1) Nupirkta 5.65 t grudu uz 1265.60 Eur
+    2) Parduota 4.88 t grudu uz 913.63 Eur
+    3) Dienos pelnas: -351.97 Eur
+
+  T = 245
+    1) Nupirkta 4.55 t grudu uz 773.50 Eur
+    2) Parduota 1.55 t grudu uz 274.98 Eur
+    3) Dienos pelnas: -498.52 Eur
+
+  T = 246
+    1) Nupirkta 5.35 t grudu uz 898.80 Eur
+    2) Parduota 2.77 t grudu uz 484.11 Eur
+    3) Dienos pelnas: -414.69 Eur
+
+  T = 247
+    1) Nupirkta 4.45 t grudu uz 1094.70 Eur
+    2) Parduota 5.25 t grudu uz 1040.93 Eur
+    3) Dienos pelnas: -53.77 Eur
+
+  T = 248
+    1) Nupirkta 5.60 t grudu uz 1377.60 Eur
+    2) Parduota 12.04 t grudu uz 2303.71 Eur
+    3) Dienos pelnas: 926.11 Eur
+
+  T = 249
+    1) Nupirkta 4.40 t grudu uz 862.40 Eur
+    2) Parduota 3.34 t grudu uz 650.70 Eur
+    3) Dienos pelnas: -211.70 Eur
+
+  T = 250
+    1) Nupirkta 5.10 t grudu uz 714.00 Eur
+    2) Parduota 0.77 t grudu uz 118.03 Eur
+    3) Dienos pelnas: -595.97 Eur
+
+  T = 251
+    1) Nupirkta 5.30 t grudu uz 879.80 Eur
+    2) Parduota 8.75 t grudu uz 1446.62 Eur
+    3) Dienos pelnas: 566.82 Eur
+
+  T = 252
+    1) Nupirkta 5.35 t grudu uz 1187.70 Eur
+    2) Parduota 5.20 t grudu uz 916.77 Eur
+    3) Dienos pelnas: -270.93 Eur
+
+  T = 253
+    1) Nupirkta 4.40 t grudu uz 756.80 Eur
+    2) Parduota 4.78 t grudu uz 835.89 Eur
+    3) Dienos pelnas: 79.09 Eur
+
+  T = 254
+    1) Nupirkta 4.30 t grudu uz 627.80 Eur
+    2) Parduota 1.31 t grudu uz 208.88 Eur
+    3) Dienos pelnas: -418.92 Eur
+
+  T = 255
+    1) Nupirkta 4.70 t grudu uz 799.00 Eur
+    2) Parduota 9.45 t grudu uz 1581.78 Eur
+    3) Dienos pelnas: 782.78 Eur
+
+  T = 256
+    1) Nupirkta 5.45 t grudu uz 1253.50 Eur
+    2) Parduota 4.74 t grudu uz 1048.54 Eur
+    3) Dienos pelnas: -204.96 Eur
+
+  T = 257
+    1) Nupirkta 5.60 t grudu uz 1108.80 Eur
+    2) Parduota 1.69 t grudu uz 344.85 Eur
+    3) Dienos pelnas: -763.95 Eur
+
+  T = 258
+    1) Nupirkta 5.65 t grudu uz 1265.60 Eur
+    2) Parduota 7.32 t grudu uz 1565.25 Eur
+    3) Dienos pelnas: 299.65 Eur
+
+  T = 259
+    1) Nupirkta 5.35 t grudu uz 834.60 Eur
+    2) Parduota 4.41 t grudu uz 860.49 Eur
+    3) Dienos pelnas: 25.89 Eur
+
+  T = 260
+    1) Nupirkta 4.90 t grudu uz 842.80 Eur
+    2) Parduota 0.54 t grudu uz 99.06 Eur
+    3) Dienos pelnas: -743.74 Eur
+
+  T = 261
+    1) Nupirkta 4.70 t grudu uz 893.00 Eur
+    2) Parduota 9.46 t grudu uz 1759.27 Eur
+    3) Dienos pelnas: 866.27 Eur
+
+  T = 262
+    1) Nupirkta 4.65 t grudu uz 985.80 Eur
+    2) Parduota 7.00 t grudu uz 1459.06 Eur
+    3) Dienos pelnas: 473.26 Eur
+
+  T = 263
+    1) Nupirkta 4.50 t grudu uz 1107.00 Eur
+    2) Parduota 5.42 t grudu uz 1277.89 Eur
+    3) Dienos pelnas: 170.89 Eur
+
+  T = 264
+    1) Nupirkta 4.65 t grudu uz 1097.40 Eur
+    2) Parduota 1.62 t grudu uz 379.95 Eur
+    3) Dienos pelnas: -717.45 Eur
+
+  T = 265
+    1) Nupirkta 4.35 t grudu uz 913.50 Eur
+    2) Parduota 0.47 t grudu uz 104.10 Eur
+    3) Dienos pelnas: -809.40 Eur
+
+  T = 266
+    1) Nupirkta 5.35 t grudu uz 1305.40 Eur
+    2) Parduota 8.74 t grudu uz 2032.25 Eur
+    3) Dienos pelnas: 726.85 Eur
+
+  T = 267
+    1) Nupirkta 4.85 t grudu uz 989.40 Eur
+    2) Parduota 5.88 t grudu uz 1295.84 Eur
+    3) Dienos pelnas: 306.44 Eur
+
+  T = 268
+    1) Nupirkta 5.45 t grudu uz 806.60 Eur
+    2) Parduota 0.75 t grudu uz 136.52 Eur
+    3) Dienos pelnas: -670.08 Eur
+
+  T = 269
+    1) Nupirkta 5.20 t grudu uz 1248.00 Eur
+    2) Parduota 8.32 t grudu uz 1709.70 Eur
+    3) Dienos pelnas: 461.70 Eur
+
+  T = 270
+    1) Nupirkta 4.65 t grudu uz 688.20 Eur
+    2) Parduota 2.83 t grudu uz 533.07 Eur
+    3) Dienos pelnas: -155.13 Eur
+
+  T = 271
+    1) Nupirkta 4.30 t grudu uz 1118.00 Eur
+    2) Parduota 7.74 t grudu uz 1613.57 Eur
+    3) Dienos pelnas: 495.57 Eur
+
+  T = 272
+    1) Nupirkta 5.15 t grudu uz 1318.40 Eur
+    2) Parduota 6.01 t grudu uz 1485.73 Eur
+    3) Dienos pelnas: 167.33 Eur
+
+  T = 273
+    1) Nupirkta 4.35 t grudu uz 957.00 Eur
+    2) Parduota 2.29 t grudu uz 519.37 Eur
+    3) Dienos pelnas: -437.63 Eur
+
+  T = 274
+    1) Nupirkta 5.00 t grudu uz 1060.00 Eur
+    2) Parduota 3.72 t grudu uz 832.53 Eur
+    3) Dienos pelnas: -227.47 Eur
+
+  T = 275
+    1) Nupirkta 4.30 t grudu uz 920.20 Eur
+    2) Parduota 7.91 t grudu uz 1765.45 Eur
+    3) Dienos pelnas: 845.25 Eur
+
+  T = 276
+    1) Nupirkta 4.90 t grudu uz 970.20 Eur
+    2) Parduota 2.72 t grudu uz 581.81 Eur
+    3) Dienos pelnas: -388.39 Eur
+
+  T = 277
+    1) Nupirkta 4.85 t grudu uz 1183.40 Eur
+    2) Parduota 7.01 t grudu uz 1623.85 Eur
+    3) Dienos pelnas: 440.45 Eur
+
+  T = 278
+    1) Nupirkta 4.70 t grudu uz 1043.40 Eur
+    2) Parduota 3.48 t grudu uz 795.05 Eur
+    3) Dienos pelnas: -248.35 Eur
+
+  T = 279
+    1) Nupirkta 5.70 t grudu uz 1447.80 Eur
+    2) Parduota 1.56 t grudu uz 381.79 Eur
+    3) Dienos pelnas: -1066.01 Eur
+
+  T = 280
+    1) Nupirkta 4.30 t grudu uz 1100.80 Eur
+    2) Parduota 8.21 t grudu uz 1975.45 Eur
+    3) Dienos pelnas: 874.65 Eur
+
+  T = 281
+    1) Nupirkta 5.25 t grudu uz 1354.50 Eur
+    2) Parduota 8.36 t grudu uz 2012.46 Eur
+    3) Dienos pelnas: 657.96 Eur
+
+  T = 282
+    1) Nupirkta 4.75 t grudu uz 817.00 Eur
+    2) Parduota 4.79 t grudu uz 832.65 Eur
+    3) Dienos pelnas: 15.65 Eur
+
+  T = 283
+    1) Nupirkta 5.35 t grudu uz 1251.90 Eur
+    2) Parduota 3.99 t grudu uz 937.44 Eur
+    3) Dienos pelnas: -314.46 Eur
+
+  T = 284
+    1) Nupirkta 5.45 t grudu uz 1111.80 Eur
+    2) Parduota 2.54 t grudu uz 546.08 Eur
+    3) Dienos pelnas: -565.72 Eur
+
+  T = 285
+    1) Nupirkta 5.35 t grudu uz 759.70 Eur
+    2) Parduota 5.41 t grudu uz 952.94 Eur
+    3) Dienos pelnas: 193.24 Eur
+
+  T = 286
+    1) Nupirkta 5.25 t grudu uz 1365.00 Eur
+    2) Parduota 8.27 t grudu uz 1921.53 Eur
+    3) Dienos pelnas: 556.53 Eur
+
+  T = 287
+    1) Nupirkta 4.90 t grudu uz 695.80 Eur
+    2) Parduota 6.01 t grudu uz 1034.29 Eur
+    3) Dienos pelnas: 338.49 Eur
+
+  T = 288
+    1) Nupirkta 4.25 t grudu uz 892.50 Eur
+    2) Parduota 2.80 t grudu uz 594.69 Eur
+    3) Dienos pelnas: -297.81 Eur
+
+  T = 289
+    1) Nupirkta 5.55 t grudu uz 932.40 Eur
+    2) Parduota 1.71 t grudu uz 311.41 Eur
+    3) Dienos pelnas: -620.99 Eur
+
+  T = 290
+    1) Nupirkta 5.55 t grudu uz 1354.20 Eur
+    2) Parduota 7.02 t grudu uz 1465.50 Eur
+    3) Dienos pelnas: 111.30 Eur
+
+  T = 291
+    1) Nupirkta 4.95 t grudu uz 1267.20 Eur
+    2) Parduota 1.60 t grudu uz 351.87 Eur
+    3) Dienos pelnas: -915.33 Eur
+
+  T = 292
+    1) Nupirkta 5.45 t grudu uz 1155.40 Eur
+    2) Parduota 6.37 t grudu uz 1381.97 Eur
+    3) Dienos pelnas: 226.57 Eur
+
+  T = 293
+    1) Nupirkta 4.40 t grudu uz 730.40 Eur
+    2) Parduota 5.39 t grudu uz 1061.69 Eur
+    3) Dienos pelnas: 331.29 Eur
+
+  T = 294
+    1) Nupirkta 4.45 t grudu uz 836.60 Eur
+    2) Parduota 1.67 t grudu uz 335.24 Eur
+    3) Dienos pelnas: -501.36 Eur
+
+  T = 295
+    1) Nupirkta 4.75 t grudu uz 874.00 Eur
+    2) Parduota 5.42 t grudu uz 1062.45 Eur
+    3) Dienos pelnas: 188.45 Eur
+
+  T = 296
+    1) Nupirkta 4.80 t grudu uz 950.40 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -950.40 Eur
+
+  T = 297
+    1) Nupirkta 4.95 t grudu uz 1237.50 Eur
+    2) Parduota 3.62 t grudu uz 745.47 Eur
+    3) Dienos pelnas: -492.03 Eur
+
+  T = 298
+    1) Nupirkta 4.35 t grudu uz 843.90 Eur
+    2) Parduota 5.39 t grudu uz 1095.51 Eur
+    3) Dienos pelnas: 251.61 Eur
+
+  T = 299
+    1) Nupirkta 5.55 t grudu uz 1076.70 Eur
+    2) Parduota 0.36 t grudu uz 72.61 Eur
+    3) Dienos pelnas: -1004.09 Eur
+
+  T = 300
+    1) Nupirkta 4.30 t grudu uz 928.80 Eur
+    2) Parduota 1.32 t grudu uz 268.55 Eur
+    3) Dienos pelnas: -660.25 Eur
+
+  T = 301
+    1) Nupirkta 5.35 t grudu uz 877.40 Eur
+    2) Parduota 22.44 t grudu uz 4484.85 Eur
+    3) Dienos pelnas: 3607.45 Eur
+
+  T = 302
+    1) Nupirkta 5.00 t grudu uz 1150.00 Eur
+    2) Parduota 2.60 t grudu uz 533.88 Eur
+    3) Dienos pelnas: -616.12 Eur
+
+  T = 303
+    1) Nupirkta 4.55 t grudu uz 1010.10 Eur
+    2) Parduota 4.35 t grudu uz 897.00 Eur
+    3) Dienos pelnas: -113.10 Eur
+
+  T = 304
+    1) Nupirkta 4.25 t grudu uz 680.00 Eur
+    2) Parduota 10.19 t grudu uz 1996.37 Eur
+    3) Dienos pelnas: 1316.37 Eur
+
+  T = 305
+    1) Nupirkta 5.15 t grudu uz 875.50 Eur
+    2) Parduota 3.61 t grudu uz 645.28 Eur
+    3) Dienos pelnas: -230.22 Eur
+
+  T = 306
+    1) Nupirkta 4.90 t grudu uz 735.00 Eur
+    2) Parduota 4.73 t grudu uz 835.48 Eur
+    3) Dienos pelnas: 100.48 Eur
+
+  T = 307
+    1) Nupirkta 5.75 t grudu uz 874.00 Eur
+    2) Parduota 7.39 t grudu uz 1250.02 Eur
+    3) Dienos pelnas: 376.02 Eur
+
+  T = 308
+    1) Nupirkta 5.25 t grudu uz 1081.50 Eur
+    2) Parduota 5.02 t grudu uz 1037.91 Eur
+    3) Dienos pelnas: -43.59 Eur
+
+  T = 309
+    1) Nupirkta 4.90 t grudu uz 1068.20 Eur
+    2) Parduota 4.25 t grudu uz 908.14 Eur
+    3) Dienos pelnas: -160.06 Eur
+
+  T = 310
+    1) Nupirkta 5.20 t grudu uz 1029.60 Eur
+    2) Parduota 6.47 t grudu uz 1322.07 Eur
+    3) Dienos pelnas: 292.47 Eur
+
+  T = 311
+    1) Nupirkta 5.20 t grudu uz 1112.80 Eur
+    2) Parduota 0.68 t grudu uz 146.11 Eur
+    3) Dienos pelnas: -966.69 Eur
+
+  T = 312
+    1) Nupirkta 4.30 t grudu uz 997.60 Eur
+    2) Parduota 0.44 t grudu uz 99.05 Eur
+    3) Dienos pelnas: -898.55 Eur
+
+  T = 313
+    1) Nupirkta 5.65 t grudu uz 1254.30 Eur
+    2) Parduota 13.61 t grudu uz 3020.95 Eur
+    3) Dienos pelnas: 1766.65 Eur
+
+  T = 314
+    1) Nupirkta 4.55 t grudu uz 682.50 Eur
+    2) Parduota 4.08 t grudu uz 741.51 Eur
+    3) Dienos pelnas: 59.01 Eur
+
+  T = 315
+    1) Nupirkta 5.25 t grudu uz 766.50 Eur
+    2) Parduota 0.55 t grudu uz 84.60 Eur
+    3) Dienos pelnas: -681.90 Eur
+
+  T = 316
+    1) Nupirkta 4.55 t grudu uz 837.20 Eur
+    2) Parduota 8.92 t grudu uz 1519.04 Eur
+    3) Dienos pelnas: 681.84 Eur
+
+  T = 317
+    1) Nupirkta 5.60 t grudu uz 1344.00 Eur
+    2) Parduota 1.70 t grudu uz 384.87 Eur
+    3) Dienos pelnas: -959.13 Eur
+
+  T = 318
+    1) Nupirkta 5.05 t grudu uz 1111.00 Eur
+    2) Parduota 9.96 t grudu uz 2200.03 Eur
+    3) Dienos pelnas: 1089.03 Eur
+
+  T = 319
+    1) Nupirkta 5.15 t grudu uz 1153.60 Eur
+    2) Parduota 3.59 t grudu uz 807.28 Eur
+    3) Dienos pelnas: -346.32 Eur
+
+  T = 320
+    1) Nupirkta 4.75 t grudu uz 883.50 Eur
+    2) Parduota 6.19 t grudu uz 1257.13 Eur
+    3) Dienos pelnas: 373.63 Eur
+
+  T = 321
+    1) Nupirkta 4.25 t grudu uz 722.50 Eur
+    2) Parduota 3.07 t grudu uz 558.31 Eur
+    3) Dienos pelnas: -164.19 Eur
+
+  T = 322
+    1) Nupirkta 4.55 t grudu uz 691.60 Eur
+    2) Parduota 2.06 t grudu uz 338.55 Eur
+    3) Dienos pelnas: -353.05 Eur
+
+  T = 323
+    1) Nupirkta 4.65 t grudu uz 762.60 Eur
+    2) Parduota 7.01 t grudu uz 1190.99 Eur
+    3) Dienos pelnas: 428.39 Eur
+
+  T = 324
+    1) Nupirkta 4.30 t grudu uz 817.00 Eur
+    2) Parduota 5.05 t grudu uz 951.86 Eur
+    3) Dienos pelnas: 134.86 Eur
+
+  T = 325
+    1) Nupirkta 5.10 t grudu uz 999.60 Eur
+    2) Parduota 4.85 t grudu uz 927.93 Eur
+    3) Dienos pelnas: -71.67 Eur
+
+  T = 326
+    1) Nupirkta 5.20 t grudu uz 811.20 Eur
+    2) Parduota 2.41 t grudu uz 402.97 Eur
+    3) Dienos pelnas: -408.23 Eur
+
+  T = 327
+    1) Nupirkta 5.05 t grudu uz 818.10 Eur
+    2) Parduota 8.71 t grudu uz 1468.09 Eur
+    3) Dienos pelnas: 649.99 Eur
+
+  T = 328
+    1) Nupirkta 4.50 t grudu uz 666.00 Eur
+    2) Parduota 1.00 t grudu uz 154.67 Eur
+    3) Dienos pelnas: -511.33 Eur
+
+  T = 329
+    1) Nupirkta 4.70 t grudu uz 1052.80 Eur
+    2) Parduota 0.85 t grudu uz 161.51 Eur
+    3) Dienos pelnas: -891.29 Eur
+
+  T = 330
+    1) Nupirkta 4.50 t grudu uz 1044.00 Eur
+    2) Parduota 5.09 t grudu uz 1042.05 Eur
+    3) Dienos pelnas: -1.95 Eur
+
+  T = 331
+    1) Nupirkta 5.35 t grudu uz 1305.40 Eur
+    2) Parduota 10.03 t grudu uz 1975.47 Eur
+    3) Dienos pelnas: 670.07 Eur
+
+  T = 332
+    1) Nupirkta 4.55 t grudu uz 1055.60 Eur
+    2) Parduota 3.73 t grudu uz 660.95 Eur
+    3) Dienos pelnas: -394.65 Eur
+
+  T = 333
+    1) Nupirkta 4.75 t grudu uz 1045.00 Eur
+    2) Parduota 7.29 t grudu uz 1423.30 Eur
+    3) Dienos pelnas: 378.30 Eur
+
+  T = 334
+    1) Nupirkta 4.65 t grudu uz 1004.40 Eur
+    2) Parduota 2.01 t grudu uz 422.78 Eur
+    3) Dienos pelnas: -581.62 Eur
+
+  T = 335
+    1) Nupirkta 4.75 t grudu uz 1206.50 Eur
+    2) Parduota 3.37 t grudu uz 755.69 Eur
+    3) Dienos pelnas: -450.81 Eur
+
+  T = 336
+    1) Nupirkta 5.00 t grudu uz 720.00 Eur
+    2) Parduota 4.25 t grudu uz 905.85 Eur
+    3) Dienos pelnas: 185.85 Eur
+
+  T = 337
+    1) Nupirkta 4.65 t grudu uz 855.60 Eur
+    2) Parduota 8.35 t grudu uz 1720.97 Eur
+    3) Dienos pelnas: 865.37 Eur
+
+  T = 338
+    1) Nupirkta 4.45 t grudu uz 801.00 Eur
+    2) Parduota 5.17 t grudu uz 975.58 Eur
+    3) Dienos pelnas: 174.58 Eur
+
+  T = 339
+    1) Nupirkta 5.60 t grudu uz 1310.40 Eur
+    2) Parduota 6.12 t grudu uz 1387.73 Eur
+    3) Dienos pelnas: 77.33 Eur
+
+  T = 340
+    1) Nupirkta 4.95 t grudu uz 821.70 Eur
+    2) Parduota 3.19 t grudu uz 550.00 Eur
+    3) Dienos pelnas: -271.70 Eur
+
+  T = 341
+    1) Nupirkta 4.75 t grudu uz 874.00 Eur
+    2) Parduota 5.02 t grudu uz 908.45 Eur
+    3) Dienos pelnas: 34.45 Eur
+
+  T = 342
+    1) Nupirkta 5.45 t grudu uz 1373.40 Eur
+    2) Parduota 5.11 t grudu uz 945.36 Eur
+    3) Dienos pelnas: -428.04 Eur
+
+  T = 343
+    1) Nupirkta 4.70 t grudu uz 836.60 Eur
+    2) Parduota 2.66 t grudu uz 485.34 Eur
+    3) Dienos pelnas: -351.26 Eur
+
+  T = 344
+    1) Nupirkta 5.25 t grudu uz 955.50 Eur
+    2) Parduota 6.61 t grudu uz 1213.14 Eur
+    3) Dienos pelnas: 257.64 Eur
+
+  T = 345
+    1) Nupirkta 5.70 t grudu uz 843.60 Eur
+    2) Parduota 1.82 t grudu uz 299.41 Eur
+    3) Dienos pelnas: -544.19 Eur
+
+  T = 346
+    1) Nupirkta 4.90 t grudu uz 1234.80 Eur
+    2) Parduota 8.34 t grudu uz 1607.75 Eur
+    3) Dienos pelnas: 372.95 Eur
+
+  T = 347
+    1) Nupirkta 4.95 t grudu uz 1277.10 Eur
+    2) Parduota 0.75 t grudu uz 168.68 Eur
+    3) Dienos pelnas: -1108.42 Eur
+
+  T = 348
+    1) Nupirkta 5.45 t grudu uz 1329.80 Eur
+    2) Parduota 6.01 t grudu uz 1395.64 Eur
+    3) Dienos pelnas: 65.84 Eur
+
+  T = 349
+    1) Nupirkta 4.65 t grudu uz 883.50 Eur
+    2) Parduota 10.18 t grudu uz 2122.69 Eur
+    3) Dienos pelnas: 1239.19 Eur
+
+  T = 350
+    1) Nupirkta 5.55 t grudu uz 987.90 Eur
+    2) Parduota 6.43 t grudu uz 1153.91 Eur
+    3) Dienos pelnas: 166.01 Eur
+
+  T = 351
+    1) Nupirkta 5.45 t grudu uz 1318.90 Eur
+    2) Parduota 3.35 t grudu uz 771.01 Eur
+    3) Dienos pelnas: -547.89 Eur
+
+  T = 352
+    1) Nupirkta 4.40 t grudu uz 624.80 Eur
+    2) Parduota 0.36 t grudu uz 63.72 Eur
+    3) Dienos pelnas: -561.08 Eur
+
+  T = 353
+    1) Nupirkta 4.40 t grudu uz 792.00 Eur
+    2) Parduota 1.57 t grudu uz 280.98 Eur
+    3) Dienos pelnas: -511.02 Eur
+
+  T = 354
+    1) Nupirkta 5.65 t grudu uz 1152.60 Eur
+    2) Parduota 1.68 t grudu uz 314.44 Eur
+    3) Dienos pelnas: -838.16 Eur
+
+  T = 355
+    1) Nupirkta 4.50 t grudu uz 738.00 Eur
+    2) Parduota 6.87 t grudu uz 1253.33 Eur
+    3) Dienos pelnas: 515.33 Eur
+
+  T = 356
+    1) Nupirkta 4.90 t grudu uz 1117.20 Eur
+    2) Parduota 9.51 t grudu uz 1801.03 Eur
+    3) Dienos pelnas: 683.83 Eur
+
+  T = 357
+    1) Nupirkta 4.40 t grudu uz 792.00 Eur
+    2) Parduota 6.49 t grudu uz 1204.47 Eur
+    3) Dienos pelnas: 412.47 Eur
+
+  T = 358
+    1) Nupirkta 4.45 t grudu uz 845.50 Eur
+    2) Parduota 0.81 t grudu uz 156.70 Eur
+    3) Dienos pelnas: -688.80 Eur
+
+  T = 359
+    1) Nupirkta 5.60 t grudu uz 1422.40 Eur
+    2) Parduota 5.23 t grudu uz 1029.68 Eur
+    3) Dienos pelnas: -392.72 Eur
+
+  T = 360
+    1) Nupirkta 5.70 t grudu uz 843.60 Eur
+    2) Parduota 7.54 t grudu uz 1373.78 Eur
+    3) Dienos pelnas: 530.18 Eur
+
+  T = 361
+    1) Nupirkta 4.80 t grudu uz 1104.00 Eur
+    2) Parduota 0.69 t grudu uz 144.10 Eur
+    3) Dienos pelnas: -959.90 Eur
+
+  T = 362
+    1) Nupirkta 5.50 t grudu uz 957.00 Eur
+    2) Parduota 15.65 t grudu uz 3105.47 Eur
+    3) Dienos pelnas: 2148.47 Eur
+
+  T = 363
+    1) Nupirkta 4.70 t grudu uz 1090.40 Eur
+    2) Parduota 1.71 t grudu uz 386.23 Eur
+    3) Dienos pelnas: -704.17 Eur
+
+  T = 364
+    1) Nupirkta 4.25 t grudu uz 799.00 Eur
+    2) Parduota 6.15 t grudu uz 1287.81 Eur
+    3) Dienos pelnas: 488.81 Eur
+
+  T = 365
+    1) Nupirkta 4.35 t grudu uz 748.20 Eur
+    2) Parduota 4.08 t grudu uz 856.86 Eur
+    3) Dienos pelnas: 108.66 Eur
+
+  T = 366
+    1) Nupirkta 5.15 t grudu uz 762.20 Eur
+    2) Parduota 2.15 t grudu uz 373.22 Eur
+    3) Dienos pelnas: -388.98 Eur
+
+  T = 367
+    1) Nupirkta 4.30 t grudu uz 842.80 Eur
+    2) Parduota 0.47 t grudu uz 85.79 Eur
+    3) Dienos pelnas: -757.01 Eur
+
+  T = 368
+    1) Nupirkta 5.00 t grudu uz 700.00 Eur
+    2) Parduota 13.85 t grudu uz 2493.46 Eur
+    3) Dienos pelnas: 1793.46 Eur
+
+  T = 369
+    1) Nupirkta 4.25 t grudu uz 1062.50 Eur
+    2) Parduota 0.17 t grudu uz 42.92 Eur
+    3) Dienos pelnas: -1019.58 Eur
+
+  T = 370
+    1) Nupirkta 5.10 t grudu uz 1234.20 Eur
+    2) Parduota 6.98 t grudu uz 1738.74 Eur
+    3) Dienos pelnas: 504.54 Eur
+
+  T = 371
+    1) Nupirkta 5.15 t grudu uz 1019.70 Eur
+    2) Parduota 6.99 t grudu uz 1574.39 Eur
+    3) Dienos pelnas: 554.69 Eur
+
+  T = 372
+    1) Nupirkta 4.60 t grudu uz 920.00 Eur
+    2) Parduota 4.62 t grudu uz 951.42 Eur
+    3) Dienos pelnas: 31.42 Eur
+
+  T = 373
+    1) Nupirkta 4.30 t grudu uz 1014.80 Eur
+    2) Parduota 0.84 t grudu uz 200.49 Eur
+    3) Dienos pelnas: -814.31 Eur
+
+  T = 374
+    1) Nupirkta 5.25 t grudu uz 955.50 Eur
+    2) Parduota 7.79 t grudu uz 1704.23 Eur
+    3) Dienos pelnas: 748.73 Eur
+
+  T = 375
+    1) Nupirkta 4.40 t grudu uz 959.20 Eur
+    2) Parduota 1.13 t grudu uz 256.61 Eur
+    3) Dienos pelnas: -702.59 Eur
+
+  T = 376
+    1) Nupirkta 5.10 t grudu uz 724.20 Eur
+    2) Parduota 7.52 t grudu uz 1494.16 Eur
+    3) Dienos pelnas: 769.96 Eur
+
+  T = 377
+    1) Nupirkta 4.55 t grudu uz 664.30 Eur
+    2) Parduota 1.73 t grudu uz 319.70 Eur
+    3) Dienos pelnas: -344.60 Eur
+
+  T = 378
+    1) Nupirkta 4.90 t grudu uz 980.00 Eur
+    2) Parduota 2.75 t grudu uz 522.44 Eur
+    3) Dienos pelnas: -457.56 Eur
+
+  T = 379
+    1) Nupirkta 5.35 t grudu uz 834.60 Eur
+    2) Parduota 0.25 t grudu uz 43.82 Eur
+    3) Dienos pelnas: -790.78 Eur
+
+  T = 380
+    1) Nupirkta 5.75 t grudu uz 1069.50 Eur
+    2) Parduota 1.43 t grudu uz 257.21 Eur
+    3) Dienos pelnas: -812.29 Eur
+
+  T = 381
+    1) Nupirkta 4.80 t grudu uz 960.00 Eur
+    2) Parduota 20.87 t grudu uz 3893.34 Eur
+    3) Dienos pelnas: 2933.34 Eur
+
+  T = 382
+    1) Nupirkta 5.05 t grudu uz 1060.50 Eur
+    2) Parduota 0.33 t grudu uz 70.71 Eur
+    3) Dienos pelnas: -989.79 Eur
+
+  T = 383
+    1) Nupirkta 4.30 t grudu uz 1109.40 Eur
+    2) Parduota 1.13 t grudu uz 263.58 Eur
+    3) Dienos pelnas: -845.82 Eur
+
+  T = 384
+    1) Nupirkta 5.15 t grudu uz 1246.30 Eur
+    2) Parduota 0.13 t grudu uz 31.91 Eur
+    3) Dienos pelnas: -1214.39 Eur
+
+  T = 385
+    1) Nupirkta 4.70 t grudu uz 789.60 Eur
+    2) Parduota 4.33 t grudu uz 1017.50 Eur
+    3) Dienos pelnas: 227.90 Eur
+
+  T = 386
+    1) Nupirkta 4.35 t grudu uz 1104.90 Eur
+    2) Parduota 15.16 t grudu uz 3549.53 Eur
+    3) Dienos pelnas: 2444.63 Eur
+
+  T = 387
+    1) Nupirkta 5.40 t grudu uz 1069.20 Eur
+    2) Parduota 7.21 t grudu uz 1524.33 Eur
+    3) Dienos pelnas: 455.13 Eur
+
+  T = 388
+    1) Nupirkta 5.05 t grudu uz 848.40 Eur
+    2) Parduota 1.10 t grudu uz 200.72 Eur
+    3) Dienos pelnas: -647.68 Eur
+
+  T = 389
+    1) Nupirkta 4.40 t grudu uz 836.00 Eur
+    2) Parduota 5.84 t grudu uz 1090.89 Eur
+    3) Dienos pelnas: 254.89 Eur
+
+  T = 390
+    1) Nupirkta 5.65 t grudu uz 1389.90 Eur
+    2) Parduota 5.54 t grudu uz 1045.68 Eur
+    3) Dienos pelnas: -344.22 Eur
+
+  T = 391
+    1) Nupirkta 5.25 t grudu uz 850.50 Eur
+    2) Parduota 2.41 t grudu uz 429.44 Eur
+    3) Dienos pelnas: -421.06 Eur
+
+  T = 392
+    1) Nupirkta 5.55 t grudu uz 1420.80 Eur
+    2) Parduota 5.07 t grudu uz 930.12 Eur
+    3) Dienos pelnas: -490.68 Eur
+
+  T = 393
+    1) Nupirkta 5.30 t grudu uz 911.60 Eur
+    2) Parduota 3.20 t grudu uz 579.51 Eur
+    3) Dienos pelnas: -332.09 Eur
+
+  T = 394
+    1) Nupirkta 4.30 t grudu uz 903.00 Eur
+    2) Parduota 7.64 t grudu uz 1426.81 Eur
+    3) Dienos pelnas: 523.81 Eur
+
+  T = 395
+    1) Nupirkta 4.95 t grudu uz 1049.40 Eur
+    2) Parduota 9.11 t grudu uz 1772.66 Eur
+    3) Dienos pelnas: 723.26 Eur
+
+  T = 396
+    1) Nupirkta 5.00 t grudu uz 900.00 Eur
+    2) Parduota 5.55 t grudu uz 1055.91 Eur
+    3) Dienos pelnas: 155.91 Eur
+
+  T = 397
+    1) Nupirkta 4.70 t grudu uz 996.40 Eur
+    2) Parduota 3.17 t grudu uz 695.06 Eur
+    3) Dienos pelnas: -301.34 Eur
+
+  T = 398
+    1) Nupirkta 4.50 t grudu uz 765.00 Eur
+    2) Parduota 1.21 t grudu uz 232.34 Eur
+    3) Dienos pelnas: -532.66 Eur
+
+  T = 399
+    1) Nupirkta 5.50 t grudu uz 1298.00 Eur
+    2) Parduota 8.65 t grudu uz 1865.56 Eur
+    3) Dienos pelnas: 567.56 Eur
+
+  T = 400
+    1) Nupirkta 4.70 t grudu uz 1099.80 Eur
+    2) Parduota 3.49 t grudu uz 778.81 Eur
+    3) Dienos pelnas: -320.99 Eur
+
+  T = 401
+    1) Nupirkta 4.50 t grudu uz 729.00 Eur
+    2) Parduota 7.34 t grudu uz 1499.53 Eur
+    3) Dienos pelnas: 770.53 Eur
+
+  T = 402
+    1) Nupirkta 5.75 t grudu uz 1104.00 Eur
+    2) Parduota 3.90 t grudu uz 804.73 Eur
+    3) Dienos pelnas: -299.27 Eur
+
+  T = 403
+    1) Nupirkta 5.10 t grudu uz 897.60 Eur
+    2) Parduota 2.33 t grudu uz 448.87 Eur
+    3) Dienos pelnas: -448.73 Eur
+
+  T = 404
+    1) Nupirkta 5.60 t grudu uz 840.00 Eur
+    2) Parduota 4.52 t grudu uz 841.27 Eur
+    3) Dienos pelnas: 1.27 Eur
+
+  T = 405
+    1) Nupirkta 4.65 t grudu uz 837.00 Eur
+    2) Parduota 11.32 t grudu uz 2201.06 Eur
+    3) Dienos pelnas: 1364.06 Eur
+
+  T = 406
+    1) Nupirkta 5.40 t grudu uz 1263.60 Eur
+    2) Parduota 4.58 t grudu uz 1090.72 Eur
+    3) Dienos pelnas: -172.88 Eur
+
+  T = 407
+    1) Nupirkta 4.70 t grudu uz 1043.40 Eur
+    2) Parduota 2.76 t grudu uz 632.06 Eur
+    3) Dienos pelnas: -411.34 Eur
+
+  T = 408
+    1) Nupirkta 5.00 t grudu uz 940.00 Eur
+    2) Parduota 4.10 t grudu uz 898.83 Eur
+    3) Dienos pelnas: -41.17 Eur
+
+  T = 409
+    1) Nupirkta 4.90 t grudu uz 784.00 Eur
+    2) Parduota 4.25 t grudu uz 897.58 Eur
+    3) Dienos pelnas: 113.58 Eur
+
+  T = 410
+    1) Nupirkta 5.60 t grudu uz 918.40 Eur
+    2) Parduota 2.11 t grudu uz 402.20 Eur
+    3) Dienos pelnas: -516.20 Eur
+
+  T = 411
+    1) Nupirkta 5.20 t grudu uz 780.00 Eur
+    2) Parduota 11.02 t grudu uz 2093.22 Eur
+    3) Dienos pelnas: 1313.22 Eur
+
+  T = 412
+    1) Nupirkta 5.15 t grudu uz 1143.30 Eur
+    2) Parduota 3.70 t grudu uz 842.73 Eur
+    3) Dienos pelnas: -300.57 Eur
+
+  T = 413
+    1) Nupirkta 5.05 t grudu uz 1070.60 Eur
+    2) Parduota 2.92 t grudu uz 651.53 Eur
+    3) Dienos pelnas: -419.07 Eur
+
+  T = 414
+    1) Nupirkta 4.35 t grudu uz 1122.30 Eur
+    2) Parduota 5.62 t grudu uz 1325.41 Eur
+    3) Dienos pelnas: 203.11 Eur
+
+  T = 415
+    1) Nupirkta 5.00 t grudu uz 780.00 Eur
+    2) Parduota 8.94 t grudu uz 1851.28 Eur
+    3) Dienos pelnas: 1071.28 Eur
+
+  T = 416
+    1) Nupirkta 4.55 t grudu uz 864.50 Eur
+    2) Parduota 0.30 t grudu uz 59.26 Eur
+    3) Dienos pelnas: -805.24 Eur
+
+  T = 417
+    1) Nupirkta 4.25 t grudu uz 620.50 Eur
+    2) Parduota 7.53 t grudu uz 1419.21 Eur
+    3) Dienos pelnas: 798.71 Eur
+
+  T = 418
+    1) Nupirkta 4.30 t grudu uz 894.40 Eur
+    2) Parduota 0.57 t grudu uz 120.11 Eur
+    3) Dienos pelnas: -774.29 Eur
+
+  T = 419
+    1) Nupirkta 4.65 t grudu uz 651.00 Eur
+    2) Parduota 4.02 t grudu uz 812.85 Eur
+    3) Dienos pelnas: 161.85 Eur
+
+  T = 420
+    1) Nupirkta 4.90 t grudu uz 1068.20 Eur
+    2) Parduota 5.24 t grudu uz 1100.27 Eur
+    3) Dienos pelnas: 32.07 Eur
+
+  T = 421
+    1) Nupirkta 5.30 t grudu uz 1049.40 Eur
+    2) Parduota 8.82 t grudu uz 1807.46 Eur
+    3) Dienos pelnas: 758.06 Eur
+
+  T = 422
+    1) Nupirkta 5.55 t grudu uz 1398.60 Eur
+    2) Parduota 2.02 t grudu uz 481.35 Eur
+    3) Dienos pelnas: -917.25 Eur
+
+  T = 423
+    1) Nupirkta 4.35 t grudu uz 1009.20 Eur
+    2) Parduota 0.79 t grudu uz 185.80 Eur
+    3) Dienos pelnas: -823.40 Eur
+
+  T = 424
+    1) Nupirkta 4.40 t grudu uz 1126.40 Eur
+    2) Parduota 1.34 t grudu uz 325.24 Eur
+    3) Dienos pelnas: -801.16 Eur
+
+  T = 425
+    1) Nupirkta 5.40 t grudu uz 961.20 Eur
+    2) Parduota 15.21 t grudu uz 3474.57 Eur
+    3) Dienos pelnas: 2513.37 Eur
+
+  T = 426
+    1) Nupirkta 4.45 t grudu uz 863.30 Eur
+    2) Parduota 1.34 t grudu uz 274.43 Eur
+    3) Dienos pelnas: -588.87 Eur
+
+  T = 427
+    1) Nupirkta 5.30 t grudu uz 1102.40 Eur
+    2) Parduota 9.50 t grudu uz 1963.18 Eur
+    3) Dienos pelnas: 860.78 Eur
+
+  T = 428
+    1) Nupirkta 4.60 t grudu uz 1159.20 Eur
+    2) Parduota 4.50 t grudu uz 966.32 Eur
+    3) Dienos pelnas: -192.88 Eur
+
+  T = 429
+    1) Nupirkta 4.80 t grudu uz 1142.40 Eur
+    2) Parduota 3.95 t grudu uz 887.51 Eur
+    3) Dienos pelnas: -254.89 Eur
+
+  T = 430
+    1) Nupirkta 5.00 t grudu uz 1210.00 Eur
+    2) Parduota 6.48 t grudu uz 1527.02 Eur
+    3) Dienos pelnas: 317.02 Eur
+
+  T = 431
+    1) Nupirkta 4.95 t grudu uz 960.30 Eur
+    2) Parduota 2.52 t grudu uz 509.50 Eur
+    3) Dienos pelnas: -450.80 Eur
+
+  T = 432
+    1) Nupirkta 4.55 t grudu uz 728.00 Eur
+    2) Parduota 4.73 t grudu uz 846.37 Eur
+    3) Dienos pelnas: 118.37 Eur
+
+  T = 433
+    1) Nupirkta 4.80 t grudu uz 873.60 Eur
+    2) Parduota 0.15 t grudu uz 29.43 Eur
+    3) Dienos pelnas: -844.17 Eur
+
+  T = 434
+    1) Nupirkta 5.55 t grudu uz 1043.40 Eur
+    2) Parduota 10.74 t grudu uz 2056.56 Eur
+    3) Dienos pelnas: 1013.16 Eur
+
+  T = 435
+    1) Nupirkta 5.30 t grudu uz 1219.00 Eur
+    2) Parduota 6.74 t grudu uz 1499.17 Eur
+    3) Dienos pelnas: 280.17 Eur
+
+  T = 436
+    1) Nupirkta 5.20 t grudu uz 1279.20 Eur
+    2) Parduota 2.20 t grudu uz 531.50 Eur
+    3) Dienos pelnas: -747.70 Eur
+
+  T = 437
+    1) Nupirkta 5.30 t grudu uz 1240.20 Eur
+    2) Parduota 1.47 t grudu uz 352.19 Eur
+    3) Dienos pelnas: -888.01 Eur
+
+  T = 438
+    1) Nupirkta 4.80 t grudu uz 1190.40 Eur
+    2) Parduota 5.64 t grudu uz 1369.58 Eur
+    3) Dienos pelnas: 179.18 Eur
+
+  T = 439
+    1) Nupirkta 4.55 t grudu uz 664.30 Eur
+    2) Parduota 8.13 t grudu uz 1778.48 Eur
+    3) Dienos pelnas: 1114.18 Eur
+
+  T = 440
+    1) Nupirkta 4.30 t grudu uz 679.40 Eur
+    2) Parduota 1.30 t grudu uz 261.40 Eur
+    3) Dienos pelnas: -418.00 Eur
+
+  T = 441
+    1) Nupirkta 5.35 t grudu uz 834.60 Eur
+    2) Parduota 9.69 t grudu uz 1890.31 Eur
+    3) Dienos pelnas: 1055.71 Eur
+
+  T = 442
+    1) Nupirkta 5.25 t grudu uz 882.00 Eur
+    2) Parduota 6.29 t grudu uz 1212.15 Eur
+    3) Dienos pelnas: 330.15 Eur
+
+  T = 443
+    1) Nupirkta 5.55 t grudu uz 1320.90 Eur
+    2) Parduota 2.08 t grudu uz 489.62 Eur
+    3) Dienos pelnas: -831.28 Eur
+
+  T = 444
+    1) Nupirkta 5.75 t grudu uz 1127.00 Eur
+    2) Parduota 1.93 t grudu uz 421.39 Eur
+    3) Dienos pelnas: -705.61 Eur
+
+  T = 445
+    1) Nupirkta 5.65 t grudu uz 994.40 Eur
+    2) Parduota 13.19 t grudu uz 2847.25 Eur
+    3) Dienos pelnas: 1852.85 Eur
+
+  T = 446
+    1) Nupirkta 5.60 t grudu uz 1120.00 Eur
+    2) Parduota 5.16 t grudu uz 1115.28 Eur
+    3) Dienos pelnas: -4.72 Eur
+
+  T = 447
+    1) Nupirkta 4.85 t grudu uz 1183.40 Eur
+    2) Parduota 0.84 t grudu uz 200.82 Eur
+    3) Dienos pelnas: -982.58 Eur
+
+  T = 448
+    1) Nupirkta 4.50 t grudu uz 1062.00 Eur
+    2) Parduota 3.09 t grudu uz 739.08 Eur
+    3) Dienos pelnas: -322.92 Eur
+
+  T = 449
+    1) Nupirkta 4.45 t grudu uz 1050.20 Eur
+    2) Parduota 10.24 t grudu uz 2444.77 Eur
+    3) Dienos pelnas: 1394.57 Eur
+
+  T = 450
+    1) Nupirkta 4.85 t grudu uz 1096.10 Eur
+    2) Parduota 2.14 t grudu uz 484.91 Eur
+    3) Dienos pelnas: -611.19 Eur
+
+  T = 451
+    1) Nupirkta 4.80 t grudu uz 979.20 Eur
+    2) Parduota 0.25 t grudu uz 53.47 Eur
+    3) Dienos pelnas: -925.73 Eur
+
+  T = 452
+    1) Nupirkta 5.30 t grudu uz 742.00 Eur
+    2) Parduota 12.14 t grudu uz 2477.48 Eur
+    3) Dienos pelnas: 1735.48 Eur
+
+  T = 453
+    1) Nupirkta 5.65 t grudu uz 1163.90 Eur
+    2) Parduota 5.27 t grudu uz 1164.32 Eur
+    3) Dienos pelnas: 0.42 Eur
+
+  T = 454
+    1) Nupirkta 5.10 t grudu uz 1009.80 Eur
+    2) Parduota 3.67 t grudu uz 774.21 Eur
+    3) Dienos pelnas: -235.59 Eur
+
+  T = 455
+    1) Nupirkta 5.10 t grudu uz 744.60 Eur
+    2) Parduota 4.70 t grudu uz 956.14 Eur
+    3) Dienos pelnas: 211.54 Eur
+
+  T = 456
+    1) Nupirkta 5.60 t grudu uz 828.80 Eur
+    2) Parduota 4.95 t grudu uz 964.63 Eur
+    3) Dienos pelnas: 135.83 Eur
+
+  T = 457
+    1) Nupirkta 4.75 t grudu uz 1073.50 Eur
+    2) Parduota 7.83 t grudu uz 1654.59 Eur
+    3) Dienos pelnas: 581.09 Eur
+
+  T = 458
+    1) Nupirkta 5.15 t grudu uz 1205.10 Eur
+    2) Parduota 4.89 t grudu uz 1108.39 Eur
+    3) Dienos pelnas: -96.71 Eur
+
+  T = 459
+    1) Nupirkta 4.25 t grudu uz 969.00 Eur
+    2) Parduota 1.70 t grudu uz 388.64 Eur
+    3) Dienos pelnas: -580.36 Eur
+
+  T = 460
+    1) Nupirkta 4.75 t grudu uz 931.00 Eur
+    2) Parduota 1.62 t grudu uz 348.25 Eur
+    3) Dienos pelnas: -582.75 Eur
+
+  T = 461
+    1) Nupirkta 4.70 t grudu uz 1005.80 Eur
+    2) Parduota 3.13 t grudu uz 674.32 Eur
+    3) Dienos pelnas: -331.48 Eur
+
+  T = 462
+    1) Nupirkta 5.35 t grudu uz 834.60 Eur
+    2) Parduota 4.42 t grudu uz 926.66 Eur
+    3) Dienos pelnas: 92.06 Eur
+
+  T = 463
+    1) Nupirkta 5.30 t grudu uz 954.00 Eur
+    2) Parduota 11.32 t grudu uz 2351.95 Eur
+    3) Dienos pelnas: 1397.95 Eur
+
+  T = 464
+    1) Nupirkta 4.90 t grudu uz 1254.40 Eur
+    2) Parduota 6.79 t grudu uz 1636.97 Eur
+    3) Dienos pelnas: 382.57 Eur
+
+  T = 465
+    1) Nupirkta 5.20 t grudu uz 1331.20 Eur
+    2) Parduota 0.40 t grudu uz 100.81 Eur
+    3) Dienos pelnas: -1230.39 Eur
+
+  T = 466
+    1) Nupirkta 5.50 t grudu uz 1331.00 Eur
+    2) Parduota 5.31 t grudu uz 1331.11 Eur
+    3) Dienos pelnas: 0.11 Eur
+
+  T = 467
+    1) Nupirkta 5.15 t grudu uz 1194.80 Eur
+    2) Parduota 10.70 t grudu uz 2635.11 Eur
+    3) Dienos pelnas: 1440.31 Eur
+
+  T = 468
+    1) Nupirkta 4.75 t grudu uz 921.50 Eur
+    2) Parduota 1.42 t grudu uz 286.87 Eur
+    3) Dienos pelnas: -634.63 Eur
+
+  T = 469
+    1) Nupirkta 5.20 t grudu uz 1040.00 Eur
+    2) Parduota 3.88 t grudu uz 783.51 Eur
+    3) Dienos pelnas: -256.49 Eur
+
+  T = 470
+    1) Nupirkta 4.90 t grudu uz 784.00 Eur
+    2) Parduota 8.07 t grudu uz 1546.37 Eur
+    3) Dienos pelnas: 762.37 Eur
+
+  T = 471
+    1) Nupirkta 4.70 t grudu uz 1052.80 Eur
+    2) Parduota 0.21 t grudu uz 46.80 Eur
+    3) Dienos pelnas: -1006.00 Eur
+
+  T = 472
+    1) Nupirkta 5.65 t grudu uz 1446.40 Eur
+    2) Parduota 9.03 t grudu uz 2059.34 Eur
+    3) Dienos pelnas: 612.94 Eur
+
+  T = 473
+    1) Nupirkta 5.05 t grudu uz 1272.60 Eur
+    2) Parduota 3.25 t grudu uz 738.37 Eur
+    3) Dienos pelnas: -534.23 Eur
+
+  T = 474
+    1) Nupirkta 5.65 t grudu uz 881.40 Eur
+    2) Parduota 2.08 t grudu uz 414.45 Eur
+    3) Dienos pelnas: -466.95 Eur
+
+  T = 475
+    1) Nupirkta 5.50 t grudu uz 1364.00 Eur
+    2) Parduota 12.94 t grudu uz 2763.31 Eur
+    3) Dienos pelnas: 1399.31 Eur
+
+  T = 476
+    1) Nupirkta 5.55 t grudu uz 921.30 Eur
+    2) Parduota 2.03 t grudu uz 366.90 Eur
+    3) Dienos pelnas: -554.40 Eur
+
+  T = 477
+    1) Nupirkta 5.10 t grudu uz 1173.00 Eur
+    2) Parduota 9.66 t grudu uz 1922.23 Eur
+    3) Dienos pelnas: 749.23 Eur
+
+  T = 478
+    1) Nupirkta 5.75 t grudu uz 1219.00 Eur
+    2) Parduota 5.72 t grudu uz 1368.46 Eur
+    3) Dienos pelnas: 149.46 Eur
+
+  T = 479
+    1) Nupirkta 4.40 t grudu uz 915.20 Eur
+    2) Parduota 4.20 t grudu uz 966.74 Eur
+    3) Dienos pelnas: 51.54 Eur
+
+  T = 480
+    1) Nupirkta 5.35 t grudu uz 1048.60 Eur
+    2) Parduota 0.48 t grudu uz 96.42 Eur
+    3) Dienos pelnas: -952.18 Eur
+
+  T = 481
+    1) Nupirkta 5.40 t grudu uz 820.80 Eur
+    2) Parduota 8.28 t grudu uz 1553.15 Eur
+    3) Dienos pelnas: 732.35 Eur
+
+  T = 482
+    1) Nupirkta 5.65 t grudu uz 1028.30 Eur
+    2) Parduota 3.64 t grudu uz 713.44 Eur
+    3) Dienos pelnas: -314.86 Eur
+
+  T = 483
+    1) Nupirkta 5.05 t grudu uz 727.20 Eur
+    2) Parduota 3.68 t grudu uz 678.83 Eur
+    3) Dienos pelnas: -48.37 Eur
+
+  T = 484
+    1) Nupirkta 4.80 t grudu uz 1219.20 Eur
+    2) Parduota 3.89 t grudu uz 754.56 Eur
+    3) Dienos pelnas: -464.64 Eur
+
+  T = 485
+    1) Nupirkta 5.20 t grudu uz 1008.80 Eur
+    2) Parduota 8.24 t grudu uz 1592.94 Eur
+    3) Dienos pelnas: 584.14 Eur
+
+  T = 486
+    1) Nupirkta 4.80 t grudu uz 835.20 Eur
+    2) Parduota 0.69 t grudu uz 129.67 Eur
+    3) Dienos pelnas: -705.53 Eur
+
+  T = 487
+    1) Nupirkta 5.10 t grudu uz 1142.40 Eur
+    2) Parduota 10.86 t grudu uz 2129.59 Eur
+    3) Dienos pelnas: 987.19 Eur
+
+  T = 488
+    1) Nupirkta 4.50 t grudu uz 855.00 Eur
+    2) Parduota 5.24 t grudu uz 1043.60 Eur
+    3) Dienos pelnas: 188.60 Eur
+
+  T = 489
+    1) Nupirkta 5.05 t grudu uz 1161.50 Eur
+    2) Parduota 1.96 t grudu uz 441.88 Eur
+    3) Dienos pelnas: -719.62 Eur
+
+  T = 490
+    1) Nupirkta 4.40 t grudu uz 862.40 Eur
+    2) Parduota 0.27 t grudu uz 57.18 Eur
+    3) Dienos pelnas: -805.22 Eur
+
+  T = 491
+    1) Nupirkta 4.30 t grudu uz 756.80 Eur
+    2) Parduota 13.00 t grudu uz 2762.47 Eur
+    3) Dienos pelnas: 2005.67 Eur
+
+  T = 492
+    1) Nupirkta 4.65 t grudu uz 855.60 Eur
+    2) Parduota 2.88 t grudu uz 535.78 Eur
+    3) Dienos pelnas: -319.82 Eur
+
+  T = 493
+    1) Nupirkta 4.30 t grudu uz 817.00 Eur
+    2) Parduota 2.73 t grudu uz 515.15 Eur
+    3) Dienos pelnas: -301.85 Eur
+
+  T = 494
+    1) Nupirkta 5.45 t grudu uz 1253.50 Eur
+    2) Parduota 5.62 t grudu uz 1208.50 Eur
+    3) Dienos pelnas: -45.00 Eur
+
+  T = 495
+    1) Nupirkta 4.85 t grudu uz 960.30 Eur
+    2) Parduota 4.33 t grudu uz 822.77 Eur
+    3) Dienos pelnas: -137.53 Eur
+
+  T = 496
+    1) Nupirkta 4.70 t grudu uz 1137.40 Eur
+    2) Parduota 1.34 t grudu uz 289.85 Eur
+    3) Dienos pelnas: -847.55 Eur
+
+  T = 497
+    1) Nupirkta 4.60 t grudu uz 1159.20 Eur
+    2) Parduota 6.40 t grudu uz 1435.77 Eur
+    3) Dienos pelnas: 276.57 Eur
+
+  T = 498
+    1) Nupirkta 5.45 t grudu uz 893.80 Eur
+    2) Parduota 3.10 t grudu uz 600.39 Eur
+    3) Dienos pelnas: -293.41 Eur
+
+  T = 499
+    1) Nupirkta 4.90 t grudu uz 705.60 Eur
+    2) Parduota 11.87 t grudu uz 2206.78 Eur
+    3) Dienos pelnas: 1501.18 Eur
+
+  T = 500
+    1) Nupirkta 4.60 t grudu uz 680.80 Eur
+    2) Parduota 1.88 t grudu uz 293.92 Eur
+    3) Dienos pelnas: -386.88 Eur
+
+
+TRECIA DALIS. Rezultatai
+  1) Is viso imone prekiavo 500 dienu
+  2) FIFO supirkimo pelnas: 3642.52 Eur
+  3) LIFO supirkimo pelnas: 6606.16 Eur
+  4) Didesnis pelnas gautas LIFO metodu

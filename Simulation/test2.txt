@@ -1,0 +1,5 @@
+10000 // Superkamu grudu norma (t)
+80  // Superkamu grudu kiekio maksimalus nuokrypis (%)
+5000 // Supirkimo kaina (Eur/t)
+60  // Supirkimo kainos maksimalus nuokrypis (%)
+15  // Grudu kainos antkainis (%)

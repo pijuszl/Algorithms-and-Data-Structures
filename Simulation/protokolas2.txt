@@ -1,0 +1,5021 @@
+PIRMA DALIS. Duomenys
+  1) Pijus Zlatkus, 4 grupe 2 pogrupis, 3 uzdavinis 12 variantas.
+  2) Uzduotis - grudu sandelis (ADT: stekas, eile).
+  3) Programos tikslas istirti, kuris grudu apskaitos metodas yra geresnis tarp FIFO (first-in, first-out) ir LIFO (last-in, first-out) supirkimo metodu.
+  4) Superkamu grudu norma: 10000 t
+  5) Superkamu grudu kiekio maksimalus nuokrypis: 80%
+  6) Supirkimo kaina: 5000 Eur/t
+  7) Supirkimo kainos maksimalus nuokrypis: 60%
+  8) Grudu kainos antkainis: 15%
+
+ANTRA DALIS. Vykdymas
+
+FIFO supirkimo metodas:
+  T = 1
+    1) Nupirkta 4000.00 t grudu uz 23600000.00 Eur
+    2) Parduota 3920.00 t grudu uz 26597200.00 Eur
+    3) Dienos pelnas: 2997200.00 Eur
+
+  T = 2
+    1) Nupirkta 10400.00 t grudu uz 29120000.00 Eur
+    2) Parduota 5240.00 t grudu uz 17158000.00 Eur
+    3) Dienos pelnas: -11962000.00 Eur
+
+  T = 3
+    1) Nupirkta 7300.00 t grudu uz 62050000.00 Eur
+    2) Parduota 1128.60 t grudu uz 3634092.00 Eur
+    3) Dienos pelnas: -58415908.00 Eur
+
+  T = 4
+    1) Nupirkta 9100.00 t grudu uz 48685000.00 Eur
+    2) Parduota 5332.96 t grudu uz 25179496.10 Eur
+    3) Dienos pelnas: -23505503.90 Eur
+
+  T = 5
+    1) Nupirkta 12900.00 t grudu uz 101910000.00 Eur
+    2) Parduota 27236.08 t grudu uz 224948184.17 Eur
+    3) Dienos pelnas: 123038184.17 Eur
+
+  T = 6
+    1) Nupirkta 14300.00 t grudu uz 94380000.00 Eur
+    2) Parduota 5148.40 t grudu uz 40335674.21 Eur
+    3) Dienos pelnas: -54044325.79 Eur
+
+  T = 7
+    1) Nupirkta 8800.00 t grudu uz 61160000.00 Eur
+    2) Parduota 18793.95 t grudu uz 146188103.52 Eur
+    3) Dienos pelnas: 85028103.52 Eur
+
+  T = 8
+    1) Nupirkta 5400.00 t grudu uz 34290000.00 Eur
+    2) Parduota 3186.00 t grudu uz 23265765.00 Eur
+    3) Dienos pelnas: -11024235.00 Eur
+
+  T = 9
+    1) Nupirkta 14500.00 t grudu uz 26825000.00 Eur
+    2) Parduota 14206.90 t grudu uz 41682629.75 Eur
+    3) Dienos pelnas: 14857629.75 Eur
+
+  T = 10
+    1) Nupirkta 9600.00 t grudu uz 14880000.00 Eur
+    2) Parduota 4600.70 t grudu uz 9065693.69 Eur
+    3) Dienos pelnas: -5814306.32 Eur
+
+  T = 11
+    1) Nupirkta 15500.00 t grudu uz 87575000.00 Eur
+    2) Parduota 7131.98 t grudu uz 12712762.59 Eur
+    3) Dienos pelnas: -74862237.41 Eur
+
+  T = 12
+    1) Nupirkta 14400.00 t grudu uz 40320000.00 Eur
+    2) Parduota 16953.67 t grudu uz 104853854.44 Eur
+    3) Dienos pelnas: 64533854.44 Eur
+
+  T = 13
+    1) Nupirkta 15000.00 t grudu uz 39750000.00 Eur
+    2) Parduota 18408.48 t grudu uz 58397681.35 Eur
+    3) Dienos pelnas: 18647681.35 Eur
+
+  T = 14
+    1) Nupirkta 7300.00 t grudu uz 61320000.00 Eur
+    2) Parduota 12220.70 t grudu uz 52507187.25 Eur
+    3) Dienos pelnas: -8812812.75 Eur
+
+  T = 15
+    1) Nupirkta 4100.00 t grudu uz 30545000.00 Eur
+    2) Parduota 5091.27 t grudu uz 49072739.24 Eur
+    3) Dienos pelnas: 18527739.24 Eur
+
+  T = 16
+    1) Nupirkta 14900.00 t grudu uz 78970000.00 Eur
+    2) Parduota 2268.03 t grudu uz 19431382.40 Eur
+    3) Dienos pelnas: -59538617.60 Eur
+
+  T = 17
+    1) Nupirkta 7300.00 t grudu uz 33215000.00 Eur
+    2) Parduota 21299.70 t grudu uz 130078999.33 Eur
+    3) Dienos pelnas: 96863999.33 Eur
+
+  T = 18
+    1) Nupirkta 15200.00 t grudu uz 68400000.00 Eur
+    2) Parduota 16049.29 t grudu uz 83206461.61 Eur
+    3) Dienos pelnas: 14806461.61 Eur
+
+  T = 19
+    1) Nupirkta 4100.00 t grudu uz 12300000.00 Eur
+    2) Parduota 2765.13 t grudu uz 12615812.03 Eur
+    3) Dienos pelnas: 315812.03 Eur
+
+  T = 20
+    1) Nupirkta 12400.00 t grudu uz 96720000.00 Eur
+    2) Parduota 4189.89 t grudu uz 20371296.88 Eur
+    3) Dienos pelnas: -76348703.12 Eur
+
+  T = 21
+    1) Nupirkta 4500.00 t grudu uz 25200000.00 Eur
+    2) Parduota 13137.43 t grudu uz 113265486.85 Eur
+    3) Dienos pelnas: 88065486.85 Eur
+
+  T = 22
+    1) Nupirkta 12800.00 t grudu uz 104320000.00 Eur
+    2) Parduota 2943.25 t grudu uz 19694859.16 Eur
+    3) Dienos pelnas: -84625140.84 Eur
+
+  T = 23
+    1) Nupirkta 13900.00 t grudu uz 41700000.00 Eur
+    2) Parduota 2909.23 t grudu uz 27266760.23 Eur
+    3) Dienos pelnas: -14433239.77 Eur
+
+  T = 24
+    1) Nupirkta 13600.00 t grudu uz 61200000.00 Eur
+    2) Parduota 29339.27 t grudu uz 168310061.96 Eur
+    3) Dienos pelnas: 107110061.96 Eur
+
+  T = 25
+    1) Nupirkta 5500.00 t grudu uz 19250000.00 Eur
+    2) Parduota 8511.39 t grudu uz 43227247.70 Eur
+    3) Dienos pelnas: 23977247.70 Eur
+
+  T = 26
+    1) Nupirkta 14600.00 t grudu uz 127020000.00 Eur
+    2) Parduota 3295.90 t grudu uz 13266004.15 Eur
+    3) Dienos pelnas: -113753995.85 Eur
+
+  T = 27
+    1) Nupirkta 12700.00 t grudu uz 96520000.00 Eur
+    2) Parduota 10077.11 t grudu uz 91900832.85 Eur
+    3) Dienos pelnas: -4619167.15 Eur
+
+  T = 28
+    1) Nupirkta 4100.00 t grudu uz 33005000.00 Eur
+    2) Parduota 9582.15 t grudu uz 91356504.23 Eur
+    3) Dienos pelnas: 58351504.23 Eur
+
+  T = 29
+    1) Nupirkta 4000.00 t grudu uz 6600000.00 Eur
+    2) Parduota 17232.49 t grudu uz 125363727.32 Eur
+    3) Dienos pelnas: 118763727.32 Eur
+
+  T = 30
+    1) Nupirkta 10100.00 t grudu uz 47470000.00 Eur
+    2) Parduota 303.00 t grudu uz 1637715.00 Eur
+    3) Dienos pelnas: -45832285.00 Eur
+
+  T = 31
+    1) Nupirkta 12200.00 t grudu uz 79300000.00 Eur
+    2) Parduota 1099.85 t grudu uz 5944689.25 Eur
+    3) Dienos pelnas: -73355310.75 Eur
+
+  T = 32
+    1) Nupirkta 6900.00 t grudu uz 47955000.00 Eur
+    2) Parduota 1389.86 t grudu uz 7512179.79 Eur
+    3) Dienos pelnas: -40442820.21 Eur
+
+  T = 33
+    1) Nupirkta 12100.00 t grudu uz 85305000.00 Eur
+    2) Parduota 385.07 t grudu uz 2081319.16 Eur
+    3) Dienos pelnas: -83223680.84 Eur
+
+  T = 34
+    1) Nupirkta 9200.00 t grudu uz 42780000.00 Eur
+    2) Parduota 24607.55 t grudu uz 172451133.63 Eur
+    3) Dienos pelnas: 129671133.63 Eur
+
+  T = 35
+    1) Nupirkta 11300.00 t grudu uz 95485000.00 Eur
+    2) Parduota 33334.37 t grudu uz 261801462.96 Eur
+    3) Dienos pelnas: 166316462.96 Eur
+
+  T = 36
+    1) Nupirkta 11300.00 t grudu uz 37855000.00 Eur
+    2) Parduota 7188.18 t grudu uz 31682368.23 Eur
+    3) Dienos pelnas: -6172631.77 Eur
+
+  T = 37
+    1) Nupirkta 8600.00 t grudu uz 63640000.00 Eur
+    2) Parduota 5624.69 t grudu uz 25546819.30 Eur
+    3) Dienos pelnas: -38093180.70 Eur
+
+  T = 38
+    1) Nupirkta 7800.00 t grudu uz 33930000.00 Eur
+    2) Parduota 12765.29 t grudu uz 91102622.10 Eur
+    3) Dienos pelnas: 57172622.10 Eur
+
+  T = 39
+    1) Nupirkta 14400.00 t grudu uz 36000000.00 Eur
+    2) Parduota 10321.28 t grudu uz 35635232.98 Eur
+    3) Dienos pelnas: -364767.02 Eur
+
+  T = 40
+    1) Nupirkta 8700.00 t grudu uz 22620000.00 Eur
+    2) Parduota 1558.09 t grudu uz 4479495.76 Eur
+    3) Dienos pelnas: -18140504.24 Eur
+
+  T = 41
+    1) Nupirkta 13000.00 t grudu uz 24050000.00 Eur
+    2) Parduota 26482.31 t grudu uz 67823643.01 Eur
+    3) Dienos pelnas: 43773643.01 Eur
+
+  T = 42
+    1) Nupirkta 6900.00 t grudu uz 31050000.00 Eur
+    2) Parduota 3348.20 t grudu uz 15679922.69 Eur
+    3) Dienos pelnas: -15370077.31 Eur
+
+  T = 43
+    1) Nupirkta 6900.00 t grudu uz 32430000.00 Eur
+    2) Parduota 10222.79 t grudu uz 54312978.18 Eur
+    3) Dienos pelnas: 21882978.18 Eur
+
+  T = 44
+    1) Nupirkta 14700.00 t grudu uz 97755000.00 Eur
+    2) Parduota 13149.04 t grudu uz 98831766.49 Eur
+    3) Dienos pelnas: 1076766.49 Eur
+
+  T = 45
+    1) Nupirkta 9700.00 t grudu uz 11640000.00 Eur
+    2) Parduota 9496.13 t grudu uz 27647884.15 Eur
+    3) Dienos pelnas: 16007884.15 Eur
+
+  T = 46
+    1) Nupirkta 14300.00 t grudu uz 54340000.00 Eur
+    2) Parduota 11777.00 t grudu uz 43917875.87 Eur
+    3) Dienos pelnas: -10422124.13 Eur
+
+  T = 47
+    1) Nupirkta 11200.00 t grudu uz 29680000.00 Eur
+    2) Parduota 14460.08 t grudu uz 50742144.88 Eur
+    3) Dienos pelnas: 21062144.88 Eur
+
+  T = 48
+    1) Nupirkta 9200.00 t grudu uz 20240000.00 Eur
+    2) Parduota 4065.26 t grudu uz 11209996.10 Eur
+    3) Dienos pelnas: -9030003.90 Eur
+
+  T = 49
+    1) Nupirkta 13000.00 t grudu uz 72800000.00 Eur
+    2) Parduota 18726.62 t grudu uz 93534664.04 Eur
+    3) Dienos pelnas: 20734664.04 Eur
+
+  T = 50
+    1) Nupirkta 7100.00 t grudu uz 32660000.00 Eur
+    2) Parduota 829.53 t grudu uz 5342183.64 Eur
+    3) Dienos pelnas: -27317816.36 Eur
+
+  T = 51
+    1) Nupirkta 6600.00 t grudu uz 7590000.00 Eur
+    2) Parduota 9846.05 t grudu uz 43062552.75 Eur
+    3) Dienos pelnas: 35472552.75 Eur
+
+  T = 52
+    1) Nupirkta 15600.00 t grudu uz 31980000.00 Eur
+    2) Parduota 5351.33 t grudu uz 8248330.95 Eur
+    3) Dienos pelnas: -23731669.05 Eur
+
+  T = 53
+    1) Nupirkta 15900.00 t grudu uz 21465000.00 Eur
+    2) Parduota 21561.57 t grudu uz 45121403.13 Eur
+    3) Dienos pelnas: 23656403.13 Eur
+
+  T = 54
+    1) Nupirkta 6000.00 t grudu uz 27600000.00 Eur
+    2) Parduota 10957.06 t grudu uz 25047291.01 Eur
+    3) Dienos pelnas: -2552708.99 Eur
+
+  T = 55
+    1) Nupirkta 10000.00 t grudu uz 26000000.00 Eur
+    2) Parduota 4570.43 t grudu uz 22520064.94 Eur
+    3) Dienos pelnas: -3479935.06 Eur
+
+  T = 56
+    1) Nupirkta 13700.00 t grudu uz 56170000.00 Eur
+    2) Parduota 12179.06 t grudu uz 41417368.84 Eur
+    3) Dienos pelnas: -14752631.16 Eur
+
+  T = 57
+    1) Nupirkta 10300.00 t grudu uz 36565000.00 Eur
+    2) Parduota 2532.04 t grudu uz 11938546.94 Eur
+    3) Dienos pelnas: -24626453.06 Eur
+
+  T = 58
+    1) Nupirkta 7000.00 t grudu uz 49350000.00 Eur
+    2) Parduota 10738.67 t grudu uz 49070290.63 Eur
+    3) Dienos pelnas: -279709.37 Eur
+
+  T = 59
+    1) Nupirkta 11800.00 t grudu uz 21240000.00 Eur
+    2) Parduota 2662.96 t grudu uz 10871530.36 Eur
+    3) Dienos pelnas: -10368469.64 Eur
+
+  T = 60
+    1) Nupirkta 6200.00 t grudu uz 44020000.00 Eur
+    2) Parduota 29261.63 t grudu uz 145504956.85 Eur
+    3) Dienos pelnas: 101484956.85 Eur
+
+  T = 61
+    1) Nupirkta 9400.00 t grudu uz 22560000.00 Eur
+    2) Parduota 7728.75 t grudu uz 26222867.12 Eur
+    3) Dienos pelnas: 3662867.12 Eur
+
+  T = 62
+    1) Nupirkta 10900.00 t grudu uz 65400000.00 Eur
+    2) Parduota 6738.12 t grudu uz 35827387.68 Eur
+    3) Dienos pelnas: -29572612.32 Eur
+
+  T = 63
+    1) Nupirkta 5500.00 t grudu uz 16225000.00 Eur
+    2) Parduota 8444.31 t grudu uz 52281281.62 Eur
+    3) Dienos pelnas: 36056281.62 Eur
+
+  T = 64
+    1) Nupirkta 6700.00 t grudu uz 49245000.00 Eur
+    2) Parduota 7135.80 t grudu uz 41118599.13 Eur
+    3) Dienos pelnas: -8126400.87 Eur
+
+  T = 65
+    1) Nupirkta 15300.00 t grudu uz 48195000.00 Eur
+    2) Parduota 1865.80 t grudu uz 15770693.08 Eur
+    3) Dienos pelnas: -32424306.92 Eur
+
+  T = 66
+    1) Nupirkta 7900.00 t grudu uz 33970000.00 Eur
+    2) Parduota 15556.10 t grudu uz 63559388.27 Eur
+    3) Dienos pelnas: 29589388.27 Eur
+
+  T = 67
+    1) Nupirkta 11600.00 t grudu uz 73080000.00 Eur
+    2) Parduota 9331.25 t grudu uz 44957090.05 Eur
+    3) Dienos pelnas: -28122909.95 Eur
+
+  T = 68
+    1) Nupirkta 6700.00 t grudu uz 59965000.00 Eur
+    2) Parduota 13035.50 t grudu uz 99411594.02 Eur
+    3) Dienos pelnas: 39446594.02 Eur
+
+  T = 69
+    1) Nupirkta 9500.00 t grudu uz 58900000.00 Eur
+    2) Parduota 7721.76 t grudu uz 71088024.13 Eur
+    3) Dienos pelnas: 12188024.13 Eur
+
+  T = 70
+    1) Nupirkta 10100.00 t grudu uz 43430000.00 Eur
+    2) Parduota 15083.36 t grudu uz 89549244.02 Eur
+    3) Dienos pelnas: 46119244.02 Eur
+
+  T = 71
+    1) Nupirkta 12900.00 t grudu uz 84495000.00 Eur
+    2) Parduota 7972.69 t grudu uz 55230557.57 Eur
+    3) Dienos pelnas: -29264442.43 Eur
+
+  T = 72
+    1) Nupirkta 13300.00 t grudu uz 93100000.00 Eur
+    2) Parduota 15068.66 t grudu uz 117788098.18 Eur
+    3) Dienos pelnas: 24688098.18 Eur
+
+  T = 73
+    1) Nupirkta 9800.00 t grudu uz 72520000.00 Eur
+    2) Parduota 8449.05 t grudu uz 69590850.59 Eur
+    3) Dienos pelnas: -2929149.41 Eur
+
+  T = 74
+    1) Nupirkta 12600.00 t grudu uz 112140000.00 Eur
+    2) Parduota 13850.90 t grudu uz 130769128.71 Eur
+    3) Dienos pelnas: 18629128.71 Eur
+
+  T = 75
+    1) Nupirkta 7100.00 t grudu uz 55380000.00 Eur
+    2) Parduota 5500.32 t grudu uz 55818401.55 Eur
+    3) Dienos pelnas: 438401.55 Eur
+
+  T = 76
+    1) Nupirkta 7100.00 t grudu uz 47215000.00 Eur
+    2) Parduota 2902.75 t grudu uz 26037660.74 Eur
+    3) Dienos pelnas: -21177339.26 Eur
+
+  T = 77
+    1) Nupirkta 8400.00 t grudu uz 51240000.00 Eur
+    2) Parduota 9853.13 t grudu uz 80403598.26 Eur
+    3) Dienos pelnas: 29163598.26 Eur
+
+  T = 78
+    1) Nupirkta 4800.00 t grudu uz 28560000.00 Eur
+    2) Parduota 8274.71 t grudu uz 58721771.97 Eur
+    3) Dienos pelnas: 30161771.97 Eur
+
+  T = 79
+    1) Nupirkta 13300.00 t grudu uz 51870000.00 Eur
+    2) Parduota 7330.97 t grudu uz 47211236.14 Eur
+    3) Dienos pelnas: -4658763.86 Eur
+
+  T = 80
+    1) Nupirkta 14400.00 t grudu uz 50400000.00 Eur
+    2) Parduota 4481.38 t grudu uz 20098988.40 Eur
+    3) Dienos pelnas: -30301011.60 Eur
+
+  T = 81
+    1) Nupirkta 13400.00 t grudu uz 68340000.00 Eur
+    2) Parduota 29634.93 t grudu uz 136990905.46 Eur
+    3) Dienos pelnas: 68650905.46 Eur
+
+  T = 82
+    1) Nupirkta 16000.00 t grudu uz 112000000.00 Eur
+    2) Parduota 8008.56 t grudu uz 52135107.90 Eur
+    3) Dienos pelnas: -59864892.10 Eur
+
+  T = 83
+    1) Nupirkta 13000.00 t grudu uz 102050000.00 Eur
+    2) Parduota 7458.13 t grudu uz 60037975.70 Eur
+    3) Dienos pelnas: -42012024.30 Eur
+
+  T = 84
+    1) Nupirkta 13200.00 t grudu uz 112200000.00 Eur
+    2) Parduota 29464.03 t grudu uz 267636269.65 Eur
+    3) Dienos pelnas: 155436269.65 Eur
+
+  T = 85
+    1) Nupirkta 4000.00 t grudu uz 20000000.00 Eur
+    2) Parduota 4563.26 t grudu uz 37967677.15 Eur
+    3) Dienos pelnas: 17967677.15 Eur
+
+  T = 86
+    1) Nupirkta 7200.00 t grudu uz 34200000.00 Eur
+    2) Parduota 2483.20 t grudu uz 14240325.03 Eur
+    3) Dienos pelnas: -19959674.97 Eur
+
+  T = 87
+    1) Nupirkta 6800.00 t grudu uz 56780000.00 Eur
+    2) Parduota 693.38 t grudu uz 3787579.71 Eur
+    3) Dienos pelnas: -52992420.29 Eur
+
+  T = 88
+    1) Nupirkta 8400.00 t grudu uz 71400000.00 Eur
+    2) Parduota 3883.35 t grudu uz 21212822.62 Eur
+    3) Dienos pelnas: -50187177.38 Eur
+
+  T = 89
+    1) Nupirkta 14400.00 t grudu uz 95760000.00 Eur
+    2) Parduota 25351.76 t grudu uz 219600111.50 Eur
+    3) Dienos pelnas: 123840111.50 Eur
+
+  T = 90
+    1) Nupirkta 10700.00 t grudu uz 16050000.00 Eur
+    2) Parduota 14125.65 t grudu uz 64278923.41 Eur
+    3) Dienos pelnas: 48228923.41 Eur
+
+  T = 91
+    1) Nupirkta 13500.00 t grudu uz 76950000.00 Eur
+    2) Parduota 2353.88 t grudu uz 4060441.98 Eur
+    3) Dienos pelnas: -72889558.02 Eur
+
+  T = 92
+    1) Nupirkta 8700.00 t grudu uz 66990000.00 Eur
+    2) Parduota 23159.54 t grudu uz 167186215.04 Eur
+    3) Dienos pelnas: 100196215.04 Eur
+
+  T = 93
+    1) Nupirkta 12900.00 t grudu uz 85785000.00 Eur
+    2) Parduota 6063.00 t grudu uz 46366792.50 Eur
+    3) Dienos pelnas: -39418207.50 Eur
+
+  T = 94
+    1) Nupirkta 14000.00 t grudu uz 109200000.00 Eur
+    2) Parduota 16877.97 t grudu uz 142353458.40 Eur
+    3) Dienos pelnas: 33153458.40 Eur
+
+  T = 95
+    1) Nupirkta 15900.00 t grudu uz 106530000.00 Eur
+    2) Parduota 11121.06 t grudu uz 90695915.59 Eur
+    3) Dienos pelnas: -15834084.41 Eur
+
+  T = 96
+    1) Nupirkta 12600.00 t grudu uz 18900000.00 Eur
+    2) Parduota 2347.18 t grudu uz 18084999.19 Eur
+    3) Dienos pelnas: -815000.81 Eur
+
+  T = 97
+    1) Nupirkta 13700.00 t grudu uz 43155000.00 Eur
+    2) Parduota 29748.62 t grudu uz 109946317.51 Eur
+    3) Dienos pelnas: 66791317.51 Eur
+
+  T = 98
+    1) Nupirkta 5200.00 t grudu uz 34060000.00 Eur
+    2) Parduota 7165.11 t grudu uz 42467307.86 Eur
+    3) Dienos pelnas: 8407307.86 Eur
+
+  T = 99
+    1) Nupirkta 15900.00 t grudu uz 103350000.00 Eur
+    2) Parduota 2194.02 t grudu uz 16456464.62 Eur
+    3) Dienos pelnas: -86893535.38 Eur
+
+  T = 100
+    1) Nupirkta 14700.00 t grudu uz 122745000.00 Eur
+    2) Parduota 5582.78 t grudu uz 41731266.42 Eur
+    3) Dienos pelnas: -81013733.58 Eur
+
+  T = 101
+    1) Nupirkta 14100.00 t grudu uz 107160000.00 Eur
+    2) Parduota 7580.05 t grudu uz 56660895.58 Eur
+    3) Dienos pelnas: -50499104.42 Eur
+
+  T = 102
+    1) Nupirkta 15700.00 t grudu uz 75360000.00 Eur
+    2) Parduota 3221.41 t grudu uz 27699385.43 Eur
+    3) Dienos pelnas: -47660614.57 Eur
+
+  T = 103
+    1) Nupirkta 10300.00 t grudu uz 29355000.00 Eur
+    2) Parduota 19115.57 t grudu uz 178281516.75 Eur
+    3) Dienos pelnas: 148926516.75 Eur
+
+  T = 104
+    1) Nupirkta 6100.00 t grudu uz 6100000.00 Eur
+    2) Parduota 32868.25 t grudu uz 186541328.61 Eur
+    3) Dienos pelnas: 180441328.61 Eur
+
+  T = 105
+    1) Nupirkta 9500.00 t grudu uz 56525000.00 Eur
+    2) Parduota 11199.04 t grudu uz 37930255.66 Eur
+    3) Dienos pelnas: -18594744.34 Eur
+
+  T = 106
+    1) Nupirkta 7800.00 t grudu uz 56160000.00 Eur
+    2) Parduota 9853.80 t grudu uz 73660281.93 Eur
+    3) Dienos pelnas: 17500281.93 Eur
+
+  T = 107
+    1) Nupirkta 14100.00 t grudu uz 66270000.00 Eur
+    2) Parduota 5093.02 t grudu uz 37481452.85 Eur
+    3) Dienos pelnas: -28788547.15 Eur
+
+  T = 108
+    1) Nupirkta 14000.00 t grudu uz 76300000.00 Eur
+    2) Parduota 26204.43 t grudu uz 153481658.80 Eur
+    3) Dienos pelnas: 77181658.80 Eur
+
+  T = 109
+    1) Nupirkta 7100.00 t grudu uz 9940000.00 Eur
+    2) Parduota 4713.40 t grudu uz 8821377.26 Eur
+    3) Dienos pelnas: -1118622.74 Eur
+
+  T = 110
+    1) Nupirkta 11500.00 t grudu uz 97750000.00 Eur
+    2) Parduota 11604.06 t grudu uz 91781882.32 Eur
+    3) Dienos pelnas: -5968117.68 Eur
+
+  T = 111
+    1) Nupirkta 11700.00 t grudu uz 58500000.00 Eur
+    2) Parduota 5413.95 t grudu uz 41382810.67 Eur
+    3) Dienos pelnas: -17117189.33 Eur
+
+  T = 112
+    1) Nupirkta 13200.00 t grudu uz 95040000.00 Eur
+    2) Parduota 10135.31 t grudu uz 61572163.37 Eur
+    3) Dienos pelnas: -33467836.63 Eur
+
+  T = 113
+    1) Nupirkta 4000.00 t grudu uz 19600000.00 Eur
+    2) Parduota 14785.12 t grudu uz 114784263.13 Eur
+    3) Dienos pelnas: 95184263.13 Eur
+
+  T = 114
+    1) Nupirkta 10900.00 t grudu uz 28340000.00 Eur
+    2) Parduota 9490.16 t grudu uz 31319081.94 Eur
+    3) Dienos pelnas: 2979081.94 Eur
+
+  T = 115
+    1) Nupirkta 12900.00 t grudu uz 103845000.00 Eur
+    2) Parduota 4472.58 t grudu uz 25593914.13 Eur
+    3) Dienos pelnas: -78251085.87 Eur
+
+  T = 116
+    1) Nupirkta 9900.00 t grudu uz 14355000.00 Eur
+    2) Parduota 16471.59 t grudu uz 110577769.72 Eur
+    3) Dienos pelnas: 96222769.72 Eur
+
+  T = 117
+    1) Nupirkta 14800.00 t grudu uz 48840000.00 Eur
+    2) Parduota 13233.18 t grudu uz 40904614.51 Eur
+    3) Dienos pelnas: -7935385.49 Eur
+
+  T = 118
+    1) Nupirkta 10900.00 t grudu uz 88835000.00 Eur
+    2) Parduota 14655.45 t grudu uz 104198038.68 Eur
+    3) Dienos pelnas: 15363038.68 Eur
+
+  T = 119
+    1) Nupirkta 5100.00 t grudu uz 35700000.00 Eur
+    2) Parduota 5977.71 t grudu uz 51016729.40 Eur
+    3) Dienos pelnas: 15316729.40 Eur
+
+  T = 120
+    1) Nupirkta 4500.00 t grudu uz 27000000.00 Eur
+    2) Parduota 4301.01 t grudu uz 31186004.45 Eur
+    3) Dienos pelnas: 4186004.45 Eur
+
+  T = 121
+    1) Nupirkta 6300.00 t grudu uz 19215000.00 Eur
+    2) Parduota 5233.48 t grudu uz 23483072.15 Eur
+    3) Dienos pelnas: 4268072.15 Eur
+
+  T = 122
+    1) Nupirkta 12700.00 t grudu uz 109855000.00 Eur
+    2) Parduota 8097.17 t grudu uz 63946337.36 Eur
+    3) Dienos pelnas: -45908662.64 Eur
+
+  T = 123
+    1) Nupirkta 12100.00 t grudu uz 83490000.00 Eur
+    2) Parduota 8290.62 t grudu uz 80236851.43 Eur
+    3) Dienos pelnas: -3253148.57 Eur
+
+  T = 124
+    1) Nupirkta 11800.00 t grudu uz 77880000.00 Eur
+    2) Parduota 4557.98 t grudu uz 36167558.36 Eur
+    3) Dienos pelnas: -41712441.64 Eur
+
+  T = 125
+    1) Nupirkta 11900.00 t grudu uz 97580000.00 Eur
+    2) Parduota 30131.91 t grudu uz 252816233.44 Eur
+    3) Dienos pelnas: 155236233.44 Eur
+
+  T = 126
+    1) Nupirkta 13800.00 t grudu uz 88320000.00 Eur
+    2) Parduota 8970.00 t grudu uz 66019200.00 Eur
+    3) Dienos pelnas: -22300800.00 Eur
+
+  T = 127
+    1) Nupirkta 7800.00 t grudu uz 36660000.00 Eur
+    2) Parduota 6567.60 t grudu uz 44940528.00 Eur
+    3) Dienos pelnas: 8280528.00 Eur
+
+  T = 128
+    1) Nupirkta 13400.00 t grudu uz 45560000.00 Eur
+    2) Parduota 15180.67 t grudu uz 68419715.52 Eur
+    3) Dienos pelnas: 22859715.52 Eur
+
+  T = 129
+    1) Nupirkta 4000.00 t grudu uz 33400000.00 Eur
+    2) Parduota 1407.89 t grudu uz 5504864.60 Eur
+    3) Dienos pelnas: -27895135.40 Eur
+
+  T = 130
+    1) Nupirkta 10200.00 t grudu uz 86700000.00 Eur
+    2) Parduota 16561.62 t grudu uz 144344789.99 Eur
+    3) Dienos pelnas: 57644789.99 Eur
+
+  T = 131
+    1) Nupirkta 7100.00 t grudu uz 15975000.00 Eur
+    2) Parduota 7536.09 t grudu uz 23181185.83 Eur
+    3) Dienos pelnas: 7206185.83 Eur
+
+  T = 132
+    1) Nupirkta 15200.00 t grudu uz 110200000.00 Eur
+    2) Parduota 4888.36 t grudu uz 40318991.53 Eur
+    3) Dienos pelnas: -69881008.47 Eur
+
+  T = 133
+    1) Nupirkta 11900.00 t grudu uz 81515000.00 Eur
+    2) Parduota 11143.88 t grudu uz 92564297.77 Eur
+    3) Dienos pelnas: 11049297.77 Eur
+
+  T = 134
+    1) Nupirkta 12500.00 t grudu uz 32500000.00 Eur
+    2) Parduota 8038.92 t grudu uz 63326590.10 Eur
+    3) Dienos pelnas: 30826590.10 Eur
+
+  T = 135
+    1) Nupirkta 11700.00 t grudu uz 63180000.00 Eur
+    2) Parduota 1092.20 t grudu uz 8603793.47 Eur
+    3) Dienos pelnas: -54576206.53 Eur
+
+  T = 136
+    1) Nupirkta 11800.00 t grudu uz 85550000.00 Eur
+    2) Parduota 26608.93 t grudu uz 129190618.90 Eur
+    3) Dienos pelnas: 43640618.90 Eur
+
+  T = 137
+    1) Nupirkta 15800.00 t grudu uz 97170000.00 Eur
+    2) Parduota 20674.91 t grudu uz 160649144.95 Eur
+    3) Dienos pelnas: 63479144.95 Eur
+
+  T = 138
+    1) Nupirkta 9800.00 t grudu uz 71050000.00 Eur
+    2) Parduota 8164.46 t grudu uz 59812098.43 Eur
+    3) Dienos pelnas: -11237901.57 Eur
+
+  T = 139
+    1) Nupirkta 13200.00 t grudu uz 58080000.00 Eur
+    2) Parduota 10895.87 t grudu uz 81892140.08 Eur
+    3) Dienos pelnas: 23812140.08 Eur
+
+  T = 140
+    1) Nupirkta 13400.00 t grudu uz 67000000.00 Eur
+    2) Parduota 5012.40 t grudu uz 25362758.58 Eur
+    3) Dienos pelnas: -41637241.42 Eur
+
+  T = 141
+    1) Nupirkta 7900.00 t grudu uz 49770000.00 Eur
+    2) Parduota 26756.18 t grudu uz 161893782.26 Eur
+    3) Dienos pelnas: 112123782.26 Eur
+
+  T = 142
+    1) Nupirkta 14600.00 t grudu uz 102930000.00 Eur
+    2) Parduota 6716.00 t grudu uz 54449970.00 Eur
+    3) Dienos pelnas: -48480030.00 Eur
+
+  T = 143
+    1) Nupirkta 7400.00 t grudu uz 44400000.00 Eur
+    2) Parduota 14825.48 t grudu uz 111815742.00 Eur
+    3) Dienos pelnas: 67415742.00 Eur
+
+  T = 144
+    1) Nupirkta 9600.00 t grudu uz 32640000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -32640000.00 Eur
+
+  T = 145
+    1) Nupirkta 8600.00 t grudu uz 58480000.00 Eur
+    2) Parduota 559.76 t grudu uz 3559619.20 Eur
+    3) Dienos pelnas: -54920380.80 Eur
+
+  T = 146
+    1) Nupirkta 4600.00 t grudu uz 9660000.00 Eur
+    2) Parduota 11576.37 t grudu uz 53387043.38 Eur
+    3) Dienos pelnas: 43727043.38 Eur
+
+  T = 147
+    1) Nupirkta 14500.00 t grudu uz 43500000.00 Eur
+    2) Parduota 13323.65 t grudu uz 69708440.04 Eur
+    3) Dienos pelnas: 26208440.04 Eur
+
+  T = 148
+    1) Nupirkta 4600.00 t grudu uz 6670000.00 Eur
+    2) Parduota 13856.97 t grudu uz 45029025.76 Eur
+    3) Dienos pelnas: 38359025.76 Eur
+
+  T = 149
+    1) Nupirkta 5800.00 t grudu uz 41180000.00 Eur
+    2) Parduota 6631.33 t grudu uz 34380886.63 Eur
+    3) Dienos pelnas: -6799113.37 Eur
+
+  T = 150
+    1) Nupirkta 5300.00 t grudu uz 43460000.00 Eur
+    2) Parduota 4881.79 t grudu uz 43239053.49 Eur
+    3) Dienos pelnas: -220946.51 Eur
+
+  T = 151
+    1) Nupirkta 14900.00 t grudu uz 113985000.00 Eur
+    2) Parduota 1928.15 t grudu uz 18182474.15 Eur
+    3) Dienos pelnas: -95802525.85 Eur
+
+  T = 152
+    1) Nupirkta 5900.00 t grudu uz 7080000.00 Eur
+    2) Parduota 9030.21 t grudu uz 79886352.66 Eur
+    3) Dienos pelnas: 72806352.66 Eur
+
+  T = 153
+    1) Nupirkta 14000.00 t grudu uz 51800000.00 Eur
+    2) Parduota 11911.63 t grudu uz 65173191.18 Eur
+    3) Dienos pelnas: 13373191.18 Eur
+
+  T = 154
+    1) Nupirkta 8100.00 t grudu uz 66825000.00 Eur
+    2) Parduota 12915.44 t grudu uz 53349033.29 Eur
+    3) Dienos pelnas: -13475966.71 Eur
+
+  T = 155
+    1) Nupirkta 13400.00 t grudu uz 120600000.00 Eur
+    2) Parduota 1620.03 t grudu uz 6893209.28 Eur
+    3) Dienos pelnas: -113706790.72 Eur
+
+  T = 156
+    1) Nupirkta 9900.00 t grudu uz 19800000.00 Eur
+    2) Parduota 9741.19 t grudu uz 93693687.98 Eur
+    3) Dienos pelnas: 73893687.98 Eur
+
+  T = 157
+    1) Nupirkta 10500.00 t grudu uz 77700000.00 Eur
+    2) Parduota 27998.35 t grudu uz 198465816.79 Eur
+    3) Dienos pelnas: 120765816.79 Eur
+
+  T = 158
+    1) Nupirkta 12200.00 t grudu uz 100650000.00 Eur
+    2) Parduota 11468.56 t grudu uz 104718459.37 Eur
+    3) Dienos pelnas: 4068459.37 Eur
+
+  T = 159
+    1) Nupirkta 9000.00 t grudu uz 50850000.00 Eur
+    2) Parduota 8905.66 t grudu uz 72560688.46 Eur
+    3) Dienos pelnas: 21710688.46 Eur
+
+  T = 160
+    1) Nupirkta 11700.00 t grudu uz 89505000.00 Eur
+    2) Parduota 15539.77 t grudu uz 125189468.32 Eur
+    3) Dienos pelnas: 35684468.32 Eur
+
+  T = 161
+    1) Nupirkta 12600.00 t grudu uz 25200000.00 Eur
+    2) Parduota 7435.62 t grudu uz 24701787.26 Eur
+    3) Dienos pelnas: -498212.74 Eur
+
+  T = 162
+    1) Nupirkta 13300.00 t grudu uz 27930000.00 Eur
+    2) Parduota 1767.06 t grudu uz 4064247.07 Eur
+    3) Dienos pelnas: -23865752.93 Eur
+
+  T = 163
+    1) Nupirkta 4700.00 t grudu uz 32195000.00 Eur
+    2) Parduota 5416.08 t grudu uz 12554618.85 Eur
+    3) Dienos pelnas: -19640381.15 Eur
+
+  T = 164
+    1) Nupirkta 4500.00 t grudu uz 24075000.00 Eur
+    2) Parduota 1082.55 t grudu uz 2614346.74 Eur
+    3) Dienos pelnas: -21460653.26 Eur
+
+  T = 165
+    1) Nupirkta 12600.00 t grudu uz 71820000.00 Eur
+    2) Parduota 1326.73 t grudu uz 3204063.52 Eur
+    3) Dienos pelnas: -68615936.48 Eur
+
+  T = 166
+    1) Nupirkta 12800.00 t grudu uz 49920000.00 Eur
+    2) Parduota 41516.71 t grudu uz 214946786.40 Eur
+    3) Dienos pelnas: 165026786.40 Eur
+
+  T = 167
+    1) Nupirkta 12700.00 t grudu uz 76835000.00 Eur
+    2) Parduota 949.49 t grudu uz 4258484.29 Eur
+    3) Dienos pelnas: -72576515.71 Eur
+
+  T = 168
+    1) Nupirkta 15600.00 t grudu uz 140400000.00 Eur
+    2) Parduota 18894.76 t grudu uz 139717181.25 Eur
+    3) Dienos pelnas: -682818.75 Eur
+
+  T = 169
+    1) Nupirkta 11400.00 t grudu uz 21090000.00 Eur
+    2) Parduota 3447.10 t grudu uz 35677473.40 Eur
+    3) Dienos pelnas: 14587473.40 Eur
+
+  T = 170
+    1) Nupirkta 15200.00 t grudu uz 79040000.00 Eur
+    2) Parduota 13546.09 t grudu uz 95697503.02 Eur
+    3) Dienos pelnas: 16657503.02 Eur
+
+  T = 171
+    1) Nupirkta 14300.00 t grudu uz 72215000.00 Eur
+    2) Parduota 31228.98 t grudu uz 161950377.15 Eur
+    3) Dienos pelnas: 89735377.15 Eur
+
+  T = 172
+    1) Nupirkta 13900.00 t grudu uz 71585000.00 Eur
+    2) Parduota 10350.34 t grudu uz 60810179.72 Eur
+    3) Dienos pelnas: -10774820.28 Eur
+
+  T = 173
+    1) Nupirkta 13500.00 t grudu uz 95175000.00 Eur
+    2) Parduota 2130.82 t grudu uz 12619753.94 Eur
+    3) Dienos pelnas: -82555246.06 Eur
+
+  T = 174
+    1) Nupirkta 6700.00 t grudu uz 43215000.00 Eur
+    2) Parduota 3364.05 t grudu uz 19923609.61 Eur
+    3) Dienos pelnas: -23291390.39 Eur
+
+  T = 175
+    1) Nupirkta 11200.00 t grudu uz 11200000.00 Eur
+    2) Parduota 31690.49 t grudu uz 183402709.21 Eur
+    3) Dienos pelnas: 172202709.21 Eur
+
+  T = 176
+    1) Nupirkta 14500.00 t grudu uz 39150000.00 Eur
+    2) Parduota 3965.47 t grudu uz 8358220.12 Eur
+    3) Dienos pelnas: -30791779.88 Eur
+
+  T = 177
+    1) Nupirkta 8600.00 t grudu uz 21500000.00 Eur
+    2) Parduota 7193.49 t grudu uz 22335788.81 Eur
+    3) Dienos pelnas: 835788.81 Eur
+
+  T = 178
+    1) Nupirkta 5900.00 t grudu uz 42775000.00 Eur
+    2) Parduota 9733.28 t grudu uz 29216859.61 Eur
+    3) Dienos pelnas: -13558140.39 Eur
+
+  T = 179
+    1) Nupirkta 14300.00 t grudu uz 24310000.00 Eur
+    2) Parduota 16368.47 t grudu uz 73549224.96 Eur
+    3) Dienos pelnas: 49239224.96 Eur
+
+  T = 180
+    1) Nupirkta 5200.00 t grudu uz 40820000.00 Eur
+    2) Parduota 8620.35 t grudu uz 20801162.75 Eur
+    3) Dienos pelnas: -20018837.25 Eur
+
+  T = 181
+    1) Nupirkta 15300.00 t grudu uz 24480000.00 Eur
+    2) Parduota 10569.12 t grudu uz 52809602.95 Eur
+    3) Dienos pelnas: 28329602.95 Eur
+
+  T = 182
+    1) Nupirkta 12900.00 t grudu uz 48375000.00 Eur
+    2) Parduota 3118.17 t grudu uz 5737425.04 Eur
+    3) Dienos pelnas: -42637574.96 Eur
+
+  T = 183
+    1) Nupirkta 12300.00 t grudu uz 15375000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -15375000.00 Eur
+
+  T = 184
+    1) Nupirkta 15900.00 t grudu uz 124020000.00 Eur
+    2) Parduota 6629.62 t grudu uz 13126127.28 Eur
+    3) Dienos pelnas: -110893872.72 Eur
+
+  T = 185
+    1) Nupirkta 6400.00 t grudu uz 6720000.00 Eur
+    2) Parduota 42883.59 t grudu uz 216924264.81 Eur
+    3) Dienos pelnas: 210204264.81 Eur
+
+  T = 186
+    1) Nupirkta 11600.00 t grudu uz 88160000.00 Eur
+    2) Parduota 13781.87 t grudu uz 88506480.00 Eur
+    3) Dienos pelnas: 346480.00 Eur
+
+  T = 187
+    1) Nupirkta 13700.00 t grudu uz 51375000.00 Eur
+    2) Parduota 3467.06 t grudu uz 24069511.59 Eur
+    3) Dienos pelnas: -27305488.41 Eur
+
+  T = 188
+    1) Nupirkta 4100.00 t grudu uz 15170000.00 Eur
+    2) Parduota 1311.38 t grudu uz 5655343.90 Eur
+    3) Dienos pelnas: -9514656.10 Eur
+
+  T = 189
+    1) Nupirkta 13000.00 t grudu uz 53300000.00 Eur
+    2) Parduota 8143.47 t grudu uz 35118696.89 Eur
+    3) Dienos pelnas: -18181303.11 Eur
+
+  T = 190
+    1) Nupirkta 9300.00 t grudu uz 83235000.00 Eur
+    2) Parduota 27775.58 t grudu uz 171650934.63 Eur
+    3) Dienos pelnas: 88415934.63 Eur
+
+  T = 191
+    1) Nupirkta 10900.00 t grudu uz 53410000.00 Eur
+    2) Parduota 10136.74 t grudu uz 63929175.94 Eur
+    3) Dienos pelnas: 10519175.94 Eur
+
+  T = 192
+    1) Nupirkta 4000.00 t grudu uz 4800000.00 Eur
+    2) Parduota 249.01 t grudu uz 1403145.89 Eur
+    3) Dienos pelnas: -3396854.11 Eur
+
+  T = 193
+    1) Nupirkta 4500.00 t grudu uz 19125000.00 Eur
+    2) Parduota 6076.16 t grudu uz 17144372.34 Eur
+    3) Dienos pelnas: -1980627.66 Eur
+
+  T = 194
+    1) Nupirkta 14700.00 t grudu uz 109515000.00 Eur
+    2) Parduota 2292.00 t grudu uz 11202135.49 Eur
+    3) Dienos pelnas: -98312864.51 Eur
+
+  T = 195
+    1) Nupirkta 13100.00 t grudu uz 13755000.00 Eur
+    2) Parduota 13757.67 t grudu uz 110111477.72 Eur
+    3) Dienos pelnas: 96356477.72 Eur
+
+  T = 196
+    1) Nupirkta 11800.00 t grudu uz 19470000.00 Eur
+    2) Parduota 18167.70 t grudu uz 45779767.42 Eur
+    3) Dienos pelnas: 26309767.42 Eur
+
+  T = 197
+    1) Nupirkta 15600.00 t grudu uz 18720000.00 Eur
+    2) Parduota 21829.04 t grudu uz 35186578.62 Eur
+    3) Dienos pelnas: 16466578.62 Eur
+
+  T = 198
+    1) Nupirkta 5700.00 t grudu uz 22800000.00 Eur
+    2) Parduota 4626.78 t grudu uz 9840720.10 Eur
+    3) Dienos pelnas: -12959279.90 Eur
+
+  T = 199
+    1) Nupirkta 13600.00 t grudu uz 98600000.00 Eur
+    2) Parduota 10207.00 t grudu uz 67808247.95 Eur
+    3) Dienos pelnas: -30791752.05 Eur
+
+  T = 200
+    1) Nupirkta 4700.00 t grudu uz 10105000.00 Eur
+    2) Parduota 4324.73 t grudu uz 36057408.61 Eur
+    3) Dienos pelnas: 25952408.61 Eur
+
+  T = 201
+    1) Nupirkta 6700.00 t grudu uz 23450000.00 Eur
+    2) Parduota 754.75 t grudu uz 6292752.16 Eur
+    3) Dienos pelnas: -17157247.84 Eur
+
+  T = 202
+    1) Nupirkta 8800.00 t grudu uz 35640000.00 Eur
+    2) Parduota 13652.78 t grudu uz 60335753.08 Eur
+    3) Dienos pelnas: 24695753.08 Eur
+
+  T = 203
+    1) Nupirkta 9600.00 t grudu uz 40800000.00 Eur
+    2) Parduota 3244.88 t grudu uz 14678165.54 Eur
+    3) Dienos pelnas: -26121834.46 Eur
+
+  T = 204
+    1) Nupirkta 8900.00 t grudu uz 77430000.00 Eur
+    2) Parduota 1731.99 t grudu uz 8066721.07 Eur
+    3) Dienos pelnas: -69363278.93 Eur
+
+  T = 205
+    1) Nupirkta 8700.00 t grudu uz 42630000.00 Eur
+    2) Parduota 1585.53 t grudu uz 7384620.07 Eur
+    3) Dienos pelnas: -35245379.93 Eur
+
+  T = 206
+    1) Nupirkta 12400.00 t grudu uz 16120000.00 Eur
+    2) Parduota 12757.54 t grudu uz 62869050.91 Eur
+    3) Dienos pelnas: 46749050.91 Eur
+
+  T = 207
+    1) Nupirkta 11700.00 t grudu uz 70785000.00 Eur
+    2) Parduota 21977.82 t grudu uz 142636028.78 Eur
+    3) Dienos pelnas: 71851028.78 Eur
+
+  T = 208
+    1) Nupirkta 13200.00 t grudu uz 117480000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -117480000.00 Eur
+
+  T = 209
+    1) Nupirkta 10200.00 t grudu uz 51000000.00 Eur
+    2) Parduota 3431.18 t grudu uz 5129616.13 Eur
+    3) Dienos pelnas: -45870383.87 Eur
+
+  T = 210
+    1) Nupirkta 6700.00 t grudu uz 26465000.00 Eur
+    2) Parduota 22156.12 t grudu uz 150327111.24 Eur
+    3) Dienos pelnas: 123862111.24 Eur
+
+  T = 211
+    1) Nupirkta 5800.00 t grudu uz 8700000.00 Eur
+    2) Parduota 4470.37 t grudu uz 45754233.63 Eur
+    3) Dienos pelnas: 37054233.63 Eur
+
+  T = 212
+    1) Nupirkta 13800.00 t grudu uz 88320000.00 Eur
+    2) Parduota 23087.94 t grudu uz 122158066.52 Eur
+    3) Dienos pelnas: 33838066.52 Eur
+
+  T = 213
+    1) Nupirkta 5200.00 t grudu uz 40820000.00 Eur
+    2) Parduota 18269.98 t grudu uz 125532743.87 Eur
+    3) Dienos pelnas: 84712743.87 Eur
+
+  T = 214
+    1) Nupirkta 10300.00 t grudu uz 34505000.00 Eur
+    2) Parduota 2256.61 t grudu uz 20371555.63 Eur
+    3) Dienos pelnas: -14133444.37 Eur
+
+  T = 215
+    1) Nupirkta 14500.00 t grudu uz 15950000.00 Eur
+    2) Parduota 14800.19 t grudu uz 50943638.96 Eur
+    3) Dienos pelnas: 34993638.96 Eur
+
+  T = 216
+    1) Nupirkta 7600.00 t grudu uz 28500000.00 Eur
+    2) Parduota 6960.60 t grudu uz 8805164.53 Eur
+    3) Dienos pelnas: -19694835.47 Eur
+
+  T = 217
+    1) Nupirkta 13700.00 t grudu uz 63020000.00 Eur
+    2) Parduota 24305.07 t grudu uz 106023810.80 Eur
+    3) Dienos pelnas: 43003810.80 Eur
+
+  T = 218
+    1) Nupirkta 11800.00 t grudu uz 23600000.00 Eur
+    2) Parduota 8660.68 t grudu uz 22167145.85 Eur
+    3) Dienos pelnas: -1432854.15 Eur
+
+  T = 219
+    1) Nupirkta 11600.00 t grudu uz 35380000.00 Eur
+    2) Parduota 9449.53 t grudu uz 28445799.93 Eur
+    3) Dienos pelnas: -6934200.07 Eur
+
+  T = 220
+    1) Nupirkta 11600.00 t grudu uz 88160000.00 Eur
+    2) Parduota 5821.70 t grudu uz 20419596.28 Eur
+    3) Dienos pelnas: -67740403.72 Eur
+
+  T = 221
+    1) Nupirkta 15800.00 t grudu uz 22910000.00 Eur
+    2) Parduota 6076.36 t grudu uz 51957229.34 Eur
+    3) Dienos pelnas: 29047229.34 Eur
+
+  T = 222
+    1) Nupirkta 10700.00 t grudu uz 67945000.00 Eur
+    2) Parduota 25149.89 t grudu uz 102880276.87 Eur
+    3) Dienos pelnas: 34935276.87 Eur
+
+  T = 223
+    1) Nupirkta 6900.00 t grudu uz 53130000.00 Eur
+    2) Parduota 10495.17 t grudu uz 81921971.55 Eur
+    3) Dienos pelnas: 28791971.55 Eur
+
+  T = 224
+    1) Nupirkta 13400.00 t grudu uz 53600000.00 Eur
+    2) Parduota 5407.48 t grudu uz 39760077.59 Eur
+    3) Dienos pelnas: -13839922.41 Eur
+
+  T = 225
+    1) Nupirkta 10600.00 t grudu uz 47700000.00 Eur
+    2) Parduota 3976.36 t grudu uz 18291269.31 Eur
+    3) Dienos pelnas: -29408730.69 Eur
+
+  T = 226
+    1) Nupirkta 7700.00 t grudu uz 31570000.00 Eur
+    2) Parduota 13939.85 t grudu uz 67817876.14 Eur
+    3) Dienos pelnas: 36247876.14 Eur
+
+  T = 227
+    1) Nupirkta 10600.00 t grudu uz 30740000.00 Eur
+    2) Parduota 21350.95 t grudu uz 89512862.96 Eur
+    3) Dienos pelnas: 58772862.96 Eur
+
+  T = 228
+    1) Nupirkta 9900.00 t grudu uz 9900000.00 Eur
+    2) Parduota 10913.50 t grudu uz 15005881.50 Eur
+    3) Dienos pelnas: 5105881.50 Eur
+
+  T = 229
+    1) Nupirkta 10700.00 t grudu uz 21935000.00 Eur
+    2) Parduota 10485.93 t grudu uz 24587468.91 Eur
+    3) Dienos pelnas: 2652468.91 Eur
+
+  T = 230
+    1) Nupirkta 13900.00 t grudu uz 124405000.00 Eur
+    2) Parduota 568.97 t grudu uz 3282770.24 Eur
+    3) Dienos pelnas: -121122229.76 Eur
+
+  T = 231
+    1) Nupirkta 7100.00 t grudu uz 62125000.00 Eur
+    2) Parduota 13075.86 t grudu uz 134583298.79 Eur
+    3) Dienos pelnas: 72458298.79 Eur
+
+  T = 232
+    1) Nupirkta 6300.00 t grudu uz 19530000.00 Eur
+    2) Parduota 8387.68 t grudu uz 79932755.24 Eur
+    3) Dienos pelnas: 60402755.24 Eur
+
+  T = 233
+    1) Nupirkta 12900.00 t grudu uz 99975000.00 Eur
+    2) Parduota 15902.94 t grudu uz 111832849.35 Eur
+    3) Dienos pelnas: 11857849.35 Eur
+
+  T = 234
+    1) Nupirkta 9400.00 t grudu uz 65800000.00 Eur
+    2) Parduota 599.44 t grudu uz 5342531.52 Eur
+    3) Dienos pelnas: -60457468.48 Eur
+
+  T = 235
+    1) Nupirkta 11000.00 t grudu uz 41800000.00 Eur
+    2) Parduota 18135.42 t grudu uz 122880673.43 Eur
+    3) Dienos pelnas: 81080673.43 Eur
+
+  T = 236
+    1) Nupirkta 7800.00 t grudu uz 38220000.00 Eur
+    2) Parduota 10848.59 t grudu uz 55750503.50 Eur
+    3) Dienos pelnas: 17530503.50 Eur
+
+  T = 237
+    1) Nupirkta 8200.00 t grudu uz 70110000.00 Eur
+    2) Parduota 3197.84 t grudu uz 26383057.04 Eur
+    3) Dienos pelnas: -43726942.96 Eur
+
+  T = 238
+    1) Nupirkta 15400.00 t grudu uz 126280000.00 Eur
+    2) Parduota 13396.69 t grudu uz 128829323.05 Eur
+    3) Dienos pelnas: 2549323.05 Eur
+
+  T = 239
+    1) Nupirkta 14500.00 t grudu uz 109475000.00 Eur
+    2) Parduota 1589.76 t grudu uz 14991447.93 Eur
+    3) Dienos pelnas: -94483552.07 Eur
+
+  T = 240
+    1) Nupirkta 7500.00 t grudu uz 43875000.00 Eur
+    2) Parduota 16027.82 t grudu uz 144110856.62 Eur
+    3) Dienos pelnas: 100235856.62 Eur
+
+  T = 241
+    1) Nupirkta 13600.00 t grudu uz 49640000.00 Eur
+    2) Parduota 3143.19 t grudu uz 27290788.48 Eur
+    3) Dienos pelnas: -22349211.52 Eur
+
+  T = 242
+    1) Nupirkta 6600.00 t grudu uz 8910000.00 Eur
+    2) Parduota 17197.06 t grudu uz 99905814.07 Eur
+    3) Dienos pelnas: 90995814.07 Eur
+
+  T = 243
+    1) Nupirkta 11600.00 t grudu uz 91640000.00 Eur
+    2) Parduota 3126.90 t grudu uz 13125142.52 Eur
+    3) Dienos pelnas: -78514857.48 Eur
+
+  T = 244
+    1) Nupirkta 8100.00 t grudu uz 47385000.00 Eur
+    2) Parduota 19157.26 t grudu uz 111005133.98 Eur
+    3) Dienos pelnas: 63620133.98 Eur
+
+  T = 245
+    1) Nupirkta 8600.00 t grudu uz 45150000.00 Eur
+    2) Parduota 6648.80 t grudu uz 48899958.99 Eur
+    3) Dienos pelnas: 3749958.99 Eur
+
+  T = 246
+    1) Nupirkta 13600.00 t grudu uz 70040000.00 Eur
+    2) Parduota 21352.87 t grudu uz 130043572.88 Eur
+    3) Dienos pelnas: 60003572.88 Eur
+
+  T = 247
+    1) Nupirkta 7100.00 t grudu uz 46505000.00 Eur
+    2) Parduota 5471.93 t grudu uz 34669135.32 Eur
+    3) Dienos pelnas: -11835864.68 Eur
+
+  T = 248
+    1) Nupirkta 9100.00 t grudu uz 38220000.00 Eur
+    2) Parduota 3698.82 t grudu uz 27861360.27 Eur
+    3) Dienos pelnas: -10358639.73 Eur
+
+  T = 249
+    1) Nupirkta 14000.00 t grudu uz 67200000.00 Eur
+    2) Parduota 23088.74 t grudu uz 125188734.33 Eur
+    3) Dienos pelnas: 57988734.33 Eur
+
+  T = 250
+    1) Nupirkta 9600.00 t grudu uz 20160000.00 Eur
+    2) Parduota 1160.77 t grudu uz 6407459.65 Eur
+    3) Dienos pelnas: -13752540.35 Eur
+
+  T = 251
+    1) Nupirkta 14900.00 t grudu uz 41720000.00 Eur
+    2) Parduota 10392.25 t grudu uz 27727042.15 Eur
+    3) Dienos pelnas: -13992957.85 Eur
+
+  T = 252
+    1) Nupirkta 10200.00 t grudu uz 87720000.00 Eur
+    2) Parduota 1257.73 t grudu uz 4005874.75 Eur
+    3) Dienos pelnas: -83714125.25 Eur
+
+  T = 253
+    1) Nupirkta 8600.00 t grudu uz 12900000.00 Eur
+    2) Parduota 23072.84 t grudu uz 136831681.18 Eur
+    3) Dienos pelnas: 123931681.18 Eur
+
+  T = 254
+    1) Nupirkta 14700.00 t grudu uz 45570000.00 Eur
+    2) Parduota 8684.68 t grudu uz 21710011.19 Eur
+    3) Dienos pelnas: -23859988.81 Eur
+
+  T = 255
+    1) Nupirkta 14400.00 t grudu uz 17280000.00 Eur
+    2) Parduota 11040.59 t grudu uz 37999145.67 Eur
+    3) Dienos pelnas: 20719145.67 Eur
+
+  T = 256
+    1) Nupirkta 10800.00 t grudu uz 93420000.00 Eur
+    2) Parduota 5919.77 t grudu uz 17780757.19 Eur
+    3) Dienos pelnas: -75639242.81 Eur
+
+  T = 257
+    1) Nupirkta 12600.00 t grudu uz 58590000.00 Eur
+    2) Parduota 11609.30 t grudu uz 16020839.91 Eur
+    3) Dienos pelnas: -42569160.09 Eur
+
+  T = 258
+    1) Nupirkta 6000.00 t grudu uz 18600000.00 Eur
+    2) Parduota 28522.89 t grudu uz 190300143.31 Eur
+    3) Dienos pelnas: 171700143.31 Eur
+
+  T = 259
+    1) Nupirkta 10900.00 t grudu uz 61585000.00 Eur
+    2) Parduota 11089.85 t grudu uz 65760572.17 Eur
+    3) Dienos pelnas: 4175572.17 Eur
+
+  T = 260
+    1) Nupirkta 14500.00 t grudu uz 52200000.00 Eur
+    2) Parduota 6418.24 t grudu uz 31185229.20 Eur
+    3) Dienos pelnas: -21014770.80 Eur
+
+  T = 261
+    1) Nupirkta 6500.00 t grudu uz 21450000.00 Eur
+    2) Parduota 10584.83 t grudu uz 43632795.39 Eur
+    3) Dienos pelnas: 22182795.39 Eur
+
+  T = 262
+    1) Nupirkta 12600.00 t grudu uz 15120000.00 Eur
+    2) Parduota 17811.81 t grudu uz 38959115.91 Eur
+    3) Dienos pelnas: 23839115.91 Eur
+
+  T = 263
+    1) Nupirkta 12800.00 t grudu uz 21120000.00 Eur
+    2) Parduota 6364.81 t grudu uz 11693168.51 Eur
+    3) Dienos pelnas: -9426831.49 Eur
+
+  T = 264
+    1) Nupirkta 15700.00 t grudu uz 140515000.00 Eur
+    2) Parduota 18073.10 t grudu uz 125763596.97 Eur
+    3) Dienos pelnas: -14751403.03 Eur
+
+  T = 265
+    1) Nupirkta 6700.00 t grudu uz 20770000.00 Eur
+    2) Parduota 115.04 t grudu uz 1184074.13 Eur
+    3) Dienos pelnas: -19585925.87 Eur
+
+  T = 266
+    1) Nupirkta 7600.00 t grudu uz 63460000.00 Eur
+    2) Parduota 7595.68 t grudu uz 58625190.79 Eur
+    3) Dienos pelnas: -4834809.21 Eur
+
+  T = 267
+    1) Nupirkta 15600.00 t grudu uz 92040000.00 Eur
+    2) Parduota 809.81 t grudu uz 2886956.95 Eur
+    3) Dienos pelnas: -89153043.05 Eur
+
+  T = 268
+    1) Nupirkta 14900.00 t grudu uz 30545000.00 Eur
+    2) Parduota 41083.71 t grudu uz 224588691.48 Eur
+    3) Dienos pelnas: 194043691.48 Eur
+
+  T = 269
+    1) Nupirkta 13500.00 t grudu uz 21600000.00 Eur
+    2) Parduota 5940.00 t grudu uz 10929600.00 Eur
+    3) Dienos pelnas: -10670400.00 Eur
+
+  T = 270
+    1) Nupirkta 14700.00 t grudu uz 66150000.00 Eur
+    2) Parduota 8904.00 t grudu uz 20865600.00 Eur
+    3) Dienos pelnas: -45284400.00 Eur
+
+  T = 271
+    1) Nupirkta 10200.00 t grudu uz 19890000.00 Eur
+    2) Parduota 22849.32 t grudu uz 90406070.10 Eur
+    3) Dienos pelnas: 70516070.10 Eur
+
+  T = 272
+    1) Nupirkta 15300.00 t grudu uz 96390000.00 Eur
+    2) Parduota 3841.60 t grudu uz 24297248.48 Eur
+    3) Dienos pelnas: -72092751.52 Eur
+
+  T = 273
+    1) Nupirkta 10600.00 t grudu uz 59360000.00 Eur
+    2) Parduota 15480.25 t grudu uz 109485711.15 Eur
+    3) Dienos pelnas: 50125711.15 Eur
+
+  T = 274
+    1) Nupirkta 11000.00 t grudu uz 98450000.00 Eur
+    2) Parduota 15542.10 t grudu uz 131902286.73 Eur
+    3) Dienos pelnas: 33452286.73 Eur
+
+  T = 275
+    1) Nupirkta 5900.00 t grudu uz 37760000.00 Eur
+    2) Parduota 2074.25 t grudu uz 21349256.05 Eur
+    3) Dienos pelnas: -16410743.95 Eur
+
+  T = 276
+    1) Nupirkta 7800.00 t grudu uz 10530000.00 Eur
+    2) Parduota 11494.78 t grudu uz 57952317.56 Eur
+    3) Dienos pelnas: 47422317.56 Eur
+
+  T = 277
+    1) Nupirkta 11600.00 t grudu uz 12760000.00 Eur
+    2) Parduota 1736.84 t grudu uz 2696449.19 Eur
+    3) Dienos pelnas: -10063550.81 Eur
+
+  T = 278
+    1) Nupirkta 15300.00 t grudu uz 81090000.00 Eur
+    2) Parduota 19625.80 t grudu uz 58427079.20 Eur
+    3) Dienos pelnas: -22662920.80 Eur
+
+  T = 279
+    1) Nupirkta 9000.00 t grudu uz 63000000.00 Eur
+    2) Parduota 8357.31 t grudu uz 50937783.14 Eur
+    3) Dienos pelnas: -12062216.86 Eur
+
+  T = 280
+    1) Nupirkta 14200.00 t grudu uz 56090000.00 Eur
+    2) Parduota 4185.67 t grudu uz 33589603.15 Eur
+    3) Dienos pelnas: -22500396.85 Eur
+
+  T = 281
+    1) Nupirkta 10700.00 t grudu uz 15515000.00 Eur
+    2) Parduota 15777.08 t grudu uz 88742151.58 Eur
+    3) Dienos pelnas: 73227151.58 Eur
+
+  T = 282
+    1) Nupirkta 14000.00 t grudu uz 35000000.00 Eur
+    2) Parduota 3358.92 t grudu uz 15062607.97 Eur
+    3) Dienos pelnas: -19937392.03 Eur
+
+  T = 283
+    1) Nupirkta 7500.00 t grudu uz 22500000.00 Eur
+    2) Parduota 31810.75 t grudu uz 82745429.10 Eur
+    3) Dienos pelnas: 60245429.10 Eur
+
+  T = 284
+    1) Nupirkta 10500.00 t grudu uz 39900000.00 Eur
+    2) Parduota 7574.92 t grudu uz 32806805.09 Eur
+    3) Dienos pelnas: -7093194.91 Eur
+
+  T = 285
+    1) Nupirkta 9100.00 t grudu uz 14560000.00 Eur
+    2) Parduota 987.71 t grudu uz 4316300.12 Eur
+    3) Dienos pelnas: -10243699.88 Eur
+
+  T = 286
+    1) Nupirkta 6200.00 t grudu uz 27280000.00 Eur
+    2) Parduota 11939.91 t grudu uz 29555429.40 Eur
+    3) Dienos pelnas: 2275429.40 Eur
+
+  T = 287
+    1) Nupirkta 7300.00 t grudu uz 52560000.00 Eur
+    2) Parduota 12789.59 t grudu uz 87805347.08 Eur
+    3) Dienos pelnas: 35245347.08 Eur
+
+  T = 288
+    1) Nupirkta 15000.00 t grudu uz 54750000.00 Eur
+    2) Parduota 12254.64 t grudu uz 51966269.41 Eur
+    3) Dienos pelnas: -2783730.59 Eur
+
+  T = 289
+    1) Nupirkta 4900.00 t grudu uz 42385000.00 Eur
+    2) Parduota 5830.91 t grudu uz 41474332.20 Eur
+    3) Dienos pelnas: -910667.80 Eur
+
+  T = 290
+    1) Nupirkta 10900.00 t grudu uz 34880000.00 Eur
+    2) Parduota 6293.38 t grudu uz 35341386.46 Eur
+    3) Dienos pelnas: 461386.46 Eur
+
+  T = 291
+    1) Nupirkta 6200.00 t grudu uz 42780000.00 Eur
+    2) Parduota 6757.63 t grudu uz 25750499.91 Eur
+    3) Dienos pelnas: -17029500.09 Eur
+
+  T = 292
+    1) Nupirkta 11500.00 t grudu uz 87400000.00 Eur
+    2) Parduota 4373.15 t grudu uz 34700984.23 Eur
+    3) Dienos pelnas: -52699015.77 Eur
+
+  T = 293
+    1) Nupirkta 14700.00 t grudu uz 52920000.00 Eur
+    2) Parduota 5007.50 t grudu uz 42461912.81 Eur
+    3) Dienos pelnas: -10458087.19 Eur
+
+  T = 294
+    1) Nupirkta 13900.00 t grudu uz 77840000.00 Eur
+    2) Parduota 33775.00 t grudu uz 202358537.53 Eur
+    3) Dienos pelnas: 124518537.53 Eur
+
+  T = 295
+    1) Nupirkta 15600.00 t grudu uz 31200000.00 Eur
+    2) Parduota 14644.20 t grudu uz 45840652.17 Eur
+    3) Dienos pelnas: 14640652.17 Eur
+
+  T = 296
+    1) Nupirkta 14900.00 t grudu uz 14900000.00 Eur
+    2) Parduota 8456.74 t grudu uz 14201928.88 Eur
+    3) Dienos pelnas: -698071.12 Eur
+
+  T = 297
+    1) Nupirkta 13400.00 t grudu uz 111220000.00 Eur
+    2) Parduota 15191.05 t grudu uz 58227714.46 Eur
+    3) Dienos pelnas: -52992285.54 Eur
+
+  T = 298
+    1) Nupirkta 6300.00 t grudu uz 40320000.00 Eur
+    2) Parduota 10985.28 t grudu uz 99522378.63 Eur
+    3) Dienos pelnas: 59202378.63 Eur
+
+  T = 299
+    1) Nupirkta 10500.00 t grudu uz 48825000.00 Eur
+    2) Parduota 14216.09 t grudu uz 83788193.72 Eur
+    3) Dienos pelnas: 34963193.72 Eur
+
+  T = 300
+    1) Nupirkta 4200.00 t grudu uz 10920000.00 Eur
+    2) Parduota 173.74 t grudu uz 858023.91 Eur
+    3) Dienos pelnas: -10061976.09 Eur
+
+  T = 301
+    1) Nupirkta 5100.00 t grudu uz 35445000.00 Eur
+    2) Parduota 926.99 t grudu uz 2771686.06 Eur
+    3) Dienos pelnas: -32673313.94 Eur
+
+  T = 302
+    1) Nupirkta 14100.00 t grudu uz 88125000.00 Eur
+    2) Parduota 10099.29 t grudu uz 63082213.01 Eur
+    3) Dienos pelnas: -25042786.99 Eur
+
+  T = 303
+    1) Nupirkta 11500.00 t grudu uz 41400000.00 Eur
+    2) Parduota 3099.67 t grudu uz 22278842.50 Eur
+    3) Dienos pelnas: -19121157.50 Eur
+
+  T = 304
+    1) Nupirkta 5500.00 t grudu uz 42625000.00 Eur
+    2) Parduota 20995.13 t grudu uz 116289595.50 Eur
+    3) Dienos pelnas: 73664595.50 Eur
+
+  T = 305
+    1) Nupirkta 8200.00 t grudu uz 54940000.00 Eur
+    2) Parduota 5648.49 t grudu uz 49859509.66 Eur
+    3) Dienos pelnas: -5080490.34 Eur
+
+  T = 306
+    1) Nupirkta 10800.00 t grudu uz 28620000.00 Eur
+    2) Parduota 12276.19 t grudu uz 73741569.42 Eur
+    3) Dienos pelnas: 45121569.42 Eur
+
+  T = 307
+    1) Nupirkta 10800.00 t grudu uz 30240000.00 Eur
+    2) Parduota 11473.15 t grudu uz 35852625.89 Eur
+    3) Dienos pelnas: 5612625.89 Eur
+
+  T = 308
+    1) Nupirkta 5800.00 t grudu uz 38570000.00 Eur
+    2) Parduota 11107.42 t grudu uz 59924433.67 Eur
+    3) Dienos pelnas: 21354433.67 Eur
+
+  T = 309
+    1) Nupirkta 15300.00 t grudu uz 82620000.00 Eur
+    2) Parduota 2815.84 t grudu uz 17980158.60 Eur
+    3) Dienos pelnas: -64639841.40 Eur
+
+  T = 310
+    1) Nupirkta 12800.00 t grudu uz 60800000.00 Eur
+    2) Parduota 18708.22 t grudu uz 111782331.91 Eur
+    3) Dienos pelnas: 50982331.91 Eur
+
+  T = 311
+    1) Nupirkta 13000.00 t grudu uz 28600000.00 Eur
+    2) Parduota 15935.58 t grudu uz 60608388.89 Eur
+    3) Dienos pelnas: 32008388.89 Eur
+
+  T = 312
+    1) Nupirkta 8300.00 t grudu uz 27390000.00 Eur
+    2) Parduota 8230.21 t grudu uz 26194019.02 Eur
+    3) Dienos pelnas: -1195980.98 Eur
+
+  T = 313
+    1) Nupirkta 8400.00 t grudu uz 28140000.00 Eur
+    2) Parduota 10087.49 t grudu uz 38628950.02 Eur
+    3) Dienos pelnas: 10488950.02 Eur
+
+  T = 314
+    1) Nupirkta 5100.00 t grudu uz 45645000.00 Eur
+    2) Parduota 895.94 t grudu uz 3451624.37 Eur
+    3) Dienos pelnas: -42193375.63 Eur
+
+  T = 315
+    1) Nupirkta 9000.00 t grudu uz 37800000.00 Eur
+    2) Parduota 8719.34 t grudu uz 68536003.56 Eur
+    3) Dienos pelnas: 30736003.56 Eur
+
+  T = 316
+    1) Nupirkta 10800.00 t grudu uz 15660000.00 Eur
+    2) Parduota 11120.08 t grudu uz 40208736.62 Eur
+    3) Dienos pelnas: 24548736.62 Eur
+
+  T = 317
+    1) Nupirkta 11600.00 t grudu uz 20880000.00 Eur
+    2) Parduota 1631.78 t grudu uz 2720985.47 Eur
+    3) Dienos pelnas: -18159014.53 Eur
+
+  T = 318
+    1) Nupirkta 15800.00 t grudu uz 128770000.00 Eur
+    2) Parduota 9043.74 t grudu uz 16748663.94 Eur
+    3) Dienos pelnas: -112021336.06 Eur
+
+  T = 319
+    1) Nupirkta 12500.00 t grudu uz 64375000.00 Eur
+    2) Parduota 25743.83 t grudu uz 178256217.25 Eur
+    3) Dienos pelnas: 113881217.25 Eur
+
+  T = 320
+    1) Nupirkta 5300.00 t grudu uz 37630000.00 Eur
+    2) Parduota 1224.92 t grudu uz 7254584.42 Eur
+    3) Dienos pelnas: -30375415.58 Eur
+
+  T = 321
+    1) Nupirkta 12200.00 t grudu uz 56730000.00 Eur
+    2) Parduota 21292.12 t grudu uz 133844656.81 Eur
+    3) Dienos pelnas: 77114656.81 Eur
+
+  T = 322
+    1) Nupirkta 7900.00 t grudu uz 24095000.00 Eur
+    2) Parduota 12507.62 t grudu uz 53060245.64 Eur
+    3) Dienos pelnas: 28965245.64 Eur
+
+  T = 323
+    1) Nupirkta 7600.00 t grudu uz 63840000.00 Eur
+    2) Parduota 6149.86 t grudu uz 57027671.78 Eur
+    3) Dienos pelnas: -6812328.22 Eur
+
+  T = 324
+    1) Nupirkta 10200.00 t grudu uz 22950000.00 Eur
+    2) Parduota 8546.25 t grudu uz 35105403.94 Eur
+    3) Dienos pelnas: 12155403.94 Eur
+
+  T = 325
+    1) Nupirkta 11900.00 t grudu uz 98175000.00 Eur
+    2) Parduota 6156.29 t grudu uz 34321808.84 Eur
+    3) Dienos pelnas: -63853191.16 Eur
+
+  T = 326
+    1) Nupirkta 15200.00 t grudu uz 124640000.00 Eur
+    2) Parduota 11728.53 t grudu uz 111130997.77 Eur
+    3) Dienos pelnas: -13509002.23 Eur
+
+  T = 327
+    1) Nupirkta 5700.00 t grudu uz 26220000.00 Eur
+    2) Parduota 15092.84 t grudu uz 132443583.10 Eur
+    3) Dienos pelnas: 106223583.10 Eur
+
+  T = 328
+    1) Nupirkta 12400.00 t grudu uz 75640000.00 Eur
+    2) Parduota 14613.15 t grudu uz 96796203.38 Eur
+    3) Dienos pelnas: 21156203.38 Eur
+
+  T = 329
+    1) Nupirkta 4200.00 t grudu uz 27720000.00 Eur
+    2) Parduota 741.99 t grudu uz 5205045.94 Eur
+    3) Dienos pelnas: -22514954.06 Eur
+
+  T = 330
+    1) Nupirkta 4100.00 t grudu uz 27675000.00 Eur
+    2) Parduota 7272.66 t grudu uz 55461959.04 Eur
+    3) Dienos pelnas: 27786959.04 Eur
+
+  T = 331
+    1) Nupirkta 7000.00 t grudu uz 18200000.00 Eur
+    2) Parduota 3605.67 t grudu uz 17392131.94 Eur
+    3) Dienos pelnas: -807868.06 Eur
+
+  T = 332
+    1) Nupirkta 7100.00 t grudu uz 57865000.00 Eur
+    2) Parduota 5939.80 t grudu uz 25164973.60 Eur
+    3) Dienos pelnas: -32700026.40 Eur
+
+  T = 333
+    1) Nupirkta 5600.00 t grudu uz 34440000.00 Eur
+    2) Parduota 923.18 t grudu uz 8652543.12 Eur
+    3) Dienos pelnas: -25787456.88 Eur
+
+  T = 334
+    1) Nupirkta 4000.00 t grudu uz 25400000.00 Eur
+    2) Parduota 10231.63 t grudu uz 83901438.09 Eur
+    3) Dienos pelnas: 58501438.09 Eur
+
+  T = 335
+    1) Nupirkta 6400.00 t grudu uz 10880000.00 Eur
+    2) Parduota 6470.99 t grudu uz 36010949.39 Eur
+    3) Dienos pelnas: 25130949.39 Eur
+
+  T = 336
+    1) Nupirkta 6600.00 t grudu uz 53130000.00 Eur
+    2) Parduota 5784.42 t grudu uz 22046297.34 Eur
+    3) Dienos pelnas: -31083702.66 Eur
+
+  T = 337
+    1) Nupirkta 14900.00 t grudu uz 67050000.00 Eur
+    2) Parduota 17025.14 t grudu uz 109046601.77 Eur
+    3) Dienos pelnas: 41996601.77 Eur
+
+  T = 338
+    1) Nupirkta 12000.00 t grudu uz 38400000.00 Eur
+    2) Parduota 12003.55 t grudu uz 48664693.99 Eur
+    3) Dienos pelnas: 10264693.99 Eur
+
+  T = 339
+    1) Nupirkta 12100.00 t grudu uz 85910000.00 Eur
+    2) Parduota 9815.58 t grudu uz 66685204.60 Eur
+    3) Dienos pelnas: -19224795.40 Eur
+
+  T = 340
+    1) Nupirkta 16000.00 t grudu uz 96000000.00 Eur
+    2) Parduota 638.56 t grudu uz 5213836.82 Eur
+    3) Dienos pelnas: -90786163.18 Eur
+
+  T = 341
+    1) Nupirkta 12700.00 t grudu uz 39370000.00 Eur
+    2) Parduota 29678.61 t grudu uz 180539295.41 Eur
+    3) Dienos pelnas: 141169295.41 Eur
+
+  T = 342
+    1) Nupirkta 11300.00 t grudu uz 31075000.00 Eur
+    2) Parduota 9280.25 t grudu uz 30825213.09 Eur
+    3) Dienos pelnas: -249786.91 Eur
+
+  T = 343
+    1) Nupirkta 11200.00 t grudu uz 62160000.00 Eur
+    2) Parduota 3715.34 t grudu uz 11749752.39 Eur
+    3) Dienos pelnas: -50410247.61 Eur
+
+  T = 344
+    1) Nupirkta 7700.00 t grudu uz 23870000.00 Eur
+    2) Parduota 12940.99 t grudu uz 76244205.74 Eur
+    3) Dienos pelnas: 52374205.74 Eur
+
+  T = 345
+    1) Nupirkta 9900.00 t grudu uz 83160000.00 Eur
+    2) Parduota 16226.73 t grudu uz 109059738.72 Eur
+    3) Dienos pelnas: 25899738.72 Eur
+
+  T = 346
+    1) Nupirkta 12100.00 t grudu uz 38720000.00 Eur
+    2) Parduota 1507.53 t grudu uz 14562764.54 Eur
+    3) Dienos pelnas: -24157235.46 Eur
+
+  T = 347
+    1) Nupirkta 12500.00 t grudu uz 31250000.00 Eur
+    2) Parduota 2716.70 t grudu uz 10579377.89 Eur
+    3) Dienos pelnas: -20670622.11 Eur
+
+  T = 348
+    1) Nupirkta 10400.00 t grudu uz 82160000.00 Eur
+    2) Parduota 26552.10 t grudu uz 112358122.89 Eur
+    3) Dienos pelnas: 30198122.89 Eur
+
+  T = 349
+    1) Nupirkta 11600.00 t grudu uz 19140000.00 Eur
+    2) Parduota 8191.40 t grudu uz 57435587.56 Eur
+    3) Dienos pelnas: 38295587.56 Eur
+
+  T = 350
+    1) Nupirkta 12300.00 t grudu uz 80565000.00 Eur
+    2) Parduota 19383.40 t grudu uz 93954337.79 Eur
+    3) Dienos pelnas: 13389337.79 Eur
+
+  T = 351
+    1) Nupirkta 5900.00 t grudu uz 53100000.00 Eur
+    2) Parduota 6362.43 t grudu uz 59783087.09 Eur
+    3) Dienos pelnas: 6683087.09 Eur
+
+  T = 352
+    1) Nupirkta 13400.00 t grudu uz 67670000.00 Eur
+    2) Parduota 3320.08 t grudu uz 26964009.24 Eur
+    3) Dienos pelnas: -40705990.76 Eur
+
+  T = 353
+    1) Nupirkta 9300.00 t grudu uz 63705000.00 Eur
+    2) Parduota 10746.31 t grudu uz 62409200.59 Eur
+    3) Dienos pelnas: -1295799.41 Eur
+
+  T = 354
+    1) Nupirkta 13900.00 t grudu uz 117455000.00 Eur
+    2) Parduota 7267.47 t grudu uz 55127948.10 Eur
+    3) Dienos pelnas: -62327051.90 Eur
+
+  T = 355
+    1) Nupirkta 12100.00 t grudu uz 97405000.00 Eur
+    2) Parduota 15109.86 t grudu uz 141204398.98 Eur
+    3) Dienos pelnas: 43799398.98 Eur
+
+  T = 356
+    1) Nupirkta 6900.00 t grudu uz 24150000.00 Eur
+    2) Parduota 13342.44 t grudu uz 124367513.95 Eur
+    3) Dienos pelnas: 100217513.95 Eur
+
+  T = 357
+    1) Nupirkta 4700.00 t grudu uz 30080000.00 Eur
+    2) Parduota 3417.43 t grudu uz 16921475.43 Eur
+    3) Dienos pelnas: -13158524.57 Eur
+
+  T = 358
+    1) Nupirkta 10200.00 t grudu uz 11220000.00 Eur
+    2) Parduota 12152.12 t grudu uz 55300951.35 Eur
+    3) Dienos pelnas: 44080951.35 Eur
+
+  T = 359
+    1) Nupirkta 11600.00 t grudu uz 26100000.00 Eur
+    2) Parduota 184.36 t grudu uz 233209.93 Eur
+    3) Dienos pelnas: -25866790.07 Eur
+
+  T = 360
+    1) Nupirkta 12900.00 t grudu uz 38055000.00 Eur
+    2) Parduota 25543.99 t grudu uz 63169545.59 Eur
+    3) Dienos pelnas: 25114545.59 Eur
+
+  T = 361
+    1) Nupirkta 9300.00 t grudu uz 22785000.00 Eur
+    2) Parduota 596.29 t grudu uz 2022909.51 Eur
+    3) Dienos pelnas: -20762090.49 Eur
+
+  T = 362
+    1) Nupirkta 5100.00 t grudu uz 16830000.00 Eur
+    2) Parduota 1746.98 t grudu uz 5926642.03 Eur
+    3) Dienos pelnas: -10903357.97 Eur
+
+  T = 363
+    1) Nupirkta 8900.00 t grudu uz 15575000.00 Eur
+    2) Parduota 14875.81 t grudu uz 46049209.41 Eur
+    3) Dienos pelnas: 30474209.41 Eur
+
+  T = 364
+    1) Nupirkta 10900.00 t grudu uz 21800000.00 Eur
+    2) Parduota 9938.78 t grudu uz 24971647.24 Eur
+    3) Dienos pelnas: 3171647.24 Eur
+
+  T = 365
+    1) Nupirkta 7600.00 t grudu uz 66120000.00 Eur
+    2) Parduota 2024.94 t grudu uz 4154412.02 Eur
+    3) Dienos pelnas: -61965587.98 Eur
+
+  T = 366
+    1) Nupirkta 6100.00 t grudu uz 21960000.00 Eur
+    2) Parduota 22621.71 t grudu uz 118678950.33 Eur
+    3) Dienos pelnas: 96718950.33 Eur
+
+  T = 367
+    1) Nupirkta 7100.00 t grudu uz 16685000.00 Eur
+    2) Parduota 6866.11 t grudu uz 21003316.20 Eur
+    3) Dienos pelnas: 4318316.20 Eur
+
+  T = 368
+    1) Nupirkta 5100.00 t grudu uz 28560000.00 Eur
+    2) Parduota 1688.78 t grudu uz 4563936.22 Eur
+    3) Dienos pelnas: -23996063.78 Eur
+
+  T = 369
+    1) Nupirkta 15500.00 t grudu uz 138725000.00 Eur
+    2) Parduota 12508.69 t grudu uz 107217018.48 Eur
+    3) Dienos pelnas: -31507981.52 Eur
+
+  T = 370
+    1) Nupirkta 13600.00 t grudu uz 28560000.00 Eur
+    2) Parduota 14699.21 t grudu uz 101190060.36 Eur
+    3) Dienos pelnas: 72630060.36 Eur
+
+  T = 371
+    1) Nupirkta 14900.00 t grudu uz 132610000.00 Eur
+    2) Parduota 12398.35 t grudu uz 70281009.20 Eur
+    3) Dienos pelnas: -62328990.80 Eur
+
+  T = 372
+    1) Nupirkta 14800.00 t grudu uz 99900000.00 Eur
+    2) Parduota 23069.07 t grudu uz 203159644.61 Eur
+    3) Dienos pelnas: 103259644.61 Eur
+
+  T = 373
+    1) Nupirkta 4900.00 t grudu uz 12985000.00 Eur
+    2) Parduota 3504.87 t grudu uz 17623903.54 Eur
+    3) Dienos pelnas: 4638903.54 Eur
+
+  T = 374
+    1) Nupirkta 14200.00 t grudu uz 116440000.00 Eur
+    2) Parduota 16214.24 t grudu uz 134597694.65 Eur
+    3) Dienos pelnas: 18157694.65 Eur
+
+  T = 375
+    1) Nupirkta 7900.00 t grudu uz 42660000.00 Eur
+    2) Parduota 525.20 t grudu uz 4952663.03 Eur
+    3) Dienos pelnas: -37707336.97 Eur
+
+  T = 376
+    1) Nupirkta 13200.00 t grudu uz 54120000.00 Eur
+    2) Parduota 10071.24 t grudu uz 60843774.80 Eur
+    3) Dienos pelnas: 6723774.80 Eur
+
+  T = 377
+    1) Nupirkta 7500.00 t grudu uz 57750000.00 Eur
+    2) Parduota 3771.39 t grudu uz 17782089.20 Eur
+    3) Dienos pelnas: -39967910.80 Eur
+
+  T = 378
+    1) Nupirkta 6500.00 t grudu uz 42575000.00 Eur
+    2) Parduota 19426.99 t grudu uz 134880293.10 Eur
+    3) Dienos pelnas: 92305293.10 Eur
+
+  T = 379
+    1) Nupirkta 6300.00 t grudu uz 15750000.00 Eur
+    2) Parduota 4060.11 t grudu uz 21726274.35 Eur
+    3) Dienos pelnas: 5976274.35 Eur
+
+  T = 380
+    1) Nupirkta 11000.00 t grudu uz 46200000.00 Eur
+    2) Parduota 2001.80 t grudu uz 5755170.12 Eur
+    3) Dienos pelnas: -40444829.88 Eur
+
+  T = 381
+    1) Nupirkta 5700.00 t grudu uz 44460000.00 Eur
+    2) Parduota 7256.73 t grudu uz 30364540.64 Eur
+    3) Dienos pelnas: -14095459.36 Eur
+
+  T = 382
+    1) Nupirkta 7900.00 t grudu uz 39500000.00 Eur
+    2) Parduota 13620.55 t grudu uz 91023415.67 Eur
+    3) Dienos pelnas: 51523415.67 Eur
+
+  T = 383
+    1) Nupirkta 9200.00 t grudu uz 57960000.00 Eur
+    2) Parduota 919.16 t grudu uz 5285184.78 Eur
+    3) Dienos pelnas: -52674815.22 Eur
+
+  T = 384
+    1) Nupirkta 7600.00 t grudu uz 66500000.00 Eur
+    2) Parduota 21780.21 t grudu uz 170816456.67 Eur
+    3) Dienos pelnas: 104316456.67 Eur
+
+  T = 385
+    1) Nupirkta 11000.00 t grudu uz 62700000.00 Eur
+    2) Parduota 448.80 t grudu uz 3713542.05 Eur
+    3) Dienos pelnas: -58986457.95 Eur
+
+  T = 386
+    1) Nupirkta 12700.00 t grudu uz 64770000.00 Eur
+    2) Parduota 22297.64 t grudu uz 138207799.44 Eur
+    3) Dienos pelnas: 73437799.44 Eur
+
+  T = 387
+    1) Nupirkta 6300.00 t grudu uz 23310000.00 Eur
+    2) Parduota 1345.24 t grudu uz 7613431.45 Eur
+    3) Dienos pelnas: -15696568.55 Eur
+
+  T = 388
+    1) Nupirkta 9500.00 t grudu uz 13300000.00 Eur
+    2) Parduota 11096.11 t grudu uz 34074136.28 Eur
+    3) Dienos pelnas: 20774136.28 Eur
+
+  T = 389
+    1) Nupirkta 8000.00 t grudu uz 44400000.00 Eur
+    2) Parduota 6015.46 t grudu uz 16763701.90 Eur
+    3) Dienos pelnas: -27636298.10 Eur
+
+  T = 390
+    1) Nupirkta 14400.00 t grudu uz 22320000.00 Eur
+    2) Parduota 13805.06 t grudu uz 54584563.70 Eur
+    3) Dienos pelnas: 32264563.70 Eur
+
+  T = 391
+    1) Nupirkta 13100.00 t grudu uz 74670000.00 Eur
+    2) Parduota 2021.17 t grudu uz 3602734.67 Eur
+    3) Dienos pelnas: -71067265.33 Eur
+
+  T = 392
+    1) Nupirkta 16000.00 t grudu uz 112000000.00 Eur
+    2) Parduota 29403.85 t grudu uz 185211639.58 Eur
+    3) Dienos pelnas: 73211639.58 Eur
+
+  T = 393
+    1) Nupirkta 11700.00 t grudu uz 63180000.00 Eur
+    2) Parduota 164.87 t grudu uz 1327177.22 Eur
+    3) Dienos pelnas: -61852822.78 Eur
+
+  T = 394
+    1) Nupirkta 8500.00 t grudu uz 41650000.00 Eur
+    2) Parduota 10921.60 t grudu uz 76327229.68 Eur
+    3) Dienos pelnas: 34677229.68 Eur
+
+  T = 395
+    1) Nupirkta 15100.00 t grudu uz 134390000.00 Eur
+    2) Parduota 8120.06 t grudu uz 48861656.05 Eur
+    3) Dienos pelnas: -85528343.95 Eur
+
+  T = 396
+    1) Nupirkta 6900.00 t grudu uz 48645000.00 Eur
+    2) Parduota 22224.12 t grudu uz 198015892.16 Eur
+    3) Dienos pelnas: 149370892.16 Eur
+
+  T = 397
+    1) Nupirkta 11700.00 t grudu uz 25740000.00 Eur
+    2) Parduota 12596.90 t grudu uz 62858922.88 Eur
+    3) Dienos pelnas: 37118922.88 Eur
+
+  T = 398
+    1) Nupirkta 6700.00 t grudu uz 43550000.00 Eur
+    2) Parduota 7156.25 t grudu uz 30453585.52 Eur
+    3) Dienos pelnas: -13096414.48 Eur
+
+  T = 399
+    1) Nupirkta 8600.00 t grudu uz 27090000.00 Eur
+    2) Parduota 9602.16 t grudu uz 50975403.03 Eur
+    3) Dienos pelnas: 23885403.03 Eur
+
+  T = 400
+    1) Nupirkta 13700.00 t grudu uz 110970000.00 Eur
+    2) Parduota 676.03 t grudu uz 2448914.24 Eur
+    3) Dienos pelnas: -108521085.76 Eur
+
+  T = 401
+    1) Nupirkta 11000.00 t grudu uz 83050000.00 Eur
+    2) Parduota 11434.37 t grudu uz 92139355.82 Eur
+    3) Dienos pelnas: 9089355.82 Eur
+
+  T = 402
+    1) Nupirkta 10700.00 t grudu uz 34240000.00 Eur
+    2) Parduota 23841.29 t grudu uz 169756897.88 Eur
+    3) Dienos pelnas: 135516897.88 Eur
+
+  T = 403
+    1) Nupirkta 4700.00 t grudu uz 11515000.00 Eur
+    2) Parduota 4115.46 t grudu uz 13880092.92 Eur
+    3) Dienos pelnas: 2365092.92 Eur
+
+  T = 404
+    1) Nupirkta 12400.00 t grudu uz 78740000.00 Eur
+    2) Parduota 13913.88 t grudu uz 87103535.80 Eur
+    3) Dienos pelnas: 8363535.80 Eur
+
+  T = 405
+    1) Nupirkta 13400.00 t grudu uz 46900000.00 Eur
+    2) Parduota 8920.62 t grudu uz 41541785.62 Eur
+    3) Dienos pelnas: -5358214.38 Eur
+
+  T = 406
+    1) Nupirkta 5900.00 t grudu uz 41300000.00 Eur
+    2) Parduota 9921.24 t grudu uz 54914715.12 Eur
+    3) Dienos pelnas: 13614715.12 Eur
+
+  T = 407
+    1) Nupirkta 7100.00 t grudu uz 22365000.00 Eur
+    2) Parduota 2597.79 t grudu uz 19052863.55 Eur
+    3) Dienos pelnas: -3312136.45 Eur
+
+  T = 408
+    1) Nupirkta 13200.00 t grudu uz 60720000.00 Eur
+    2) Parduota 4373.61 t grudu uz 15843397.89 Eur
+    3) Dienos pelnas: -44876602.11 Eur
+
+  T = 409
+    1) Nupirkta 8400.00 t grudu uz 11340000.00 Eur
+    2) Parduota 17451.69 t grudu uz 81203068.76 Eur
+    3) Dienos pelnas: 69863068.76 Eur
+
+  T = 410
+    1) Nupirkta 15700.00 t grudu uz 120890000.00 Eur
+    2) Parduota 13957.48 t grudu uz 76457807.61 Eur
+    3) Dienos pelnas: -44432192.39 Eur
+
+  T = 411
+    1) Nupirkta 11700.00 t grudu uz 101790000.00 Eur
+    2) Parduota 16116.77 t grudu uz 151821488.60 Eur
+    3) Dienos pelnas: 50031488.60 Eur
+
+  T = 412
+    1) Nupirkta 8200.00 t grudu uz 20090000.00 Eur
+    2) Parduota 10902.23 t grudu uz 57889232.40 Eur
+    3) Dienos pelnas: 37799232.40 Eur
+
+  T = 413
+    1) Nupirkta 15800.00 t grudu uz 33180000.00 Eur
+    2) Parduota 6244.95 t grudu uz 15515546.86 Eur
+    3) Dienos pelnas: -17664453.14 Eur
+
+  T = 414
+    1) Nupirkta 15700.00 t grudu uz 109900000.00 Eur
+    2) Parduota 16853.31 t grudu uz 75750519.43 Eur
+    3) Dienos pelnas: -34149480.57 Eur
+
+  T = 415
+    1) Nupirkta 5500.00 t grudu uz 17875000.00 Eur
+    2) Parduota 12433.39 t grudu uz 87352225.11 Eur
+    3) Dienos pelnas: 69477225.11 Eur
+
+  T = 416
+    1) Nupirkta 8300.00 t grudu uz 42745000.00 Eur
+    2) Parduota 6833.36 t grudu uz 34906237.95 Eur
+    3) Dienos pelnas: -7838762.05 Eur
+
+  T = 417
+    1) Nupirkta 8800.00 t grudu uz 12320000.00 Eur
+    2) Parduota 4997.16 t grudu uz 25352536.28 Eur
+    3) Dienos pelnas: 13032536.28 Eur
+
+  T = 418
+    1) Nupirkta 12600.00 t grudu uz 30240000.00 Eur
+    2) Parduota 2654.09 t grudu uz 4273084.93 Eur
+    3) Dienos pelnas: -25966915.07 Eur
+
+  T = 419
+    1) Nupirkta 15400.00 t grudu uz 90860000.00 Eur
+    2) Parduota 11275.08 t grudu uz 25182923.54 Eur
+    3) Dienos pelnas: -65677076.46 Eur
+
+  T = 420
+    1) Nupirkta 5700.00 t grudu uz 51300000.00 Eur
+    2) Parduota 24000.61 t grudu uz 144269686.25 Eur
+    3) Dienos pelnas: 92969686.25 Eur
+
+  T = 421
+    1) Nupirkta 6500.00 t grudu uz 58175000.00 Eur
+    2) Parduota 9380.26 t grudu uz 96752513.45 Eur
+    3) Dienos pelnas: 38577513.45 Eur
+
+  T = 422
+    1) Nupirkta 5300.00 t grudu uz 47700000.00 Eur
+    2) Parduota 4144.17 t grudu uz 42851543.69 Eur
+    3) Dienos pelnas: -4848456.31 Eur
+
+  T = 423
+    1) Nupirkta 9600.00 t grudu uz 41280000.00 Eur
+    2) Parduota 6877.12 t grudu uz 44070798.05 Eur
+    3) Dienos pelnas: 2790798.05 Eur
+
+  T = 424
+    1) Nupirkta 12900.00 t grudu uz 32895000.00 Eur
+    2) Parduota 12414.17 t grudu uz 45631366.43 Eur
+    3) Dienos pelnas: 12736366.43 Eur
+
+  T = 425
+    1) Nupirkta 12000.00 t grudu uz 78000000.00 Eur
+    2) Parduota 6486.82 t grudu uz 25455877.55 Eur
+    3) Dienos pelnas: -52544122.45 Eur
+
+  T = 426
+    1) Nupirkta 12000.00 t grudu uz 97800000.00 Eur
+    2) Parduota 9711.02 t grudu uz 72589843.78 Eur
+    3) Dienos pelnas: -25210156.22 Eur
+
+  T = 427
+    1) Nupirkta 14600.00 t grudu uz 39420000.00 Eur
+    2) Parduota 11263.82 t grudu uz 103914164.54 Eur
+    3) Dienos pelnas: 64494164.54 Eur
+
+  T = 428
+    1) Nupirkta 9700.00 t grudu uz 43165000.00 Eur
+    2) Parduota 18654.42 t grudu uz 72927443.57 Eur
+    3) Dienos pelnas: 29762443.57 Eur
+
+  T = 429
+    1) Nupirkta 5300.00 t grudu uz 34185000.00 Eur
+    2) Parduota 6528.34 t grudu uz 33408771.91 Eur
+    3) Dienos pelnas: -776228.09 Eur
+
+  T = 430
+    1) Nupirkta 11700.00 t grudu uz 104130000.00 Eur
+    2) Parduota 13826.40 t grudu uz 122864375.17 Eur
+    3) Dienos pelnas: 18734375.17 Eur
+
+  T = 431
+    1) Nupirkta 13000.00 t grudu uz 89050000.00 Eur
+    2) Parduota 3717.95 t grudu uz 38053178.07 Eur
+    3) Dienos pelnas: -50996821.93 Eur
+
+  T = 432
+    1) Nupirkta 7600.00 t grudu uz 54340000.00 Eur
+    2) Parduota 17456.72 t grudu uz 139418765.47 Eur
+    3) Dienos pelnas: 85078765.47 Eur
+
+  T = 433
+    1) Nupirkta 15000.00 t grudu uz 72750000.00 Eur
+    2) Parduota 4214.77 t grudu uz 32302744.31 Eur
+    3) Dienos pelnas: -40447255.69 Eur
+
+  T = 434
+    1) Nupirkta 10400.00 t grudu uz 13000000.00 Eur
+    2) Parduota 4656.96 t grudu uz 25974197.64 Eur
+    3) Dienos pelnas: 12974197.64 Eur
+
+  T = 435
+    1) Nupirkta 7900.00 t grudu uz 48190000.00 Eur
+    2) Parduota 21647.62 t grudu uz 80262847.91 Eur
+    3) Dienos pelnas: 32072847.91 Eur
+
+  T = 436
+    1) Nupirkta 10300.00 t grudu uz 51500000.00 Eur
+    2) Parduota 164.06 t grudu uz 1150862.58 Eur
+    3) Dienos pelnas: -50349137.42 Eur
+
+  T = 437
+    1) Nupirkta 7600.00 t grudu uz 31540000.00 Eur
+    2) Parduota 953.67 t grudu uz 6689975.81 Eur
+    3) Dienos pelnas: -24850024.19 Eur
+
+  T = 438
+    1) Nupirkta 7700.00 t grudu uz 25025000.00 Eur
+    2) Parduota 11929.33 t grudu uz 74903459.71 Eur
+    3) Dienos pelnas: 49878459.71 Eur
+
+  T = 439
+    1) Nupirkta 15400.00 t grudu uz 55440000.00 Eur
+    2) Parduota 8174.09 t grudu uz 42293940.13 Eur
+    3) Dienos pelnas: -13146059.87 Eur
+
+  T = 440
+    1) Nupirkta 11600.00 t grudu uz 31900000.00 Eur
+    2) Parduota 9371.15 t grudu uz 37906740.76 Eur
+    3) Dienos pelnas: 6006740.76 Eur
+
+  T = 441
+    1) Nupirkta 7200.00 t grudu uz 50400000.00 Eur
+    2) Parduota 23306.88 t grudu uz 89401738.99 Eur
+    3) Dienos pelnas: 39001738.99 Eur
+
+  T = 442
+    1) Nupirkta 7500.00 t grudu uz 55125000.00 Eur
+    2) Parduota 16775.65 t grudu uz 113471435.65 Eur
+    3) Dienos pelnas: 58346435.65 Eur
+
+  T = 443
+    1) Nupirkta 14400.00 t grudu uz 28800000.00 Eur
+    2) Parduota 14732.59 t grudu uz 50686947.83 Eur
+    3) Dienos pelnas: 21886947.83 Eur
+
+  T = 444
+    1) Nupirkta 8900.00 t grudu uz 8900000.00 Eur
+    2) Parduota 7230.93 t grudu uz 11073648.21 Eur
+    3) Dienos pelnas: 2173648.21 Eur
+
+  T = 445
+    1) Nupirkta 11400.00 t grudu uz 11970000.00 Eur
+    2) Parduota 13456.64 t grudu uz 16015013.28 Eur
+    3) Dienos pelnas: 4045013.28 Eur
+
+  T = 446
+    1) Nupirkta 13000.00 t grudu uz 14950000.00 Eur
+    2) Parduota 9606.89 t grudu uz 12473871.17 Eur
+    3) Dienos pelnas: -2476128.83 Eur
+
+  T = 447
+    1) Nupirkta 6400.00 t grudu uz 51840000.00 Eur
+    2) Parduota 11685.84 t grudu uz 65663092.80 Eur
+    3) Dienos pelnas: 13823092.80 Eur
+
+  T = 448
+    1) Nupirkta 8900.00 t grudu uz 60965000.00 Eur
+    2) Parduota 2525.05 t grudu uz 20060768.75 Eur
+    3) Dienos pelnas: -40904231.25 Eur
+
+  T = 449
+    1) Nupirkta 9700.00 t grudu uz 28130000.00 Eur
+    2) Parduota 6801.05 t grudu uz 52175915.65 Eur
+    3) Dienos pelnas: 24045915.65 Eur
+
+  T = 450
+    1) Nupirkta 7800.00 t grudu uz 8970000.00 Eur
+    2) Parduota 10315.16 t grudu uz 32543063.94 Eur
+    3) Dienos pelnas: 23573063.94 Eur
+
+  T = 451
+    1) Nupirkta 4400.00 t grudu uz 21120000.00 Eur
+    2) Parduota 9810.79 t grudu uz 25290320.10 Eur
+    3) Dienos pelnas: 4170320.10 Eur
+
+  T = 452
+    1) Nupirkta 11400.00 t grudu uz 66120000.00 Eur
+    2) Parduota 1543.92 t grudu uz 8612053.21 Eur
+    3) Dienos pelnas: -57507946.79 Eur
+
+  T = 453
+    1) Nupirkta 9900.00 t grudu uz 26235000.00 Eur
+    2) Parduota 11672.13 t grudu uz 76585002.79 Eur
+    3) Dienos pelnas: 50350002.79 Eur
+
+  T = 454
+    1) Nupirkta 4200.00 t grudu uz 15540000.00 Eur
+    2) Parduota 3849.98 t grudu uz 11732813.80 Eur
+    3) Dienos pelnas: -3807186.20 Eur
+
+  T = 455
+    1) Nupirkta 14600.00 t grudu uz 71540000.00 Eur
+    2) Parduota 9309.98 t grudu uz 32731278.86 Eur
+    3) Dienos pelnas: -38808721.14 Eur
+
+  T = 456
+    1) Nupirkta 6400.00 t grudu uz 15680000.00 Eur
+    2) Parduota 863.60 t grudu uz 4052222.96 Eur
+    3) Dienos pelnas: -11627777.04 Eur
+
+  T = 457
+    1) Nupirkta 7600.00 t grudu uz 40660000.00 Eur
+    2) Parduota 19261.93 t grudu uz 94635036.29 Eur
+    3) Dienos pelnas: 53975036.29 Eur
+
+  T = 458
+    1) Nupirkta 4100.00 t grudu uz 22960000.00 Eur
+    2) Parduota 5397.42 t grudu uz 28323723.10 Eur
+    3) Dienos pelnas: 5363723.10 Eur
+
+  T = 459
+    1) Nupirkta 15800.00 t grudu uz 31600000.00 Eur
+    2) Parduota 11783.51 t grudu uz 58203260.13 Eur
+    3) Dienos pelnas: 26603260.13 Eur
+
+  T = 460
+    1) Nupirkta 4200.00 t grudu uz 7980000.00 Eur
+    2) Parduota 15504.00 t grudu uz 35231352.26 Eur
+    3) Dienos pelnas: 27251352.26 Eur
+
+  T = 461
+    1) Nupirkta 15200.00 t grudu uz 56240000.00 Eur
+    2) Parduota 13954.76 t grudu uz 58384926.59 Eur
+    3) Dienos pelnas: 2144926.59 Eur
+
+  T = 462
+    1) Nupirkta 12900.00 t grudu uz 83205000.00 Eur
+    2) Parduota 2047.46 t grudu uz 9732559.15 Eur
+    3) Dienos pelnas: -73472440.85 Eur
+
+  T = 463
+    1) Nupirkta 8000.00 t grudu uz 52800000.00 Eur
+    2) Parduota 6584.73 t grudu uz 48842234.65 Eur
+    3) Dienos pelnas: -3957765.35 Eur
+
+  T = 464
+    1) Nupirkta 15000.00 t grudu uz 104250000.00 Eur
+    2) Parduota 5798.51 t grudu uz 43010449.73 Eur
+    3) Dienos pelnas: -61239550.27 Eur
+
+  T = 465
+    1) Nupirkta 8700.00 t grudu uz 22185000.00 Eur
+    2) Parduota 9887.15 t grudu uz 75691494.41 Eur
+    3) Dienos pelnas: 53506494.41 Eur
+
+  T = 466
+    1) Nupirkta 15800.00 t grudu uz 114550000.00 Eur
+    2) Parduota 12854.34 t grudu uz 102738328.53 Eur
+    3) Dienos pelnas: -11811671.47 Eur
+
+  T = 467
+    1) Nupirkta 7400.00 t grudu uz 44030000.00 Eur
+    2) Parduota 13264.54 t grudu uz 63413506.86 Eur
+    3) Dienos pelnas: 19383506.86 Eur
+
+  T = 468
+    1) Nupirkta 9800.00 t grudu uz 59290000.00 Eur
+    2) Parduota 27154.72 t grudu uz 204207422.56 Eur
+    3) Dienos pelnas: 144917422.56 Eur
+
+  T = 469
+    1) Nupirkta 15900.00 t grudu uz 39750000.00 Eur
+    2) Parduota 2644.99 t grudu uz 14680468.22 Eur
+    3) Dienos pelnas: -25069531.78 Eur
+
+  T = 470
+    1) Nupirkta 14400.00 t grudu uz 36720000.00 Eur
+    2) Parduota 15281.91 t grudu uz 43952373.98 Eur
+    3) Dienos pelnas: 7232373.98 Eur
+
+  T = 471
+    1) Nupirkta 14600.00 t grudu uz 62050000.00 Eur
+    2) Parduota 27271.06 t grudu uz 105709333.16 Eur
+    3) Dienos pelnas: 43659333.16 Eur
+
+  T = 472
+    1) Nupirkta 12300.00 t grudu uz 72570000.00 Eur
+    2) Parduota 12499.14 t grudu uz 82083148.70 Eur
+    3) Dienos pelnas: 9513148.70 Eur
+
+  T = 473
+    1) Nupirkta 15700.00 t grudu uz 102050000.00 Eur
+    2) Parduota 14734.48 t grudu uz 109287240.84 Eur
+    3) Dienos pelnas: 7237240.84 Eur
+
+  T = 474
+    1) Nupirkta 12500.00 t grudu uz 70000000.00 Eur
+    2) Parduota 6762.78 t grudu uz 45831088.50 Eur
+    3) Dienos pelnas: -24168911.50 Eur
+
+  T = 475
+    1) Nupirkta 6600.00 t grudu uz 22110000.00 Eur
+    2) Parduota 13957.36 t grudu uz 74312695.62 Eur
+    3) Dienos pelnas: 52202695.62 Eur
+
+  T = 476
+    1) Nupirkta 7600.00 t grudu uz 39140000.00 Eur
+    2) Parduota 4008.96 t grudu uz 22539259.79 Eur
+    3) Dienos pelnas: -16600740.21 Eur
+
+  T = 477
+    1) Nupirkta 6700.00 t grudu uz 7035000.00 Eur
+    2) Parduota 4240.31 t grudu uz 24793956.85 Eur
+    3) Dienos pelnas: 17758956.85 Eur
+
+  T = 478
+    1) Nupirkta 13500.00 t grudu uz 24975000.00 Eur
+    2) Parduota 17112.44 t grudu uz 30305016.30 Eur
+    3) Dienos pelnas: 5330016.30 Eur
+
+  T = 479
+    1) Nupirkta 6600.00 t grudu uz 46530000.00 Eur
+    2) Parduota 9523.64 t grudu uz 59154285.88 Eur
+    3) Dienos pelnas: 12624285.88 Eur
+
+  T = 480
+    1) Nupirkta 4200.00 t grudu uz 10500000.00 Eur
+    2) Parduota 3179.19 t grudu uz 9643520.40 Eur
+    3) Dienos pelnas: -856479.60 Eur
+
+  T = 481
+    1) Nupirkta 7500.00 t grudu uz 66000000.00 Eur
+    2) Parduota 4480.85 t grudu uz 37253412.82 Eur
+    3) Dienos pelnas: -28746587.18 Eur
+
+  T = 482
+    1) Nupirkta 12300.00 t grudu uz 26445000.00 Eur
+    2) Parduota 10026.06 t grudu uz 56420761.95 Eur
+    3) Dienos pelnas: 29975761.95 Eur
+
+  T = 483
+    1) Nupirkta 8000.00 t grudu uz 52800000.00 Eur
+    2) Parduota 13689.60 t grudu uz 71100348.86 Eur
+    3) Dienos pelnas: 18300348.86 Eur
+
+  T = 484
+    1) Nupirkta 8000.00 t grudu uz 18800000.00 Eur
+    2) Parduota 7325.22 t grudu uz 23317888.22 Eur
+    3) Dienos pelnas: 4517888.22 Eur
+
+  T = 485
+    1) Nupirkta 4900.00 t grudu uz 38220000.00 Eur
+    2) Parduota 4343.74 t grudu uz 30218459.04 Eur
+    3) Dienos pelnas: -8001540.96 Eur
+
+  T = 486
+    1) Nupirkta 6500.00 t grudu uz 56225000.00 Eur
+    2) Parduota 6254.14 t grudu uz 60305404.55 Eur
+    3) Dienos pelnas: 4080404.55 Eur
+
+  T = 487
+    1) Nupirkta 5000.00 t grudu uz 5000000.00 Eur
+    2) Parduota 143.95 t grudu uz 1431922.66 Eur
+    3) Dienos pelnas: -3568077.34 Eur
+
+  T = 488
+    1) Nupirkta 12800.00 t grudu uz 54400000.00 Eur
+    2) Parduota 9331.12 t grudu uz 37308825.42 Eur
+    3) Dienos pelnas: -17091174.58 Eur
+
+  T = 489
+    1) Nupirkta 15800.00 t grudu uz 111390000.00 Eur
+    2) Parduota 5001.24 t grudu uz 24443573.11 Eur
+    3) Dienos pelnas: -86946426.89 Eur
+
+  T = 490
+    1) Nupirkta 7300.00 t grudu uz 34310000.00 Eur
+    2) Parduota 15169.18 t grudu uz 105206194.95 Eur
+    3) Dienos pelnas: 70896194.95 Eur
+
+  T = 491
+    1) Nupirkta 7200.00 t grudu uz 11520000.00 Eur
+    2) Parduota 17141.09 t grudu uz 96121199.05 Eur
+    3) Dienos pelnas: 84601199.05 Eur
+
+  T = 492
+    1) Nupirkta 11100.00 t grudu uz 19980000.00 Eur
+    2) Parduota 10958.12 t grudu uz 21875815.84 Eur
+    3) Dienos pelnas: 1895815.84 Eur
+
+  T = 493
+    1) Nupirkta 11500.00 t grudu uz 36800000.00 Eur
+    2) Parduota 3030.54 t grudu uz 6273220.37 Eur
+    3) Dienos pelnas: -30526779.63 Eur
+
+  T = 494
+    1) Nupirkta 12200.00 t grudu uz 57950000.00 Eur
+    2) Parduota 20673.84 t grudu uz 90321407.56 Eur
+    3) Dienos pelnas: 32371407.56 Eur
+
+  T = 495
+    1) Nupirkta 7500.00 t grudu uz 13500000.00 Eur
+    2) Parduota 7692.34 t grudu uz 28300093.93 Eur
+    3) Dienos pelnas: 14800093.93 Eur
+
+  T = 496
+    1) Nupirkta 7400.00 t grudu uz 7400000.00 Eur
+    2) Parduota 9336.14 t grudu uz 13916067.10 Eur
+    3) Dienos pelnas: 6516067.10 Eur
+
+  T = 497
+    1) Nupirkta 7800.00 t grudu uz 57720000.00 Eur
+    2) Parduota 7828.66 t grudu uz 55435922.43 Eur
+    3) Dienos pelnas: -2284077.57 Eur
+
+  T = 498
+    1) Nupirkta 6000.00 t grudu uz 43200000.00 Eur
+    2) Parduota 4719.44 t grudu uz 39419929.89 Eur
+    3) Dienos pelnas: -3780070.11 Eur
+
+  T = 499
+    1) Nupirkta 14900.00 t grudu uz 68540000.00 Eur
+    2) Parduota 1060.30 t grudu uz 8779317.63 Eur
+    3) Dienos pelnas: -59760682.37 Eur
+
+  T = 500
+    1) Nupirkta 8700.00 t grudu uz 22620000.00 Eur
+    2) Parduota 3543.60 t grudu uz 23862821.90 Eur
+    3) Dienos pelnas: 1242821.90 Eur
+
+
+LIFO supirkimo metodas:
+  T = 1
+    1) Nupirkta 5100.00 t grudu uz 15045000.00 Eur
+    2) Parduota 1683.00 t grudu uz 5709577.50 Eur
+    3) Dienos pelnas: -9335422.50 Eur
+
+  T = 2
+    1) Nupirkta 4700.00 t grudu uz 19270000.00 Eur
+    2) Parduota 5194.88 t grudu uz 21222746.45 Eur
+    3) Dienos pelnas: 1952746.45 Eur
+
+  T = 3
+    1) Nupirkta 13300.00 t grudu uz 22610000.00 Eur
+    2) Parduota 7948.84 t grudu uz 19575800.00 Eur
+    3) Dienos pelnas: -3034200.00 Eur
+
+  T = 4
+    1) Nupirkta 13100.00 t grudu uz 77290000.00 Eur
+    2) Parduota 1709.86 t grudu uz 8491903.93 Eur
+    3) Dienos pelnas: -68798096.07 Eur
+
+  T = 5
+    1) Nupirkta 8600.00 t grudu uz 35260000.00 Eur
+    2) Parduota 26567.61 t grudu uz 115960297.00 Eur
+    3) Dienos pelnas: 80700297.00 Eur
+
+  T = 6
+    1) Nupirkta 8900.00 t grudu uz 19135000.00 Eur
+    2) Parduota 5827.69 t grudu uz 16315809.14 Eur
+    3) Dienos pelnas: -2819190.86 Eur
+
+  T = 7
+    1) Nupirkta 7400.00 t grudu uz 10730000.00 Eur
+    2) Parduota 608.41 t grudu uz 1298646.42 Eur
+    3) Dienos pelnas: -9431353.58 Eur
+
+  T = 8
+    1) Nupirkta 9700.00 t grudu uz 22310000.00 Eur
+    2) Parduota 19133.74 t grudu uz 45932369.29 Eur
+    3) Dienos pelnas: 23622369.29 Eur
+
+  T = 9
+    1) Nupirkta 5000.00 t grudu uz 23750000.00 Eur
+    2) Parduota 1282.67 t grudu uz 5953717.87 Eur
+    3) Dienos pelnas: -17796282.13 Eur
+
+  T = 10
+    1) Nupirkta 14500.00 t grudu uz 18125000.00 Eur
+    2) Parduota 8747.62 t grudu uz 26698883.11 Eur
+    3) Dienos pelnas: 8573883.11 Eur
+
+  T = 11
+    1) Nupirkta 10300.00 t grudu uz 84460000.00 Eur
+    2) Parduota 5036.01 t grudu uz 25398871.69 Eur
+    3) Dienos pelnas: -59061128.31 Eur
+
+  T = 12
+    1) Nupirkta 5200.00 t grudu uz 28600000.00 Eur
+    2) Parduota 13235.80 t grudu uz 64211346.37 Eur
+    3) Dienos pelnas: 35611346.37 Eur
+
+  T = 13
+    1) Nupirkta 11500.00 t grudu uz 21275000.00 Eur
+    2) Parduota 19714.15 t grudu uz 64542356.39 Eur
+    3) Dienos pelnas: 43267356.39 Eur
+
+  T = 14
+    1) Nupirkta 11900.00 t grudu uz 60095000.00 Eur
+    2) Parduota 7756.02 t grudu uz 42640667.40 Eur
+    3) Dienos pelnas: -17454332.60 Eur
+
+  T = 15
+    1) Nupirkta 5100.00 t grudu uz 8925000.00 Eur
+    2) Parduota 6306.36 t grudu uz 25343988.59 Eur
+    3) Dienos pelnas: 16418988.59 Eur
+
+  T = 16
+    1) Nupirkta 12200.00 t grudu uz 90890000.00 Eur
+    2) Parduota 1102.31 t grudu uz 8596307.31 Eur
+    3) Dienos pelnas: -82293692.69 Eur
+
+  T = 17
+    1) Nupirkta 5800.00 t grudu uz 51620000.00 Eur
+    2) Parduota 10835.86 t grudu uz 86482068.54 Eur
+    3) Dienos pelnas: 34862068.54 Eur
+
+  T = 18
+    1) Nupirkta 7500.00 t grudu uz 55125000.00 Eur
+    2) Parduota 5988.21 t grudu uz 45145590.37 Eur
+    3) Dienos pelnas: -9979409.63 Eur
+
+  T = 19
+    1) Nupirkta 11300.00 t grudu uz 45200000.00 Eur
+    2) Parduota 672.63 t grudu uz 4104981.01 Eur
+    3) Dienos pelnas: -41095018.99 Eur
+
+  T = 20
+    1) Nupirkta 9200.00 t grudu uz 15180000.00 Eur
+    2) Parduota 18568.99 t grudu uz 112479917.33 Eur
+    3) Dienos pelnas: 97299917.33 Eur
+
+  T = 21
+    1) Nupirkta 14100.00 t grudu uz 82485000.00 Eur
+    2) Parduota 3971.90 t grudu uz 27841260.35 Eur
+    3) Dienos pelnas: -54643739.65 Eur
+
+  T = 22
+    1) Nupirkta 15600.00 t grudu uz 25740000.00 Eur
+    2) Parduota 10670.08 t grudu uz 64991758.37 Eur
+    3) Dienos pelnas: 39251758.37 Eur
+
+  T = 23
+    1) Nupirkta 4100.00 t grudu uz 36080000.00 Eur
+    2) Parduota 17345.54 t grudu uz 116812181.16 Eur
+    3) Dienos pelnas: 80732181.16 Eur
+
+  T = 24
+    1) Nupirkta 15900.00 t grudu uz 79500000.00 Eur
+    2) Parduota 6018.36 t grudu uz 39660802.87 Eur
+    3) Dienos pelnas: -39839197.13 Eur
+
+  T = 25
+    1) Nupirkta 8900.00 t grudu uz 16465000.00 Eur
+    2) Parduota 23740.88 t grudu uz 149330344.10 Eur
+    3) Dienos pelnas: 132865344.10 Eur
+
+  T = 26
+    1) Nupirkta 7400.00 t grudu uz 46990000.00 Eur
+    2) Parduota 6819.35 t grudu uz 50087470.42 Eur
+    3) Dienos pelnas: 3097470.42 Eur
+
+  T = 27
+    1) Nupirkta 10700.00 t grudu uz 62595000.00 Eur
+    2) Parduota 1025.66 t grudu uz 7219011.02 Eur
+    3) Dienos pelnas: -55375988.98 Eur
+
+  T = 28
+    1) Nupirkta 8500.00 t grudu uz 24225000.00 Eur
+    2) Parduota 13154.15 t grudu uz 83329403.06 Eur
+    3) Dienos pelnas: 59104403.06 Eur
+
+  T = 29
+    1) Nupirkta 7900.00 t grudu uz 57275000.00 Eur
+    2) Parduota 20460.06 t grudu uz 148107421.38 Eur
+    3) Dienos pelnas: 90832421.38 Eur
+
+  T = 30
+    1) Nupirkta 4200.00 t grudu uz 14280000.00 Eur
+    2) Parduota 4466.60 t grudu uz 19618095.49 Eur
+    3) Dienos pelnas: 5338095.49 Eur
+
+  T = 31
+    1) Nupirkta 10400.00 t grudu uz 47320000.00 Eur
+    2) Parduota 8560.65 t grudu uz 44084465.17 Eur
+    3) Dienos pelnas: -3235534.83 Eur
+
+  T = 32
+    1) Nupirkta 16000.00 t grudu uz 48000000.00 Eur
+    2) Parduota 17663.02 t grudu uz 68929252.64 Eur
+    3) Dienos pelnas: 20929252.64 Eur
+
+  T = 33
+    1) Nupirkta 10600.00 t grudu uz 61480000.00 Eur
+    2) Parduota 7030.69 t grudu uz 42669769.48 Eur
+    3) Dienos pelnas: -18810230.52 Eur
+
+  T = 34
+    1) Nupirkta 15400.00 t grudu uz 133980000.00 Eur
+    2) Parduota 16075.81 t grudu uz 141640727.12 Eur
+    3) Dienos pelnas: 7660727.12 Eur
+
+  T = 35
+    1) Nupirkta 7700.00 t grudu uz 51205000.00 Eur
+    2) Parduota 4727.33 t grudu uz 31207714.97 Eur
+    3) Dienos pelnas: -19997285.03 Eur
+
+  T = 36
+    1) Nupirkta 13600.00 t grudu uz 38760000.00 Eur
+    2) Parduota 14288.50 t grudu uz 65859900.06 Eur
+    3) Dienos pelnas: 27099900.06 Eur
+
+  T = 37
+    1) Nupirkta 9800.00 t grudu uz 79870000.00 Eur
+    2) Parduota 17160.74 t grudu uz 122030055.21 Eur
+    3) Dienos pelnas: 42160055.21 Eur
+
+  T = 38
+    1) Nupirkta 4500.00 t grudu uz 19575000.00 Eur
+    2) Parduota 1980.00 t grudu uz 9904950.00 Eur
+    3) Dienos pelnas: -9670050.00 Eur
+
+  T = 39
+    1) Nupirkta 6400.00 t grudu uz 34560000.00 Eur
+    2) Parduota 3389.60 t grudu uz 19184412.77 Eur
+    3) Dienos pelnas: -15375587.23 Eur
+
+  T = 40
+    1) Nupirkta 15100.00 t grudu uz 43035000.00 Eur
+    2) Parduota 1650.43 t grudu uz 6554942.88 Eur
+    3) Dienos pelnas: -36480057.12 Eur
+
+  T = 41
+    1) Nupirkta 15300.00 t grudu uz 100215000.00 Eur
+    2) Parduota 16454.38 t grudu uz 89719201.06 Eur
+    3) Dienos pelnas: -10495798.94 Eur
+
+  T = 42
+    1) Nupirkta 6700.00 t grudu uz 9045000.00 Eur
+    2) Parduota 17658.42 t grudu uz 79341625.94 Eur
+    3) Dienos pelnas: 70296625.94 Eur
+
+  T = 43
+    1) Nupirkta 11900.00 t grudu uz 74970000.00 Eur
+    2) Parduota 6756.18 t grudu uz 41033874.61 Eur
+    3) Dienos pelnas: -33936125.39 Eur
+
+  T = 44
+    1) Nupirkta 5300.00 t grudu uz 10865000.00 Eur
+    2) Parduota 10386.59 t grudu uz 52676153.55 Eur
+    3) Dienos pelnas: 41811153.55 Eur
+
+  T = 45
+    1) Nupirkta 10000.00 t grudu uz 72000000.00 Eur
+    2) Parduota 16247.42 t grudu uz 103753891.59 Eur
+    3) Dienos pelnas: 31753891.59 Eur
+
+  T = 46
+    1) Nupirkta 6700.00 t grudu uz 13735000.00 Eur
+    2) Parduota 5532.73 t grudu uz 18415217.85 Eur
+    3) Dienos pelnas: 4680217.85 Eur
+
+  T = 47
+    1) Nupirkta 13200.00 t grudu uz 71280000.00 Eur
+    2) Parduota 11283.18 t grudu uz 54125519.42 Eur
+    3) Dienos pelnas: -17154480.58 Eur
+
+  T = 48
+    1) Nupirkta 13800.00 t grudu uz 114540000.00 Eur
+    2) Parduota 2282.94 t grudu uz 19122282.35 Eur
+    3) Dienos pelnas: -95417717.65 Eur
+
+  T = 49
+    1) Nupirkta 11400.00 t grudu uz 15390000.00 Eur
+    2) Parduota 6135.97 t grudu uz 40666570.77 Eur
+    3) Dienos pelnas: 25276570.77 Eur
+
+  T = 50
+    1) Nupirkta 8600.00 t grudu uz 48160000.00 Eur
+    2) Parduota 20399.51 t grudu uz 140440767.75 Eur
+    3) Dienos pelnas: 92280767.75 Eur
+
+  T = 51
+    1) Nupirkta 10100.00 t grudu uz 74740000.00 Eur
+    2) Parduota 188.43 t grudu uz 1514530.95 Eur
+    3) Dienos pelnas: -73225469.05 Eur
+
+  T = 52
+    1) Nupirkta 10700.00 t grudu uz 17120000.00 Eur
+    2) Parduota 2935.42 t grudu uz 18247265.24 Eur
+    3) Dienos pelnas: 1127265.24 Eur
+
+  T = 53
+    1) Nupirkta 7700.00 t grudu uz 66605000.00 Eur
+    2) Parduota 8188.51 t grudu uz 57425982.76 Eur
+    3) Dienos pelnas: -9179017.24 Eur
+
+  T = 54
+    1) Nupirkta 9200.00 t grudu uz 30820000.00 Eur
+    2) Parduota 24239.90 t grudu uz 157674135.91 Eur
+    3) Dienos pelnas: 126854135.91 Eur
+
+  T = 55
+    1) Nupirkta 4800.00 t grudu uz 30960000.00 Eur
+    2) Parduota 2196.65 t grudu uz 16796528.68 Eur
+    3) Dienos pelnas: -14163471.32 Eur
+
+  T = 56
+    1) Nupirkta 8800.00 t grudu uz 29920000.00 Eur
+    2) Parduota 891.75 t grudu uz 5587497.34 Eur
+    3) Dienos pelnas: -24332502.66 Eur
+
+  T = 57
+    1) Nupirkta 6100.00 t grudu uz 21350000.00 Eur
+    2) Parduota 5775.42 t grudu uz 35994101.90 Eur
+    3) Dienos pelnas: 14644101.90 Eur
+
+  T = 58
+    1) Nupirkta 6100.00 t grudu uz 47885000.00 Eur
+    2) Parduota 21704.72 t grudu uz 147145920.92 Eur
+    3) Dienos pelnas: 99260920.92 Eur
+
+  T = 59
+    1) Nupirkta 4700.00 t grudu uz 30785000.00 Eur
+    2) Parduota 4112.30 t grudu uz 27582094.77 Eur
+    3) Dienos pelnas: -3202905.23 Eur
+
+  T = 60
+    1) Nupirkta 10300.00 t grudu uz 70040000.00 Eur
+    2) Parduota 4252.39 t grudu uz 30764902.28 Eur
+    3) Dienos pelnas: -39275097.72 Eur
+
+  T = 61
+    1) Nupirkta 7400.00 t grudu uz 54020000.00 Eur
+    2) Parduota 10884.87 t grudu uz 81134645.50 Eur
+    3) Dienos pelnas: 27114645.50 Eur
+
+  T = 62
+    1) Nupirkta 12600.00 t grudu uz 68670000.00 Eur
+    2) Parduota 2405.95 t grudu uz 15935694.44 Eur
+    3) Dienos pelnas: -52734305.56 Eur
+
+  T = 63
+    1) Nupirkta 5300.00 t grudu uz 24380000.00 Eur
+    2) Parduota 23528.02 t grudu uz 150177405.62 Eur
+    3) Dienos pelnas: 125797405.62 Eur
+
+  T = 64
+    1) Nupirkta 13900.00 t grudu uz 29885000.00 Eur
+    2) Parduota 7115.01 t grudu uz 19053466.12 Eur
+    3) Dienos pelnas: -10831533.88 Eur
+
+  T = 65
+    1) Nupirkta 15600.00 t grudu uz 90480000.00 Eur
+    2) Parduota 17717.48 t grudu uz 88727171.03 Eur
+    3) Dienos pelnas: -1752828.97 Eur
+
+  T = 66
+    1) Nupirkta 11600.00 t grudu uz 74820000.00 Eur
+    2) Parduota 525.17 t grudu uz 3043233.02 Eur
+    3) Dienos pelnas: -71776766.98 Eur
+
+  T = 67
+    1) Nupirkta 8500.00 t grudu uz 64175000.00 Eur
+    2) Parduota 18855.68 t grudu uz 91182793.23 Eur
+    3) Dienos pelnas: 27007793.23 Eur
+
+  T = 68
+    1) Nupirkta 10200.00 t grudu uz 60690000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -60690000.00 Eur
+
+  T = 69
+    1) Nupirkta 5400.00 t grudu uz 23220000.00 Eur
+    2) Parduota 10001.24 t grudu uz 51235402.84 Eur
+    3) Dienos pelnas: 28015402.84 Eur
+
+  T = 70
+    1) Nupirkta 12000.00 t grudu uz 40200000.00 Eur
+    2) Parduota 10173.97 t grudu uz 48465770.10 Eur
+    3) Dienos pelnas: 8265770.10 Eur
+
+  T = 71
+    1) Nupirkta 12600.00 t grudu uz 60480000.00 Eur
+    2) Parduota 1865.48 t grudu uz 9497679.13 Eur
+    3) Dienos pelnas: -50982320.87 Eur
+
+  T = 72
+    1) Nupirkta 15900.00 t grudu uz 124815000.00 Eur
+    2) Parduota 40684.28 t grudu uz 216902323.35 Eur
+    3) Dienos pelnas: 92087323.35 Eur
+
+  T = 73
+    1) Nupirkta 6800.00 t grudu uz 54400000.00 Eur
+    2) Parduota 3264.00 t grudu uz 30028800.00 Eur
+    3) Dienos pelnas: -24371200.00 Eur
+
+  T = 74
+    1) Nupirkta 10000.00 t grudu uz 51500000.00 Eur
+    2) Parduota 1759.68 t grudu uz 12153430.32 Eur
+    3) Dienos pelnas: -39346569.68 Eur
+
+  T = 75
+    1) Nupirkta 12900.00 t grudu uz 26445000.00 Eur
+    2) Parduota 9130.24 t grudu uz 52987352.42 Eur
+    3) Dienos pelnas: 26542352.42 Eur
+
+  T = 76
+    1) Nupirkta 14000.00 t grudu uz 89600000.00 Eur
+    2) Parduota 25705.09 t grudu uz 184392074.59 Eur
+    3) Dienos pelnas: 94792074.59 Eur
+
+  T = 77
+    1) Nupirkta 7200.00 t grudu uz 42480000.00 Eur
+    2) Parduota 552.05 t grudu uz 4181255.31 Eur
+    3) Dienos pelnas: -38298744.69 Eur
+
+  T = 78
+    1) Nupirkta 14800.00 t grudu uz 66600000.00 Eur
+    2) Parduota 15426.25 t grudu uz 96091296.58 Eur
+    3) Dienos pelnas: 29491296.58 Eur
+
+  T = 79
+    1) Nupirkta 13200.00 t grudu uz 48180000.00 Eur
+    2) Parduota 18911.40 t grudu uz 124888952.53 Eur
+    3) Dienos pelnas: 76708952.53 Eur
+
+  T = 80
+    1) Nupirkta 8500.00 t grudu uz 62475000.00 Eur
+    2) Parduota 1897.69 t grudu uz 16279208.64 Eur
+    3) Dienos pelnas: -46195791.36 Eur
+
+  T = 81
+    1) Nupirkta 8600.00 t grudu uz 68800000.00 Eur
+    2) Parduota 18385.91 t grudu uz 161866240.12 Eur
+    3) Dienos pelnas: 93066240.12 Eur
+
+  T = 82
+    1) Nupirkta 8600.00 t grudu uz 56760000.00 Eur
+    2) Parduota 7654.14 t grudu uz 64326806.60 Eur
+    3) Dienos pelnas: 7566806.60 Eur
+
+  T = 83
+    1) Nupirkta 7100.00 t grudu uz 18460000.00 Eur
+    2) Parduota 6039.07 t grudu uz 39091221.38 Eur
+    3) Dienos pelnas: 20631221.38 Eur
+
+  T = 84
+    1) Nupirkta 12000.00 t grudu uz 40800000.00 Eur
+    2) Parduota 5989.79 t grudu uz 28502546.00 Eur
+    3) Dienos pelnas: -12297454.00 Eur
+
+  T = 85
+    1) Nupirkta 7500.00 t grudu uz 32250000.00 Eur
+    2) Parduota 1153.93 t grudu uz 5580064.83 Eur
+    3) Dienos pelnas: -26669935.17 Eur
+
+  T = 86
+    1) Nupirkta 14300.00 t grudu uz 62920000.00 Eur
+    2) Parduota 11555.99 t grudu uz 56274966.88 Eur
+    3) Dienos pelnas: -6645033.12 Eur
+
+  T = 87
+    1) Nupirkta 14200.00 t grudu uz 85200000.00 Eur
+    2) Parduota 25819.81 t grudu uz 138764242.75 Eur
+    3) Dienos pelnas: 53564242.75 Eur
+
+  T = 88
+    1) Nupirkta 10100.00 t grudu uz 30300000.00 Eur
+    2) Parduota 662.20 t grudu uz 2725958.25 Eur
+    3) Dienos pelnas: -27574041.75 Eur
+
+  T = 89
+    1) Nupirkta 10100.00 t grudu uz 30805000.00 Eur
+    2) Parduota 4938.62 t grudu uz 19592642.15 Eur
+    3) Dienos pelnas: -11212357.85 Eur
+
+  T = 90
+    1) Nupirkta 14200.00 t grudu uz 103660000.00 Eur
+    2) Parduota 22210.10 t grudu uz 114277674.73 Eur
+    3) Dienos pelnas: 10617674.73 Eur
+
+  T = 91
+    1) Nupirkta 8000.00 t grudu uz 8800000.00 Eur
+    2) Parduota 18308.30 t grudu uz 72402485.46 Eur
+    3) Dienos pelnas: 63602485.46 Eur
+
+  T = 92
+    1) Nupirkta 13400.00 t grudu uz 103850000.00 Eur
+    2) Parduota 4033.93 t grudu uz 34005044.58 Eur
+    3) Dienos pelnas: -69844955.42 Eur
+
+  T = 93
+    1) Nupirkta 16000.00 t grudu uz 91200000.00 Eur
+    2) Parduota 2810.18 t grudu uz 20941600.96 Eur
+    3) Dienos pelnas: -70258399.04 Eur
+
+  T = 94
+    1) Nupirkta 6600.00 t grudu uz 15510000.00 Eur
+    2) Parduota 3826.99 t grudu uz 26722971.59 Eur
+    3) Dienos pelnas: 11212971.59 Eur
+
+  T = 95
+    1) Nupirkta 13300.00 t grudu uz 44555000.00 Eur
+    2) Parduota 15718.56 t grudu uz 97349014.47 Eur
+    3) Dienos pelnas: 52794014.47 Eur
+
+  T = 96
+    1) Nupirkta 7600.00 t grudu uz 41420000.00 Eur
+    2) Parduota 21277.48 t grudu uz 156224323.36 Eur
+    3) Dienos pelnas: 114804323.36 Eur
+
+  T = 97
+    1) Nupirkta 9400.00 t grudu uz 51230000.00 Eur
+    2) Parduota 3205.29 t grudu uz 24644693.63 Eur
+    3) Dienos pelnas: -26585306.37 Eur
+
+  T = 98
+    1) Nupirkta 7100.00 t grudu uz 43310000.00 Eur
+    2) Parduota 19200.10 t grudu uz 147817228.10 Eur
+    3) Dienos pelnas: 104507228.10 Eur
+
+  T = 99
+    1) Nupirkta 11300.00 t grudu uz 34465000.00 Eur
+    2) Parduota 4688.06 t grudu uz 26403584.55 Eur
+    3) Dienos pelnas: -8061415.45 Eur
+
+  T = 100
+    1) Nupirkta 15500.00 t grudu uz 133300000.00 Eur
+    2) Parduota 10424.80 t grudu uz 71404842.50 Eur
+    3) Dienos pelnas: -61895157.50 Eur
+
+  T = 101
+    1) Nupirkta 7200.00 t grudu uz 56520000.00 Eur
+    2) Parduota 9980.13 t grudu uz 71314547.71 Eur
+    3) Dienos pelnas: 14794547.71 Eur
+
+  T = 102
+    1) Nupirkta 11000.00 t grudu uz 59950000.00 Eur
+    2) Parduota 9608.97 t grudu uz 60376931.69 Eur
+    3) Dienos pelnas: 426931.69 Eur
+
+  T = 103
+    1) Nupirkta 10500.00 t grudu uz 49350000.00 Eur
+    2) Parduota 26592.61 t grudu uz 169176376.69 Eur
+    3) Dienos pelnas: 119826376.69 Eur
+
+  T = 104
+    1) Nupirkta 12900.00 t grudu uz 61920000.00 Eur
+    2) Parduota 2897.09 t grudu uz 16270768.46 Eur
+    3) Dienos pelnas: -45649231.54 Eur
+
+  T = 105
+    1) Nupirkta 7500.00 t grudu uz 39750000.00 Eur
+    2) Parduota 4620.59 t grudu uz 26434708.10 Eur
+    3) Dienos pelnas: -13315291.90 Eur
+
+  T = 106
+    1) Nupirkta 8900.00 t grudu uz 14685000.00 Eur
+    2) Parduota 16538.19 t grudu uz 80777745.32 Eur
+    3) Dienos pelnas: 66092745.32 Eur
+
+  T = 107
+    1) Nupirkta 5000.00 t grudu uz 9750000.00 Eur
+    2) Parduota 10092.22 t grudu uz 60355392.21 Eur
+    3) Dienos pelnas: 50605392.21 Eur
+
+  T = 108
+    1) Nupirkta 16000.00 t grudu uz 36000000.00 Eur
+    2) Parduota 985.23 t grudu uz 2691090.64 Eur
+    3) Dienos pelnas: -33308909.36 Eur
+
+  T = 109
+    1) Nupirkta 13100.00 t grudu uz 115280000.00 Eur
+    2) Parduota 23969.63 t grudu uz 113630635.23 Eur
+    3) Dienos pelnas: -1649364.77 Eur
+
+  T = 110
+    1) Nupirkta 13300.00 t grudu uz 47880000.00 Eur
+    2) Parduota 535.97 t grudu uz 2068401.92 Eur
+    3) Dienos pelnas: -45811598.08 Eur
+
+  T = 111
+    1) Nupirkta 5600.00 t grudu uz 45080000.00 Eur
+    2) Parduota 6191.01 t grudu uz 31269435.22 Eur
+    3) Dienos pelnas: -13810564.78 Eur
+
+  T = 112
+    1) Nupirkta 13400.00 t grudu uz 67000000.00 Eur
+    2) Parduota 24110.93 t grudu uz 98600053.29 Eur
+    3) Dienos pelnas: 31600053.29 Eur
+
+  T = 113
+    1) Nupirkta 12900.00 t grudu uz 29670000.00 Eur
+    2) Parduota 2271.33 t grudu uz 6572880.51 Eur
+    3) Dienos pelnas: -23097119.49 Eur
+
+  T = 114
+    1) Nupirkta 6900.00 t grudu uz 48990000.00 Eur
+    2) Parduota 19551.82 t grudu uz 68014499.56 Eur
+    3) Dienos pelnas: 19024499.56 Eur
+
+  T = 115
+    1) Nupirkta 10300.00 t grudu uz 37595000.00 Eur
+    2) Parduota 9011.89 t grudu uz 30632213.64 Eur
+    3) Dienos pelnas: -6962786.36 Eur
+
+  T = 116
+    1) Nupirkta 14500.00 t grudu uz 42050000.00 Eur
+    2) Parduota 5146.10 t grudu uz 17281426.81 Eur
+    3) Dienos pelnas: -24768573.19 Eur
+
+  T = 117
+    1) Nupirkta 8600.00 t grudu uz 17630000.00 Eur
+    2) Parduota 13947.96 t grudu uz 43727054.56 Eur
+    3) Dienos pelnas: 26097054.56 Eur
+
+  T = 118
+    1) Nupirkta 4800.00 t grudu uz 17040000.00 Eur
+    2) Parduota 1832.82 t grudu uz 6494569.89 Eur
+    3) Dienos pelnas: -10545430.11 Eur
+
+  T = 119
+    1) Nupirkta 15700.00 t grudu uz 45530000.00 Eur
+    2) Parduota 13423.59 t grudu uz 47128137.67 Eur
+    3) Dienos pelnas: 1598137.67 Eur
+
+  T = 120
+    1) Nupirkta 8600.00 t grudu uz 42570000.00 Eur
+    2) Parduota 3471.33 t grudu uz 14161838.10 Eur
+    3) Dienos pelnas: -28408161.90 Eur
+
+  T = 121
+    1) Nupirkta 12100.00 t grudu uz 74415000.00 Eur
+    2) Parduota 12390.65 t grudu uz 64334470.75 Eur
+    3) Dienos pelnas: -10080529.25 Eur
+
+  T = 122
+    1) Nupirkta 8800.00 t grudu uz 77440000.00 Eur
+    2) Parduota 14653.73 t grudu uz 75553406.62 Eur
+    3) Dienos pelnas: -1886593.38 Eur
+
+  T = 123
+    1) Nupirkta 9500.00 t grudu uz 18050000.00 Eur
+    2) Parduota 22335.72 t grudu uz 80303223.29 Eur
+    3) Dienos pelnas: 62253223.29 Eur
+
+  T = 124
+    1) Nupirkta 10600.00 t grudu uz 59890000.00 Eur
+    2) Parduota 8468.10 t grudu uz 53583335.82 Eur
+    3) Dienos pelnas: -6306664.18 Eur
+
+  T = 125
+    1) Nupirkta 12500.00 t grudu uz 70625000.00 Eur
+    2) Parduota 2145.18 t grudu uz 13860255.40 Eur
+    3) Dienos pelnas: -56764744.60 Eur
+
+  T = 126
+    1) Nupirkta 10900.00 t grudu uz 33245000.00 Eur
+    2) Parduota 481.55 t grudu uz 2483352.67 Eur
+    3) Dienos pelnas: -30761647.33 Eur
+
+  T = 127
+    1) Nupirkta 4300.00 t grudu uz 17415000.00 Eur
+    2) Parduota 7810.87 t grudu uz 40961839.11 Eur
+    3) Dienos pelnas: 23546839.11 Eur
+
+  T = 128
+    1) Nupirkta 13600.00 t grudu uz 118320000.00 Eur
+    2) Parduota 7410.72 t grudu uz 48313587.11 Eur
+    3) Dienos pelnas: -70006412.89 Eur
+
+  T = 129
+    1) Nupirkta 8600.00 t grudu uz 16340000.00 Eur
+    2) Parduota 3138.69 t grudu uz 18121310.18 Eur
+    3) Dienos pelnas: 1781310.18 Eur
+
+  T = 130
+    1) Nupirkta 11100.00 t grudu uz 52170000.00 Eur
+    2) Parduota 11137.28 t grudu uz 63241458.11 Eur
+    3) Dienos pelnas: 11071458.11 Eur
+
+  T = 131
+    1) Nupirkta 7500.00 t grudu uz 45750000.00 Eur
+    2) Parduota 5879.76 t grudu uz 34325489.46 Eur
+    3) Dienos pelnas: -11424510.54 Eur
+
+  T = 132
+    1) Nupirkta 10100.00 t grudu uz 53025000.00 Eur
+    2) Parduota 3907.68 t grudu uz 22934892.94 Eur
+    3) Dienos pelnas: -30090107.06 Eur
+
+  T = 133
+    1) Nupirkta 15500.00 t grudu uz 44950000.00 Eur
+    2) Parduota 53360.64 t grudu uz 309191334.11 Eur
+    3) Dienos pelnas: 264241334.11 Eur
+
+  T = 134
+    1) Nupirkta 7900.00 t grudu uz 43055000.00 Eur
+    2) Parduota 4106.64 t grudu uz 25663088.95 Eur
+    3) Dienos pelnas: -17391911.05 Eur
+
+  T = 135
+    1) Nupirkta 6200.00 t grudu uz 16430000.00 Eur
+    2) Parduota 10013.57 t grudu uz 52005701.41 Eur
+    3) Dienos pelnas: 35575701.41 Eur
+
+  T = 136
+    1) Nupirkta 11000.00 t grudu uz 86350000.00 Eur
+    2) Parduota 2904.93 t grudu uz 24849134.35 Eur
+    3) Dienos pelnas: -61500865.65 Eur
+
+  T = 137
+    1) Nupirkta 15200.00 t grudu uz 91200000.00 Eur
+    2) Parduota 21186.41 t grudu uz 161361355.41 Eur
+    3) Dienos pelnas: 70161355.41 Eur
+
+  T = 138
+    1) Nupirkta 7200.00 t grudu uz 40320000.00 Eur
+    2) Parduota 6563.27 t grudu uz 49873221.42 Eur
+    3) Dienos pelnas: 9553221.42 Eur
+
+  T = 139
+    1) Nupirkta 15900.00 t grudu uz 113685000.00 Eur
+    2) Parduota 3446.84 t grudu uz 27782700.11 Eur
+    3) Dienos pelnas: -85902299.89 Eur
+
+  T = 140
+    1) Nupirkta 7300.00 t grudu uz 37960000.00 Eur
+    2) Parduota 20026.80 t grudu uz 156723212.65 Eur
+    3) Dienos pelnas: 118763212.65 Eur
+
+  T = 141
+    1) Nupirkta 12000.00 t grudu uz 48000000.00 Eur
+    2) Parduota 4347.51 t grudu uz 24665448.89 Eur
+    3) Dienos pelnas: -23334551.11 Eur
+
+  T = 142
+    1) Nupirkta 6500.00 t grudu uz 10075000.00 Eur
+    2) Parduota 6936.66 t grudu uz 30367314.55 Eur
+    3) Dienos pelnas: 20292314.55 Eur
+
+  T = 143
+    1) Nupirkta 14500.00 t grudu uz 130500000.00 Eur
+    2) Parduota 6712.60 t grudu uz 51043964.50 Eur
+    3) Dienos pelnas: -79456035.50 Eur
+
+  T = 144
+    1) Nupirkta 11000.00 t grudu uz 97350000.00 Eur
+    2) Parduota 18063.06 t grudu uz 136322735.25 Eur
+    3) Dienos pelnas: 38972735.25 Eur
+
+  T = 145
+    1) Nupirkta 6600.00 t grudu uz 8580000.00 Eur
+    2) Parduota 13608.69 t grudu uz 78050032.90 Eur
+    3) Dienos pelnas: 69470032.90 Eur
+
+  T = 146
+    1) Nupirkta 6100.00 t grudu uz 35990000.00 Eur
+    2) Parduota 5566.68 t grudu uz 39389992.07 Eur
+    3) Dienos pelnas: 3399992.07 Eur
+
+  T = 147
+    1) Nupirkta 13000.00 t grudu uz 87100000.00 Eur
+    2) Parduota 12254.01 t grudu uz 87620583.76 Eur
+    3) Dienos pelnas: 520583.76 Eur
+
+  T = 148
+    1) Nupirkta 13800.00 t grudu uz 121440000.00 Eur
+    2) Parduota 2815.77 t grudu uz 25443900.52 Eur
+    3) Dienos pelnas: -95996099.48 Eur
+
+  T = 149
+    1) Nupirkta 12200.00 t grudu uz 105530000.00 Eur
+    2) Parduota 25367.33 t grudu uz 230122620.80 Eur
+    3) Dienos pelnas: 124592620.80 Eur
+
+  T = 150
+    1) Nupirkta 12700.00 t grudu uz 36830000.00 Eur
+    2) Parduota 4712.28 t grudu uz 22653953.47 Eur
+    3) Dienos pelnas: -14176046.53 Eur
+
+  T = 151
+    1) Nupirkta 9300.00 t grudu uz 79980000.00 Eur
+    2) Parduota 14992.10 t grudu uz 100023531.87 Eur
+    3) Dienos pelnas: 20043531.87 Eur
+
+  T = 152
+    1) Nupirkta 5900.00 t grudu uz 50445000.00 Eur
+    2) Parduota 8257.87 t grudu uz 61076369.39 Eur
+    3) Dienos pelnas: 10631369.39 Eur
+
+  T = 153
+    1) Nupirkta 11500.00 t grudu uz 27025000.00 Eur
+    2) Parduota 9184.71 t grudu uz 53993731.63 Eur
+    3) Dienos pelnas: 26968731.63 Eur
+
+  T = 154
+    1) Nupirkta 15900.00 t grudu uz 21465000.00 Eur
+    2) Parduota 9358.69 t grudu uz 34524325.81 Eur
+    3) Dienos pelnas: 13059325.81 Eur
+
+  T = 155
+    1) Nupirkta 10500.00 t grudu uz 67725000.00 Eur
+    2) Parduota 1405.43 t grudu uz 7349067.46 Eur
+    3) Dienos pelnas: -60375932.54 Eur
+
+  T = 156
+    1) Nupirkta 15400.00 t grudu uz 64680000.00 Eur
+    2) Parduota 27315.48 t grudu uz 137643083.99 Eur
+    3) Dienos pelnas: 72963083.99 Eur
+
+  T = 157
+    1) Nupirkta 11100.00 t grudu uz 83805000.00 Eur
+    2) Parduota 15690.21 t grudu uz 94613462.07 Eur
+    3) Dienos pelnas: 10808462.07 Eur
+
+  T = 158
+    1) Nupirkta 11900.00 t grudu uz 96985000.00 Eur
+    2) Parduota 13581.97 t grudu uz 111315699.18 Eur
+    3) Dienos pelnas: 14330699.18 Eur
+
+  T = 159
+    1) Nupirkta 6100.00 t grudu uz 9455000.00 Eur
+    2) Parduota 1092.39 t grudu uz 4779068.58 Eur
+    3) Dienos pelnas: -4675931.42 Eur
+
+  T = 160
+    1) Nupirkta 9200.00 t grudu uz 26680000.00 Eur
+    2) Parduota 16414.96 t grudu uz 74472581.00 Eur
+    3) Dienos pelnas: 47792581.00 Eur
+
+  T = 161
+    1) Nupirkta 12000.00 t grudu uz 93600000.00 Eur
+    2) Parduota 953.64 t grudu uz 8215958.32 Eur
+    3) Dienos pelnas: -85384041.68 Eur
+
+  T = 162
+    1) Nupirkta 14100.00 t grudu uz 79665000.00 Eur
+    2) Parduota 26769.82 t grudu uz 211056103.16 Eur
+    3) Dienos pelnas: 131391103.16 Eur
+
+  T = 163
+    1) Nupirkta 4500.00 t grudu uz 15750000.00 Eur
+    2) Parduota 3105.00 t grudu uz 12497625.00 Eur
+    3) Dienos pelnas: -3252375.00 Eur
+
+  T = 164
+    1) Nupirkta 12000.00 t grudu uz 34200000.00 Eur
+    2) Parduota 535.80 t grudu uz 1799532.94 Eur
+    3) Dienos pelnas: -32400467.06 Eur
+
+  T = 165
+    1) Nupirkta 10100.00 t grudu uz 23230000.00 Eur
+    2) Parduota 4132.66 t grudu uz 12945164.35 Eur
+    3) Dienos pelnas: -10284835.65 Eur
+
+  T = 166
+    1) Nupirkta 12300.00 t grudu uz 60270000.00 Eur
+    2) Parduota 24589.97 t grudu uz 91115613.91 Eur
+    3) Dienos pelnas: 30845613.91 Eur
+
+  T = 167
+    1) Nupirkta 6100.00 t grudu uz 51545000.00 Eur
+    2) Parduota 7329.21 t grudu uz 43729772.52 Eur
+    3) Dienos pelnas: -7815227.48 Eur
+
+  T = 168
+    1) Nupirkta 9600.00 t grudu uz 56160000.00 Eur
+    2) Parduota 1639.81 t grudu uz 8897618.06 Eur
+    3) Dienos pelnas: -47262381.94 Eur
+
+  T = 169
+    1) Nupirkta 9200.00 t grudu uz 44620000.00 Eur
+    2) Parduota 15502.61 t grudu uz 77265209.75 Eur
+    3) Dienos pelnas: 32645209.75 Eur
+
+  T = 170
+    1) Nupirkta 4800.00 t grudu uz 24000000.00 Eur
+    2) Parduota 1647.09 t grudu uz 7768083.82 Eur
+    3) Dienos pelnas: -16231916.18 Eur
+
+  T = 171
+    1) Nupirkta 5700.00 t grudu uz 47595000.00 Eur
+    2) Parduota 4903.53 t grudu uz 24874714.99 Eur
+    3) Dienos pelnas: -22720285.01 Eur
+
+  T = 172
+    1) Nupirkta 11900.00 t grudu uz 47600000.00 Eur
+    2) Parduota 4106.58 t grudu uz 20023034.81 Eur
+    3) Dienos pelnas: -27576965.19 Eur
+
+  T = 173
+    1) Nupirkta 8900.00 t grudu uz 74315000.00 Eur
+    2) Parduota 17945.03 t grudu uz 101120625.91 Eur
+    3) Dienos pelnas: 26805625.91 Eur
+
+  T = 174
+    1) Nupirkta 15900.00 t grudu uz 139125000.00 Eur
+    2) Parduota 16104.51 t grudu uz 128518760.05 Eur
+    3) Dienos pelnas: -10606239.95 Eur
+
+  T = 175
+    1) Nupirkta 15900.00 t grudu uz 96195000.00 Eur
+    2) Parduota 20793.73 t grudu uz 118130467.95 Eur
+    3) Dienos pelnas: 21935467.95 Eur
+
+  T = 176
+    1) Nupirkta 6900.00 t grudu uz 33465000.00 Eur
+    2) Parduota 9859.45 t grudu uz 44416158.66 Eur
+    3) Dienos pelnas: 10951158.66 Eur
+
+  T = 177
+    1) Nupirkta 6600.00 t grudu uz 32010000.00 Eur
+    2) Parduota 4923.02 t grudu uz 23484923.49 Eur
+    3) Dienos pelnas: -8525076.51 Eur
+
+  T = 178
+    1) Nupirkta 15900.00 t grudu uz 108120000.00 Eur
+    2) Parduota 8248.26 t grudu uz 56951000.38 Eur
+    3) Dienos pelnas: -51168999.62 Eur
+
+  T = 179
+    1) Nupirkta 6000.00 t grudu uz 6300000.00 Eur
+    2) Parduota 169.34 t grudu uz 833673.85 Eur
+    3) Dienos pelnas: -5466326.15 Eur
+
+  T = 180
+    1) Nupirkta 14600.00 t grudu uz 87600000.00 Eur
+    2) Parduota 1881.86 t grudu uz 10869500.83 Eur
+    3) Dienos pelnas: -76730499.17 Eur
+
+  T = 181
+    1) Nupirkta 5600.00 t grudu uz 21000000.00 Eur
+    2) Parduota 1403.30 t grudu uz 7849462.81 Eur
+    3) Dienos pelnas: -13150537.19 Eur
+
+  T = 182
+    1) Nupirkta 5500.00 t grudu uz 44550000.00 Eur
+    2) Parduota 11753.77 t grudu uz 68820486.48 Eur
+    3) Dienos pelnas: 24270486.48 Eur
+
+  T = 183
+    1) Nupirkta 12000.00 t grudu uz 84600000.00 Eur
+    2) Parduota 35088.67 t grudu uz 202870382.59 Eur
+    3) Dienos pelnas: 118270382.59 Eur
+
+  T = 184
+    1) Nupirkta 11200.00 t grudu uz 92400000.00 Eur
+    2) Parduota 621.47 t grudu uz 5177869.37 Eur
+    3) Dienos pelnas: -87222130.63 Eur
+
+  T = 185
+    1) Nupirkta 13900.00 t grudu uz 52820000.00 Eur
+    2) Parduota 22764.11 t grudu uz 148090226.29 Eur
+    3) Dienos pelnas: 95270226.29 Eur
+
+  T = 186
+    1) Nupirkta 6500.00 t grudu uz 53625000.00 Eur
+    2) Parduota 1757.17 t grudu uz 13864592.45 Eur
+    3) Dienos pelnas: -39760407.55 Eur
+
+  T = 187
+    1) Nupirkta 9400.00 t grudu uz 27260000.00 Eur
+    2) Parduota 15953.30 t grudu uz 103564651.29 Eur
+    3) Dienos pelnas: 76304651.29 Eur
+
+  T = 188
+    1) Nupirkta 9600.00 t grudu uz 45120000.00 Eur
+    2) Parduota 11764.64 t grudu uz 62471357.74 Eur
+    3) Dienos pelnas: 17351357.74 Eur
+
+  T = 189
+    1) Nupirkta 14800.00 t grudu uz 74000000.00 Eur
+    2) Parduota 13838.41 t grudu uz 65872641.60 Eur
+    3) Dienos pelnas: -8127358.40 Eur
+
+  T = 190
+    1) Nupirkta 8400.00 t grudu uz 13440000.00 Eur
+    2) Parduota 11208.95 t grudu uz 34093283.88 Eur
+    3) Dienos pelnas: 20653283.88 Eur
+
+  T = 191
+    1) Nupirkta 10200.00 t grudu uz 32640000.00 Eur
+    2) Parduota 9594.45 t grudu uz 36215171.07 Eur
+    3) Dienos pelnas: 3575171.07 Eur
+
+  T = 192
+    1) Nupirkta 9500.00 t grudu uz 47025000.00 Eur
+    2) Parduota 5787.21 t grudu uz 30907179.86 Eur
+    3) Dienos pelnas: -16117820.14 Eur
+
+  T = 193
+    1) Nupirkta 14300.00 t grudu uz 31460000.00 Eur
+    2) Parduota 13192.96 t grudu uz 63198362.66 Eur
+    3) Dienos pelnas: 31738362.66 Eur
+
+  T = 194
+    1) Nupirkta 12000.00 t grudu uz 25200000.00 Eur
+    2) Parduota 1941.95 t grudu uz 6349743.02 Eur
+    3) Dienos pelnas: -18850256.98 Eur
+
+  T = 195
+    1) Nupirkta 7500.00 t grudu uz 63750000.00 Eur
+    2) Parduota 5570.92 t grudu uz 22178505.57 Eur
+    3) Dienos pelnas: -41571494.43 Eur
+
+  T = 196
+    1) Nupirkta 5200.00 t grudu uz 24440000.00 Eur
+    2) Parduota 11420.63 t grudu uz 45478147.63 Eur
+    3) Dienos pelnas: 21038147.63 Eur
+
+  T = 197
+    1) Nupirkta 6000.00 t grudu uz 51000000.00 Eur
+    2) Parduota 174.21 t grudu uz 989477.17 Eur
+    3) Dienos pelnas: -50010522.83 Eur
+
+  T = 198
+    1) Nupirkta 9800.00 t grudu uz 11270000.00 Eur
+    2) Parduota 16227.85 t grudu uz 75481696.83 Eur
+    3) Dienos pelnas: 64211696.83 Eur
+
+  T = 199
+    1) Nupirkta 15700.00 t grudu uz 118535000.00 Eur
+    2) Parduota 25457.83 t grudu uz 142896451.17 Eur
+    3) Dienos pelnas: 24361451.17 Eur
+
+  T = 200
+    1) Nupirkta 14700.00 t grudu uz 36015000.00 Eur
+    2) Parduota 11347.73 t grudu uz 35699595.36 Eur
+    3) Dienos pelnas: -315404.64 Eur
+
+  T = 201
+    1) Nupirkta 4300.00 t grudu uz 33540000.00 Eur
+    2) Parduota 958.43 t grudu uz 5420534.40 Eur
+    3) Dienos pelnas: -28119465.60 Eur
+
+  T = 202
+    1) Nupirkta 13700.00 t grudu uz 22605000.00 Eur
+    2) Parduota 9654.56 t grudu uz 42163587.83 Eur
+    3) Dienos pelnas: 19558587.83 Eur
+
+  T = 203
+    1) Nupirkta 13700.00 t grudu uz 96585000.00 Eur
+    2) Parduota 1530.00 t grudu uz 9587332.38 Eur
+    3) Dienos pelnas: -86997667.62 Eur
+
+  T = 204
+    1) Nupirkta 12300.00 t grudu uz 44895000.00 Eur
+    2) Parduota 10518.30 t grudu uz 64404591.34 Eur
+    3) Dienos pelnas: 19509591.34 Eur
+
+  T = 205
+    1) Nupirkta 12300.00 t grudu uz 97785000.00 Eur
+    2) Parduota 33485.51 t grudu uz 202809242.78 Eur
+    3) Dienos pelnas: 105024242.78 Eur
+
+  T = 206
+    1) Nupirkta 15200.00 t grudu uz 114760000.00 Eur
+    2) Parduota 19568.54 t grudu uz 127635614.31 Eur
+    3) Dienos pelnas: 12875614.31 Eur
+
+  T = 207
+    1) Nupirkta 9300.00 t grudu uz 59985000.00 Eur
+    2) Parduota 6743.34 t grudu uz 48376988.17 Eur
+    3) Dienos pelnas: -11608011.83 Eur
+
+  T = 208
+    1) Nupirkta 8700.00 t grudu uz 13050000.00 Eur
+    2) Parduota 5268.99 t grudu uz 21873945.88 Eur
+    3) Dienos pelnas: 8823945.88 Eur
+
+  T = 209
+    1) Nupirkta 7400.00 t grudu uz 59940000.00 Eur
+    2) Parduota 13449.48 t grudu uz 84368097.63 Eur
+    3) Dienos pelnas: 24428097.63 Eur
+
+  T = 210
+    1) Nupirkta 8400.00 t grudu uz 30660000.00 Eur
+    2) Parduota 3243.62 t grudu uz 13600749.66 Eur
+    3) Dienos pelnas: -17059250.34 Eur
+
+  T = 211
+    1) Nupirkta 6300.00 t grudu uz 49140000.00 Eur
+    2) Parduota 7187.18 t grudu uz 46491042.86 Eur
+    3) Dienos pelnas: -2648957.14 Eur
+
+  T = 212
+    1) Nupirkta 9000.00 t grudu uz 78300000.00 Eur
+    2) Parduota 1742.66 t grudu uz 13609128.57 Eur
+    3) Dienos pelnas: -64690871.43 Eur
+
+  T = 213
+    1) Nupirkta 6700.00 t grudu uz 29480000.00 Eur
+    2) Parduota 2754.36 t grudu uz 19595544.90 Eur
+    3) Dienos pelnas: -9884455.10 Eur
+
+  T = 214
+    1) Nupirkta 4000.00 t grudu uz 16800000.00 Eur
+    2) Parduota 14117.78 t grudu uz 87630534.62 Eur
+    3) Dienos pelnas: 70830534.62 Eur
+
+  T = 215
+    1) Nupirkta 9100.00 t grudu uz 13195000.00 Eur
+    2) Parduota 583.61 t grudu uz 1813553.19 Eur
+    3) Dienos pelnas: -11381446.81 Eur
+
+  T = 216
+    1) Nupirkta 15200.00 t grudu uz 126920000.00 Eur
+    2) Parduota 18108.12 t grudu uz 108746876.00 Eur
+    3) Dienos pelnas: -18173124.00 Eur
+
+  T = 217
+    1) Nupirkta 8700.00 t grudu uz 16095000.00 Eur
+    2) Parduota 17026.73 t grudu uz 57310357.42 Eur
+    3) Dienos pelnas: 41215357.42 Eur
+
+  T = 218
+    1) Nupirkta 12400.00 t grudu uz 75640000.00 Eur
+    2) Parduota 12744.31 t grudu uz 82025973.64 Eur
+    3) Dienos pelnas: 6385973.64 Eur
+
+  T = 219
+    1) Nupirkta 7200.00 t grudu uz 40680000.00 Eur
+    2) Parduota 9627.49 t grudu uz 52732832.92 Eur
+    3) Dienos pelnas: 12052832.92 Eur
+
+  T = 220
+    1) Nupirkta 7600.00 t grudu uz 63840000.00 Eur
+    2) Parduota 1216.00 t grudu uz 11746560.00 Eur
+    3) Dienos pelnas: -52093440.00 Eur
+
+  T = 221
+    1) Nupirkta 8200.00 t grudu uz 39770000.00 Eur
+    2) Parduota 12250.56 t grudu uz 99517912.34 Eur
+    3) Dienos pelnas: 59747912.34 Eur
+
+  T = 222
+    1) Nupirkta 6900.00 t grudu uz 22080000.00 Eur
+    2) Parduota 2585.36 t grudu uz 14940680.93 Eur
+    3) Dienos pelnas: -7139319.07 Eur
+
+  T = 223
+    1) Nupirkta 15100.00 t grudu uz 62665000.00 Eur
+    2) Parduota 16528.54 t grudu uz 85786461.48 Eur
+    3) Dienos pelnas: 23121461.48 Eur
+
+  T = 224
+    1) Nupirkta 9400.00 t grudu uz 29140000.00 Eur
+    2) Parduota 10379.87 t grudu uz 49699974.63 Eur
+    3) Dienos pelnas: 20559974.63 Eur
+
+  T = 225
+    1) Nupirkta 11400.00 t grudu uz 92910000.00 Eur
+    2) Parduota 8445.42 t grudu uz 67203876.10 Eur
+    3) Dienos pelnas: -25706123.90 Eur
+
+  T = 226
+    1) Nupirkta 5700.00 t grudu uz 49590000.00 Eur
+    2) Parduota 3223.56 t grudu uz 27341504.14 Eur
+    3) Dienos pelnas: -22248495.86 Eur
+
+  T = 227
+    1) Nupirkta 14400.00 t grudu uz 118800000.00 Eur
+    2) Parduota 481.41 t grudu uz 4368920.41 Eur
+    3) Dienos pelnas: -114431079.59 Eur
+
+  T = 228
+    1) Nupirkta 13700.00 t grudu uz 41100000.00 Eur
+    2) Parduota 21627.78 t grudu uz 166308013.35 Eur
+    3) Dienos pelnas: 125208013.35 Eur
+
+  T = 229
+    1) Nupirkta 4000.00 t grudu uz 4200000.00 Eur
+    2) Parduota 3932.30 t grudu uz 34736015.63 Eur
+    3) Dienos pelnas: 30536015.63 Eur
+
+  T = 230
+    1) Nupirkta 10800.00 t grudu uz 39960000.00 Eur
+    2) Parduota 20958.06 t grudu uz 162238430.10 Eur
+    3) Dienos pelnas: 122278430.10 Eur
+
+  T = 231
+    1) Nupirkta 4500.00 t grudu uz 26325000.00 Eur
+    2) Parduota 604.27 t grudu uz 4355976.68 Eur
+    3) Dienos pelnas: -21969023.32 Eur
+
+  T = 232
+    1) Nupirkta 4600.00 t grudu uz 15410000.00 Eur
+    2) Parduota 8721.46 t grudu uz 57880234.11 Eur
+    3) Dienos pelnas: 42470234.11 Eur
+
+  T = 233
+    1) Nupirkta 8300.00 t grudu uz 31540000.00 Eur
+    2) Parduota 11325.69 t grudu uz 68022961.99 Eur
+    3) Dienos pelnas: 36482961.99 Eur
+
+  T = 234
+    1) Nupirkta 7800.00 t grudu uz 58110000.00 Eur
+    2) Parduota 2833.52 t grudu uz 25261753.31 Eur
+    3) Dienos pelnas: -32848246.69 Eur
+
+  T = 235
+    1) Nupirkta 9500.00 t grudu uz 58425000.00 Eur
+    2) Parduota 14771.85 t grudu uz 122015411.48 Eur
+    3) Dienos pelnas: 63590411.48 Eur
+
+  T = 236
+    1) Nupirkta 11700.00 t grudu uz 71370000.00 Eur
+    2) Parduota 9462.90 t grudu uz 78241185.28 Eur
+    3) Dienos pelnas: 6871185.28 Eur
+
+  T = 237
+    1) Nupirkta 11700.00 t grudu uz 23400000.00 Eur
+    2) Parduota 1276.12 t grudu uz 5141458.32 Eur
+    3) Dienos pelnas: -18258541.68 Eur
+
+  T = 238
+    1) Nupirkta 7700.00 t grudu uz 55440000.00 Eur
+    2) Parduota 13201.45 t grudu uz 70156970.82 Eur
+    3) Dienos pelnas: 14716970.82 Eur
+
+  T = 239
+    1) Nupirkta 4400.00 t grudu uz 5720000.00 Eur
+    2) Parduota 135.74 t grudu uz 533823.41 Eur
+    3) Dienos pelnas: -5186176.59 Eur
+
+  T = 240
+    1) Nupirkta 8700.00 t grudu uz 52200000.00 Eur
+    2) Parduota 17267.75 t grudu uz 93448075.09 Eur
+    3) Dienos pelnas: 41248075.09 Eur
+
+  T = 241
+    1) Nupirkta 13500.00 t grudu uz 74925000.00 Eur
+    2) Parduota 1837.04 t grudu uz 12334917.68 Eur
+    3) Dienos pelnas: -62590082.32 Eur
+
+  T = 242
+    1) Nupirkta 8900.00 t grudu uz 35155000.00 Eur
+    2) Parduota 5595.34 t grudu uz 35545706.81 Eur
+    3) Dienos pelnas: 390706.81 Eur
+
+  T = 243
+    1) Nupirkta 6700.00 t grudu uz 28810000.00 Eur
+    2) Parduota 6103.74 t grudu uz 38524753.86 Eur
+    3) Dienos pelnas: 9714753.86 Eur
+
+  T = 244
+    1) Nupirkta 4600.00 t grudu uz 13800000.00 Eur
+    2) Parduota 18525.36 t grudu uz 123808276.30 Eur
+    3) Dienos pelnas: 110008276.30 Eur
+
+  T = 245
+    1) Nupirkta 5100.00 t grudu uz 22695000.00 Eur
+    2) Parduota 2553.96 t grudu uz 16940737.16 Eur
+    3) Dienos pelnas: -5754262.84 Eur
+
+  T = 246
+    1) Nupirkta 15200.00 t grudu uz 128440000.00 Eur
+    2) Parduota 6791.39 t grudu uz 55134068.58 Eur
+    3) Dienos pelnas: -73305931.42 Eur
+
+  T = 247
+    1) Nupirkta 7300.00 t grudu uz 32850000.00 Eur
+    2) Parduota 22782.48 t grudu uz 173386849.31 Eur
+    3) Dienos pelnas: 140536849.31 Eur
+
+  T = 248
+    1) Nupirkta 8100.00 t grudu uz 38070000.00 Eur
+    2) Parduota 6955.95 t grudu uz 56359376.89 Eur
+    3) Dienos pelnas: 18289376.89 Eur
+
+  T = 249
+    1) Nupirkta 5800.00 t grudu uz 41180000.00 Eur
+    2) Parduota 3391.55 t grudu uz 27571977.96 Eur
+    3) Dienos pelnas: -13608022.04 Eur
+
+  T = 250
+    1) Nupirkta 14700.00 t grudu uz 16170000.00 Eur
+    2) Parduota 12544.82 t grudu uz 77846153.20 Eur
+    3) Dienos pelnas: 61676153.20 Eur
+
+  T = 251
+    1) Nupirkta 9200.00 t grudu uz 24840000.00 Eur
+    2) Parduota 6248.84 t grudu uz 33403073.80 Eur
+    3) Dienos pelnas: 8563073.80 Eur
+
+  T = 252
+    1) Nupirkta 4000.00 t grudu uz 5000000.00 Eur
+    2) Parduota 3806.38 t grudu uz 20081076.77 Eur
+    3) Dienos pelnas: 15081076.77 Eur
+
+  T = 253
+    1) Nupirkta 13100.00 t grudu uz 83840000.00 Eur
+    2) Parduota 718.01 t grudu uz 4586143.55 Eur
+    3) Dienos pelnas: -79253856.45 Eur
+
+  T = 254
+    1) Nupirkta 12200.00 t grudu uz 51850000.00 Eur
+    2) Parduota 31519.83 t grudu uz 194171603.90 Eur
+    3) Dienos pelnas: 142321603.90 Eur
+
+  T = 255
+    1) Nupirkta 9500.00 t grudu uz 39425000.00 Eur
+    2) Parduota 9644.91 t grudu uz 55748166.14 Eur
+    3) Dienos pelnas: 16323166.14 Eur
+
+  T = 256
+    1) Nupirkta 8200.00 t grudu uz 33210000.00 Eur
+    2) Parduota 3346.22 t grudu uz 20625062.12 Eur
+    3) Dienos pelnas: -12584937.88 Eur
+
+  T = 257
+    1) Nupirkta 12100.00 t grudu uz 89540000.00 Eur
+    2) Parduota 7453.65 t grudu uz 52074190.34 Eur
+    3) Dienos pelnas: -37465809.66 Eur
+
+  T = 258
+    1) Nupirkta 11300.00 t grudu uz 59890000.00 Eur
+    2) Parduota 17676.67 t grudu uz 118092563.40 Eur
+    3) Dienos pelnas: 58202563.40 Eur
+
+  T = 259
+    1) Nupirkta 8100.00 t grudu uz 66825000.00 Eur
+    2) Parduota 8984.56 t grudu uz 71932705.36 Eur
+    3) Dienos pelnas: 5107705.36 Eur
+
+  T = 260
+    1) Nupirkta 12600.00 t grudu uz 83160000.00 Eur
+    2) Parduota 3532.04 t grudu uz 25728087.76 Eur
+    3) Dienos pelnas: -57431912.24 Eur
+
+  T = 261
+    1) Nupirkta 6700.00 t grudu uz 58625000.00 Eur
+    2) Parduota 5221.84 t grudu uz 39333758.25 Eur
+    3) Dienos pelnas: -19291241.75 Eur
+
+  T = 262
+    1) Nupirkta 9000.00 t grudu uz 81000000.00 Eur
+    2) Parduota 8426.82 t grudu uz 64270850.23 Eur
+    3) Dienos pelnas: -16729149.77 Eur
+
+  T = 263
+    1) Nupirkta 7400.00 t grudu uz 11470000.00 Eur
+    2) Parduota 18136.66 t grudu uz 118532600.95 Eur
+    3) Dienos pelnas: 107062600.95 Eur
+
+  T = 264
+    1) Nupirkta 12700.00 t grudu uz 21590000.00 Eur
+    2) Parduota 3051.57 t grudu uz 11928379.69 Eur
+    3) Dienos pelnas: -9661620.31 Eur
+
+  T = 265
+    1) Nupirkta 4000.00 t grudu uz 4200000.00 Eur
+    2) Parduota 4604.78 t grudu uz 15887189.34 Eur
+    3) Dienos pelnas: 11687189.34 Eur
+
+  T = 266
+    1) Nupirkta 14900.00 t grudu uz 44700000.00 Eur
+    2) Parduota 30315.99 t grudu uz 142889575.11 Eur
+    3) Dienos pelnas: 98189575.11 Eur
+
+  T = 267
+    1) Nupirkta 5600.00 t grudu uz 17920000.00 Eur
+    2) Parduota 5264.00 t grudu uz 19371520.00 Eur
+    3) Dienos pelnas: 1451520.00 Eur
+
+  T = 268
+    1) Nupirkta 5500.00 t grudu uz 8800000.00 Eur
+    2) Parduota 2567.84 t grudu uz 5210585.60 Eur
+    3) Dienos pelnas: -3589414.40 Eur
+
+  T = 269
+    1) Nupirkta 5900.00 t grudu uz 17405000.00 Eur
+    2) Parduota 4217.35 t grudu uz 10511879.38 Eur
+    3) Dienos pelnas: -6893120.62 Eur
+
+  T = 270
+    1) Nupirkta 6800.00 t grudu uz 30940000.00 Eur
+    2) Parduota 9518.15 t grudu uz 34117238.82 Eur
+    3) Dienos pelnas: 3177238.82 Eur
+
+  T = 271
+    1) Nupirkta 7700.00 t grudu uz 50435000.00 Eur
+    2) Parduota 5661.61 t grudu uz 26618306.75 Eur
+    3) Dienos pelnas: -23816693.25 Eur
+
+  T = 272
+    1) Nupirkta 7800.00 t grudu uz 33930000.00 Eur
+    2) Parduota 1086.39 t grudu uz 5307556.41 Eur
+    3) Dienos pelnas: -28622443.59 Eur
+
+  T = 273
+    1) Nupirkta 4400.00 t grudu uz 9680000.00 Eur
+    2) Parduota 9384.63 t grudu uz 42399746.05 Eur
+    3) Dienos pelnas: 32719746.05 Eur
+
+  T = 274
+    1) Nupirkta 14200.00 t grudu uz 61770000.00 Eur
+    2) Parduota 8888.01 t grudu uz 43452286.24 Eur
+    3) Dienos pelnas: -18317713.76 Eur
+
+  T = 275
+    1) Nupirkta 14600.00 t grudu uz 112420000.00 Eur
+    2) Parduota 9587.44 t grudu uz 58547570.07 Eur
+    3) Dienos pelnas: -53872429.93 Eur
+
+  T = 276
+    1) Nupirkta 6500.00 t grudu uz 54600000.00 Eur
+    2) Parduota 10955.79 t grudu uz 68883729.00 Eur
+    3) Dienos pelnas: 14283729.00 Eur
+
+  T = 277
+    1) Nupirkta 10900.00 t grudu uz 76845000.00 Eur
+    2) Parduota 21630.33 t grudu uz 120406074.87 Eur
+    3) Dienos pelnas: 43561074.87 Eur
+
+  T = 278
+    1) Nupirkta 12700.00 t grudu uz 67945000.00 Eur
+    2) Parduota 11209.14 t grudu uz 50669814.61 Eur
+    3) Dienos pelnas: -17275185.39 Eur
+
+  T = 279
+    1) Nupirkta 11000.00 t grudu uz 41250000.00 Eur
+    2) Parduota 5860.60 t grudu uz 25686217.98 Eur
+    3) Dienos pelnas: -15563782.02 Eur
+
+  T = 280
+    1) Nupirkta 10900.00 t grudu uz 76845000.00 Eur
+    2) Parduota 1493.50 t grudu uz 9592382.78 Eur
+    3) Dienos pelnas: -67252617.22 Eur
+
+  T = 281
+    1) Nupirkta 13900.00 t grudu uz 17375000.00 Eur
+    2) Parduota 19266.63 t grudu uz 88640224.67 Eur
+    3) Dienos pelnas: 71265224.67 Eur
+
+  T = 282
+    1) Nupirkta 12700.00 t grudu uz 65405000.00 Eur
+    2) Parduota 18871.61 t grudu uz 105845678.46 Eur
+    3) Dienos pelnas: 40440678.46 Eur
+
+  T = 283
+    1) Nupirkta 4000.00 t grudu uz 35800000.00 Eur
+    2) Parduota 5107.60 t grudu uz 32315502.14 Eur
+    3) Dienos pelnas: -3484497.86 Eur
+
+  T = 284
+    1) Nupirkta 14100.00 t grudu uz 33840000.00 Eur
+    2) Parduota 13599.45 t grudu uz 58024487.17 Eur
+    3) Dienos pelnas: 24184487.17 Eur
+
+  T = 285
+    1) Nupirkta 14100.00 t grudu uz 43005000.00 Eur
+    2) Parduota 13008.35 t grudu uz 53741379.97 Eur
+    3) Dienos pelnas: 10736379.97 Eur
+
+  T = 286
+    1) Nupirkta 12400.00 t grudu uz 94240000.00 Eur
+    2) Parduota 14076.40 t grudu uz 96507091.70 Eur
+    3) Dienos pelnas: 2267091.70 Eur
+
+  T = 287
+    1) Nupirkta 15800.00 t grudu uz 106650000.00 Eur
+    2) Parduota 18828.02 t grudu uz 122947013.84 Eur
+    3) Dienos pelnas: 16297013.84 Eur
+
+  T = 288
+    1) Nupirkta 13800.00 t grudu uz 61410000.00 Eur
+    2) Parduota 11412.87 t grudu uz 49931831.14 Eur
+    3) Dienos pelnas: -11478168.86 Eur
+
+  T = 289
+    1) Nupirkta 4800.00 t grudu uz 43200000.00 Eur
+    2) Parduota 946.47 t grudu uz 6986601.65 Eur
+    3) Dienos pelnas: -36213398.35 Eur
+
+  T = 290
+    1) Nupirkta 8900.00 t grudu uz 14240000.00 Eur
+    2) Parduota 16557.82 t grudu uz 82830855.28 Eur
+    3) Dienos pelnas: 68590855.28 Eur
+
+  T = 291
+    1) Nupirkta 10400.00 t grudu uz 38480000.00 Eur
+    2) Parduota 8112.00 t grudu uz 34516560.00 Eur
+    3) Dienos pelnas: -3963440.00 Eur
+
+  T = 292
+    1) Nupirkta 4900.00 t grudu uz 41895000.00 Eur
+    2) Parduota 3809.64 t grudu uz 23067860.62 Eur
+    3) Dienos pelnas: -18827139.38 Eur
+
+  T = 293
+    1) Nupirkta 5400.00 t grudu uz 47520000.00 Eur
+    2) Parduota 1141.19 t grudu uz 9496812.94 Eur
+    3) Dienos pelnas: -38023187.06 Eur
+
+  T = 294
+    1) Nupirkta 15700.00 t grudu uz 26690000.00 Eur
+    2) Parduota 21003.46 t grudu uz 103406144.52 Eur
+    3) Dienos pelnas: 76716144.52 Eur
+
+  T = 295
+    1) Nupirkta 5400.00 t grudu uz 25110000.00 Eur
+    2) Parduota 5258.93 t grudu uz 23246095.92 Eur
+    3) Dienos pelnas: -1863904.08 Eur
+
+  T = 296
+    1) Nupirkta 11300.00 t grudu uz 51415000.00 Eur
+    2) Parduota 6474.15 t grudu uz 32093545.36 Eur
+    3) Dienos pelnas: -19321454.64 Eur
+
+  T = 297
+    1) Nupirkta 4100.00 t grudu uz 26240000.00 Eur
+    2) Parduota 8550.48 t grudu uz 44015902.73 Eur
+    3) Dienos pelnas: 17775902.73 Eur
+
+  T = 298
+    1) Nupirkta 4800.00 t grudu uz 34080000.00 Eur
+    2) Parduota 3672.08 t grudu uz 20411960.86 Eur
+    3) Dienos pelnas: -13668039.14 Eur
+
+  T = 299
+    1) Nupirkta 9600.00 t grudu uz 14880000.00 Eur
+    2) Parduota 10183.56 t grudu uz 30715274.44 Eur
+    3) Dienos pelnas: 15835274.44 Eur
+
+  T = 300
+    1) Nupirkta 5200.00 t grudu uz 7020000.00 Eur
+    2) Parduota 1547.01 t grudu uz 5053046.27 Eur
+    3) Dienos pelnas: -1966953.73 Eur
+
+  T = 301
+    1) Nupirkta 8500.00 t grudu uz 68850000.00 Eur
+    2) Parduota 1243.80 t grudu uz 7879211.37 Eur
+    3) Dienos pelnas: -60970788.63 Eur
+
+  T = 302
+    1) Nupirkta 4400.00 t grudu uz 39160000.00 Eur
+    2) Parduota 1122.22 t grudu uz 7925041.57 Eur
+    3) Dienos pelnas: -31234958.43 Eur
+
+  T = 303
+    1) Nupirkta 6500.00 t grudu uz 8775000.00 Eur
+    2) Parduota 14930.52 t grudu uz 83378490.12 Eur
+    3) Dienos pelnas: 74603490.12 Eur
+
+  T = 304
+    1) Nupirkta 6700.00 t grudu uz 34170000.00 Eur
+    2) Parduota 2060.63 t grudu uz 10433331.83 Eur
+    3) Dienos pelnas: -23736668.17 Eur
+
+  T = 305
+    1) Nupirkta 11100.00 t grudu uz 31635000.00 Eur
+    2) Parduota 24641.44 t grudu uz 106559910.03 Eur
+    3) Dienos pelnas: 74924910.03 Eur
+
+  T = 306
+    1) Nupirkta 5000.00 t grudu uz 20500000.00 Eur
+    2) Parduota 3411.79 t grudu uz 15873942.05 Eur
+    3) Dienos pelnas: -4626057.95 Eur
+
+  T = 307
+    1) Nupirkta 10400.00 t grudu uz 84760000.00 Eur
+    2) Parduota 12114.75 t grudu uz 98032697.78 Eur
+    3) Dienos pelnas: 13272697.78 Eur
+
+  T = 308
+    1) Nupirkta 11400.00 t grudu uz 90630000.00 Eur
+    2) Parduota 9678.79 t grudu uz 85348386.28 Eur
+    3) Dienos pelnas: -5281613.72 Eur
+
+  T = 309
+    1) Nupirkta 6200.00 t grudu uz 27590000.00 Eur
+    2) Parduota 6193.56 t grudu uz 54535457.57 Eur
+    3) Dienos pelnas: 26945457.57 Eur
+
+  T = 310
+    1) Nupirkta 6600.00 t grudu uz 45540000.00 Eur
+    2) Parduota 507.00 t grudu uz 4125814.21 Eur
+    3) Dienos pelnas: -41414185.79 Eur
+
+  T = 311
+    1) Nupirkta 12200.00 t grudu uz 90890000.00 Eur
+    2) Parduota 10071.51 t grudu uz 82873586.02 Eur
+    3) Dienos pelnas: -8016413.98 Eur
+
+  T = 312
+    1) Nupirkta 7400.00 t grudu uz 58460000.00 Eur
+    2) Parduota 2795.44 t grudu uz 23753523.38 Eur
+    3) Dienos pelnas: -34706476.62 Eur
+
+  T = 313
+    1) Nupirkta 8500.00 t grudu uz 41225000.00 Eur
+    2) Parduota 15527.97 t grudu uz 122166972.40 Eur
+    3) Dienos pelnas: 80941972.40 Eur
+
+  T = 314
+    1) Nupirkta 7600.00 t grudu uz 59280000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -59280000.00 Eur
+
+  T = 315
+    1) Nupirkta 8700.00 t grudu uz 39585000.00 Eur
+    2) Parduota 14847.82 t grudu uz 114821402.17 Eur
+    3) Dienos pelnas: 75236402.17 Eur
+
+  T = 316
+    1) Nupirkta 9400.00 t grudu uz 62980000.00 Eur
+    2) Parduota 9435.14 t grudu uz 75362923.39 Eur
+    3) Dienos pelnas: 12382923.39 Eur
+
+  T = 317
+    1) Nupirkta 11000.00 t grudu uz 95150000.00 Eur
+    2) Parduota 16654.06 t grudu uz 148453282.58 Eur
+    3) Dienos pelnas: 53303282.58 Eur
+
+  T = 318
+    1) Nupirkta 8000.00 t grudu uz 34400000.00 Eur
+    2) Parduota 9128.86 t grudu uz 57592757.79 Eur
+    3) Dienos pelnas: 23192757.79 Eur
+
+  T = 319
+    1) Nupirkta 10200.00 t grudu uz 73950000.00 Eur
+    2) Parduota 7988.62 t grudu uz 67834050.34 Eur
+    3) Dienos pelnas: -6115949.66 Eur
+
+  T = 320
+    1) Nupirkta 6700.00 t grudu uz 28810000.00 Eur
+    2) Parduota 10969.73 t grudu uz 75719646.15 Eur
+    3) Dienos pelnas: 46909646.15 Eur
+
+  T = 321
+    1) Nupirkta 15000.00 t grudu uz 70500000.00 Eur
+    2) Parduota 14767.16 t grudu uz 87532256.11 Eur
+    3) Dienos pelnas: 17032256.11 Eur
+
+  T = 322
+    1) Nupirkta 15400.00 t grudu uz 23100000.00 Eur
+    2) Parduota 8721.19 t grudu uz 17389929.00 Eur
+    3) Dienos pelnas: -5710071.00 Eur
+
+  T = 323
+    1) Nupirkta 8900.00 t grudu uz 75650000.00 Eur
+    2) Parduota 2405.33 t grudu uz 13714153.98 Eur
+    3) Dienos pelnas: -61935846.02 Eur
+
+  T = 324
+    1) Nupirkta 15000.00 t grudu uz 108000000.00 Eur
+    2) Parduota 8875.36 t grudu uz 57698438.84 Eur
+    3) Dienos pelnas: -50301561.16 Eur
+
+  T = 325
+    1) Nupirkta 11600.00 t grudu uz 93380000.00 Eur
+    2) Parduota 5957.42 t grudu uz 42377449.02 Eur
+    3) Dienos pelnas: -51002550.98 Eur
+
+  T = 326
+    1) Nupirkta 6500.00 t grudu uz 36075000.00 Eur
+    2) Parduota 20414.35 t grudu uz 135829533.36 Eur
+    3) Dienos pelnas: 99754533.36 Eur
+
+  T = 327
+    1) Nupirkta 8600.00 t grudu uz 11610000.00 Eur
+    2) Parduota 6627.41 t grudu uz 29447741.93 Eur
+    3) Dienos pelnas: 17837741.93 Eur
+
+  T = 328
+    1) Nupirkta 15000.00 t grudu uz 87000000.00 Eur
+    2) Parduota 7113.91 t grudu uz 37462677.43 Eur
+    3) Dienos pelnas: -49537322.57 Eur
+
+  T = 329
+    1) Nupirkta 5500.00 t grudu uz 36300000.00 Eur
+    2) Parduota 12884.04 t grudu uz 64983655.04 Eur
+    3) Dienos pelnas: 28683655.04 Eur
+
+  T = 330
+    1) Nupirkta 8800.00 t grudu uz 38280000.00 Eur
+    2) Parduota 19344.05 t grudu uz 82461489.09 Eur
+    3) Dienos pelnas: 44181489.09 Eur
+
+  T = 331
+    1) Nupirkta 14700.00 t grudu uz 105105000.00 Eur
+    2) Parduota 14309.79 t grudu uz 41442726.73 Eur
+    3) Dienos pelnas: -63662273.27 Eur
+
+  T = 332
+    1) Nupirkta 9600.00 t grudu uz 84480000.00 Eur
+    2) Parduota 10723.09 t grudu uz 80390471.89 Eur
+    3) Dienos pelnas: -4089528.11 Eur
+
+  T = 333
+    1) Nupirkta 13000.00 t grudu uz 54600000.00 Eur
+    2) Parduota 15210.35 t grudu uz 70311629.69 Eur
+    3) Dienos pelnas: 15711629.69 Eur
+
+  T = 334
+    1) Nupirkta 9700.00 t grudu uz 44135000.00 Eur
+    2) Parduota 8949.97 t grudu uz 48805879.03 Eur
+    3) Dienos pelnas: 4670879.03 Eur
+
+  T = 335
+    1) Nupirkta 14500.00 t grudu uz 85550000.00 Eur
+    2) Parduota 9432.27 t grudu uz 61559837.99 Eur
+    3) Dienos pelnas: -23990162.01 Eur
+
+  T = 336
+    1) Nupirkta 7200.00 t grudu uz 23040000.00 Eur
+    2) Parduota 5395.27 t grudu uz 31787527.05 Eur
+    3) Dienos pelnas: 8747527.05 Eur
+
+  T = 337
+    1) Nupirkta 5300.00 t grudu uz 15105000.00 Eur
+    2) Parduota 3883.94 t grudu uz 21371127.73 Eur
+    3) Dienos pelnas: 6266127.73 Eur
+
+  T = 338
+    1) Nupirkta 5500.00 t grudu uz 37400000.00 Eur
+    2) Parduota 750.45 t grudu uz 4708626.89 Eur
+    3) Dienos pelnas: -32691373.11 Eur
+
+  T = 339
+    1) Nupirkta 15400.00 t grudu uz 33880000.00 Eur
+    2) Parduota 2372.68 t grudu uz 10645480.62 Eur
+    3) Dienos pelnas: -23234519.38 Eur
+
+  T = 340
+    1) Nupirkta 12800.00 t grudu uz 31360000.00 Eur
+    2) Parduota 26456.65 t grudu uz 112960547.22 Eur
+    3) Dienos pelnas: 81600547.22 Eur
+
+  T = 341
+    1) Nupirkta 5700.00 t grudu uz 12255000.00 Eur
+    2) Parduota 17396.27 t grudu uz 98957525.54 Eur
+    3) Dienos pelnas: 86702525.54 Eur
+
+  T = 342
+    1) Nupirkta 12500.00 t grudu uz 14375000.00 Eur
+    2) Parduota 2453.60 t grudu uz 5074563.29 Eur
+    3) Dienos pelnas: -9300436.71 Eur
+
+  T = 343
+    1) Nupirkta 14900.00 t grudu uz 116965000.00 Eur
+    2) Parduota 17740.35 t grudu uz 94829429.69 Eur
+    3) Dienos pelnas: -22135570.31 Eur
+
+  T = 344
+    1) Nupirkta 7300.00 t grudu uz 50735000.00 Eur
+    2) Parduota 2630.24 t grudu uz 11112864.44 Eur
+    3) Dienos pelnas: -39622135.56 Eur
+
+  T = 345
+    1) Nupirkta 12700.00 t grudu uz 76835000.00 Eur
+    2) Parduota 13254.37 t grudu uz 72538326.52 Eur
+    3) Dienos pelnas: -4296673.48 Eur
+
+  T = 346
+    1) Nupirkta 6800.00 t grudu uz 29240000.00 Eur
+    2) Parduota 401.09 t grudu uz 1746007.78 Eur
+    3) Dienos pelnas: -27493992.22 Eur
+
+  T = 347
+    1) Nupirkta 6700.00 t grudu uz 54270000.00 Eur
+    2) Parduota 23190.89 t grudu uz 106999887.40 Eur
+    3) Dienos pelnas: 52729887.40 Eur
+
+  T = 348
+    1) Nupirkta 13500.00 t grudu uz 33075000.00 Eur
+    2) Parduota 11663.68 t grudu uz 42674951.86 Eur
+    3) Dienos pelnas: 9599951.86 Eur
+
+  T = 349
+    1) Nupirkta 7400.00 t grudu uz 48470000.00 Eur
+    2) Parduota 8927.08 t grudu uz 50335987.32 Eur
+    3) Dienos pelnas: 1865987.32 Eur
+
+  T = 350
+    1) Nupirkta 5300.00 t grudu uz 42135000.00 Eur
+    2) Parduota 2280.63 t grudu uz 14613175.70 Eur
+    3) Dienos pelnas: -27521824.30 Eur
+
+  T = 351
+    1) Nupirkta 10200.00 t grudu uz 19890000.00 Eur
+    2) Parduota 667.64 t grudu uz 2623652.59 Eur
+    3) Dienos pelnas: -17266347.41 Eur
+
+  T = 352
+    1) Nupirkta 5700.00 t grudu uz 35625000.00 Eur
+    2) Parduota 10644.45 t grudu uz 50425492.14 Eur
+    3) Dienos pelnas: 14800492.14 Eur
+
+  T = 353
+    1) Nupirkta 6700.00 t grudu uz 13065000.00 Eur
+    2) Parduota 2489.05 t grudu uz 9982778.77 Eur
+    3) Dienos pelnas: -3082221.23 Eur
+
+  T = 354
+    1) Nupirkta 9700.00 t grudu uz 17945000.00 Eur
+    2) Parduota 22240.99 t grudu uz 92669227.69 Eur
+    3) Dienos pelnas: 74724227.69 Eur
+
+  T = 355
+    1) Nupirkta 15100.00 t grudu uz 93620000.00 Eur
+    2) Parduota 13386.66 t grudu uz 74353918.79 Eur
+    3) Dienos pelnas: -19266081.21 Eur
+
+  T = 356
+    1) Nupirkta 5900.00 t grudu uz 28910000.00 Eur
+    2) Parduota 2383.31 t grudu uz 13322431.12 Eur
+    3) Dienos pelnas: -15587568.88 Eur
+
+  T = 357
+    1) Nupirkta 4300.00 t grudu uz 12685000.00 Eur
+    2) Parduota 10191.50 t grudu uz 53607496.56 Eur
+    3) Dienos pelnas: 40922496.56 Eur
+
+  T = 358
+    1) Nupirkta 5300.00 t grudu uz 44785000.00 Eur
+    2) Parduota 6796.42 t grudu uz 54020445.06 Eur
+    3) Dienos pelnas: 9235445.06 Eur
+
+  T = 359
+    1) Nupirkta 7800.00 t grudu uz 46020000.00 Eur
+    2) Parduota 3859.86 t grudu uz 25636976.76 Eur
+    3) Dienos pelnas: -20383023.24 Eur
+
+  T = 360
+    1) Nupirkta 9300.00 t grudu uz 18600000.00 Eur
+    2) Parduota 1521.42 t grudu uz 5930891.50 Eur
+    3) Dienos pelnas: -12669108.50 Eur
+
+  T = 361
+    1) Nupirkta 13200.00 t grudu uz 91080000.00 Eur
+    2) Parduota 24234.23 t grudu uz 129787200.30 Eur
+    3) Dienos pelnas: 38707200.30 Eur
+
+  T = 362
+    1) Nupirkta 7100.00 t grudu uz 59995000.00 Eur
+    2) Parduota 4774.03 t grudu uz 40574238.28 Eur
+    3) Dienos pelnas: -19420761.72 Eur
+
+  T = 363
+    1) Nupirkta 13800.00 t grudu uz 102810000.00 Eur
+    2) Parduota 16183.36 t grudu uz 138162882.37 Eur
+    3) Dienos pelnas: 35352882.37 Eur
+
+  T = 364
+    1) Nupirkta 9200.00 t grudu uz 39560000.00 Eur
+    2) Parduota 4063.06 t grudu uz 21110388.97 Eur
+    3) Dienos pelnas: -18449611.03 Eur
+
+  T = 365
+    1) Nupirkta 11100.00 t grudu uz 75480000.00 Eur
+    2) Parduota 15709.54 t grudu uz 103197691.07 Eur
+    3) Dienos pelnas: 27717691.07 Eur
+
+  T = 366
+    1) Nupirkta 13400.00 t grudu uz 97820000.00 Eur
+    2) Parduota 6209.66 t grudu uz 49052385.77 Eur
+    3) Dienos pelnas: -48767614.23 Eur
+
+  T = 367
+    1) Nupirkta 4200.00 t grudu uz 16380000.00 Eur
+    2) Parduota 3283.96 t grudu uz 24898670.17 Eur
+    3) Dienos pelnas: 8518670.17 Eur
+
+  T = 368
+    1) Nupirkta 13200.00 t grudu uz 61380000.00 Eur
+    2) Parduota 9912.31 t grudu uz 69612419.68 Eur
+    3) Dienos pelnas: 8232419.68 Eur
+
+  T = 369
+    1) Nupirkta 8300.00 t grudu uz 42330000.00 Eur
+    2) Parduota 15222.10 t grudu uz 105487637.29 Eur
+    3) Dienos pelnas: 63157637.29 Eur
+
+  T = 370
+    1) Nupirkta 9100.00 t grudu uz 58695000.00 Eur
+    2) Parduota 6126.99 t grudu uz 46546102.19 Eur
+    3) Dienos pelnas: -12148897.81 Eur
+
+  T = 371
+    1) Nupirkta 4800.00 t grudu uz 5520000.00 Eur
+    2) Parduota 10912.58 t grudu uz 70556949.74 Eur
+    3) Dienos pelnas: 65036949.74 Eur
+
+  T = 372
+    1) Nupirkta 4000.00 t grudu uz 34600000.00 Eur
+    2) Parduota 212.34 t grudu uz 1827462.19 Eur
+    3) Dienos pelnas: -32772537.81 Eur
+
+  T = 373
+    1) Nupirkta 5600.00 t grudu uz 36400000.00 Eur
+    2) Parduota 11343.67 t grudu uz 90902598.56 Eur
+    3) Dienos pelnas: 54502598.56 Eur
+
+  T = 374
+    1) Nupirkta 7700.00 t grudu uz 58905000.00 Eur
+    2) Parduota 6616.43 t grudu uz 49489992.88 Eur
+    3) Dienos pelnas: -9415007.12 Eur
+
+  T = 375
+    1) Nupirkta 8500.00 t grudu uz 14450000.00 Eur
+    2) Parduota 3318.70 t grudu uz 11962455.66 Eur
+    3) Dienos pelnas: -2487544.34 Eur
+
+  T = 376
+    1) Nupirkta 5100.00 t grudu uz 8670000.00 Eur
+    2) Parduota 11487.84 t grudu uz 42483046.92 Eur
+    3) Dienos pelnas: 33813046.92 Eur
+
+  T = 377
+    1) Nupirkta 9000.00 t grudu uz 69750000.00 Eur
+    2) Parduota 499.95 t grudu uz 4309808.73 Eur
+    3) Dienos pelnas: -65440191.27 Eur
+
+  T = 378
+    1) Nupirkta 12700.00 t grudu uz 91440000.00 Eur
+    2) Parduota 18425.17 t grudu uz 153824612.27 Eur
+    3) Dienos pelnas: 62384612.27 Eur
+
+  T = 379
+    1) Nupirkta 14800.00 t grudu uz 72520000.00 Eur
+    2) Parduota 1114.43 t grudu uz 6892277.41 Eur
+    3) Dienos pelnas: -65627722.59 Eur
+
+  T = 380
+    1) Nupirkta 15500.00 t grudu uz 35650000.00 Eur
+    2) Parduota 10217.41 t grudu uz 54789783.31 Eur
+    3) Dienos pelnas: 19139783.31 Eur
+
+  T = 381
+    1) Nupirkta 5100.00 t grudu uz 43605000.00 Eur
+    2) Parduota 3062.62 t grudu uz 17548585.21 Eur
+    3) Dienos pelnas: -26056414.79 Eur
+
+  T = 382
+    1) Nupirkta 10500.00 t grudu uz 10500000.00 Eur
+    2) Parduota 7408.67 t grudu uz 38687593.02 Eur
+    3) Dienos pelnas: 28187593.02 Eur
+
+  T = 383
+    1) Nupirkta 13300.00 t grudu uz 86450000.00 Eur
+    2) Parduota 18115.11 t grudu uz 104623167.86 Eur
+    3) Dienos pelnas: 18173167.86 Eur
+
+  T = 384
+    1) Nupirkta 11700.00 t grudu uz 36855000.00 Eur
+    2) Parduota 19810.69 t grudu uz 102170731.93 Eur
+    3) Dienos pelnas: 65315731.93 Eur
+
+  T = 385
+    1) Nupirkta 9800.00 t grudu uz 68600000.00 Eur
+    2) Parduota 18806.13 t grudu uz 133696988.73 Eur
+    3) Dienos pelnas: 65096988.73 Eur
+
+  T = 386
+    1) Nupirkta 7100.00 t grudu uz 8520000.00 Eur
+    2) Parduota 521.55 t grudu uz 2172440.23 Eur
+    3) Dienos pelnas: -6347559.77 Eur
+
+  T = 387
+    1) Nupirkta 14000.00 t grudu uz 91000000.00 Eur
+    2) Parduota 17236.20 t grudu uz 99400823.49 Eur
+    3) Dienos pelnas: 8400823.49 Eur
+
+  T = 388
+    1) Nupirkta 7500.00 t grudu uz 9375000.00 Eur
+    2) Parduota 8558.32 t grudu uz 32072829.23 Eur
+    3) Dienos pelnas: 22697829.23 Eur
+
+  T = 389
+    1) Nupirkta 11700.00 t grudu uz 25155000.00 Eur
+    2) Parduota 996.14 t grudu uz 3825127.95 Eur
+    3) Dienos pelnas: -21329872.05 Eur
+
+  T = 390
+    1) Nupirkta 5600.00 t grudu uz 29120000.00 Eur
+    2) Parduota 1226.33 t grudu uz 5201683.52 Eur
+    3) Dienos pelnas: -23918316.48 Eur
+
+  T = 391
+    1) Nupirkta 5600.00 t grudu uz 5880000.00 Eur
+    2) Parduota 3179.03 t grudu uz 12576499.30 Eur
+    3) Dienos pelnas: 6696499.30 Eur
+
+  T = 392
+    1) Nupirkta 14900.00 t grudu uz 130375000.00 Eur
+    2) Parduota 29247.27 t grudu uz 156308691.29 Eur
+    3) Dienos pelnas: 25933691.29 Eur
+
+  T = 393
+    1) Nupirkta 14300.00 t grudu uz 111540000.00 Eur
+    2) Parduota 24390.24 t grudu uz 161832870.48 Eur
+    3) Dienos pelnas: 50292870.48 Eur
+
+  T = 394
+    1) Nupirkta 12500.00 t grudu uz 88750000.00 Eur
+    2) Parduota 10062.10 t grudu uz 77252884.30 Eur
+    3) Dienos pelnas: -11497115.70 Eur
+
+  T = 395
+    1) Nupirkta 13900.00 t grudu uz 64635000.00 Eur
+    2) Parduota 14625.93 t grudu uz 86658203.07 Eur
+    3) Dienos pelnas: 22023203.07 Eur
+
+  T = 396
+    1) Nupirkta 15600.00 t grudu uz 134160000.00 Eur
+    2) Parduota 17479.93 t grudu uz 162448371.07 Eur
+    3) Dienos pelnas: 28288371.07 Eur
+
+  T = 397
+    1) Nupirkta 15100.00 t grudu uz 73990000.00 Eur
+    2) Parduota 13783.38 t grudu uz 82675336.19 Eur
+    3) Dienos pelnas: 8685336.19 Eur
+
+  T = 398
+    1) Nupirkta 11300.00 t grudu uz 101135000.00 Eur
+    2) Parduota 6316.89 t grudu uz 56118692.60 Eur
+    3) Dienos pelnas: -45016307.40 Eur
+
+  T = 399
+    1) Nupirkta 10900.00 t grudu uz 80660000.00 Eur
+    2) Parduota 3479.94 t grudu uz 30264695.08 Eur
+    3) Dienos pelnas: -50395304.92 Eur
+
+  T = 400
+    1) Nupirkta 15300.00 t grudu uz 79560000.00 Eur
+    2) Parduota 6328.46 t grudu uz 48558637.40 Eur
+    3) Dienos pelnas: -31001362.60 Eur
+
+  T = 401
+    1) Nupirkta 8200.00 t grudu uz 27470000.00 Eur
+    2) Parduota 7361.63 t grudu uz 55529408.55 Eur
+    3) Dienos pelnas: 28059408.55 Eur
+
+  T = 402
+    1) Nupirkta 7400.00 t grudu uz 20350000.00 Eur
+    2) Parduota 6729.54 t grudu uz 49980829.60 Eur
+    3) Dienos pelnas: 29630829.60 Eur
+
+  T = 403
+    1) Nupirkta 9600.00 t grudu uz 51360000.00 Eur
+    2) Parduota 4539.07 t grudu uz 32748122.10 Eur
+    3) Dienos pelnas: -18611877.90 Eur
+
+  T = 404
+    1) Nupirkta 10400.00 t grudu uz 85280000.00 Eur
+    2) Parduota 13048.59 t grudu uz 100286688.62 Eur
+    3) Dienos pelnas: 15006688.62 Eur
+
+  T = 405
+    1) Nupirkta 13100.00 t grudu uz 18995000.00 Eur
+    2) Parduota 34704.01 t grudu uz 245510422.73 Eur
+    3) Dienos pelnas: 226515422.73 Eur
+
+  T = 406
+    1) Nupirkta 13600.00 t grudu uz 13600000.00 Eur
+    2) Parduota 9862.12 t grudu uz 56886963.73 Eur
+    3) Dienos pelnas: 43286963.73 Eur
+
+  T = 407
+    1) Nupirkta 4000.00 t grudu uz 20800000.00 Eur
+    2) Parduota 2356.56 t grudu uz 13664463.59 Eur
+    3) Dienos pelnas: -7135536.41 Eur
+
+  T = 408
+    1) Nupirkta 11400.00 t grudu uz 57570000.00 Eur
+    2) Parduota 687.17 t grudu uz 3987510.71 Eur
+    3) Dienos pelnas: -53582489.29 Eur
+
+  T = 409
+    1) Nupirkta 10200.00 t grudu uz 42330000.00 Eur
+    2) Parduota 3566.02 t grudu uz 19848223.00 Eur
+    3) Dienos pelnas: -22481777.00 Eur
+
+  T = 410
+    1) Nupirkta 9000.00 t grudu uz 63000000.00 Eur
+    2) Parduota 22332.90 t grudu uz 131192396.74 Eur
+    3) Dienos pelnas: 68192396.74 Eur
+
+  T = 411
+    1) Nupirkta 11500.00 t grudu uz 17825000.00 Eur
+    2) Parduota 12969.35 t grudu uz 55563606.00 Eur
+    3) Dienos pelnas: 37738606.00 Eur
+
+  T = 412
+    1) Nupirkta 5900.00 t grudu uz 42480000.00 Eur
+    2) Parduota 4987.53 t grudu uz 29682515.19 Eur
+    3) Dienos pelnas: -12797484.81 Eur
+
+  T = 413
+    1) Nupirkta 14600.00 t grudu uz 67160000.00 Eur
+    2) Parduota 6503.77 t grudu uz 37195963.82 Eur
+    3) Dienos pelnas: -29964036.18 Eur
+
+  T = 414
+    1) Nupirkta 16000.00 t grudu uz 72000000.00 Eur
+    2) Parduota 2343.53 t grudu uz 12928649.00 Eur
+    3) Dienos pelnas: -59071351.00 Eur
+
+  T = 415
+    1) Nupirkta 12500.00 t grudu uz 65000000.00 Eur
+    2) Parduota 36911.47 t grudu uz 207630068.89 Eur
+    3) Dienos pelnas: 142630068.89 Eur
+
+  T = 416
+    1) Nupirkta 12700.00 t grudu uz 34290000.00 Eur
+    2) Parduota 16252.49 t grudu uz 77486737.85 Eur
+    3) Dienos pelnas: 43196737.85 Eur
+
+  T = 417
+    1) Nupirkta 7300.00 t grudu uz 37230000.00 Eur
+    2) Parduota 12038.50 t grudu uz 77691705.45 Eur
+    3) Dienos pelnas: 40461705.45 Eur
+
+  T = 418
+    1) Nupirkta 8800.00 t grudu uz 70840000.00 Eur
+    2) Parduota 1153.16 t grudu uz 10053045.03 Eur
+    3) Dienos pelnas: -60786954.97 Eur
+
+  T = 419
+    1) Nupirkta 12200.00 t grudu uz 21350000.00 Eur
+    2) Parduota 238.60 t grudu uz 1269896.76 Eur
+    3) Dienos pelnas: -20080103.24 Eur
+
+  T = 420
+    1) Nupirkta 15300.00 t grudu uz 57375000.00 Eur
+    2) Parduota 8951.85 t grudu uz 45730027.92 Eur
+    3) Dienos pelnas: -11644972.08 Eur
+
+  T = 421
+    1) Nupirkta 15100.00 t grudu uz 58890000.00 Eur
+    2) Parduota 36956.77 t grudu uz 200162597.63 Eur
+    3) Dienos pelnas: 141272597.63 Eur
+
+  T = 422
+    1) Nupirkta 10600.00 t grudu uz 76320000.00 Eur
+    2) Parduota 12911.60 t grudu uz 107588121.84 Eur
+    3) Dienos pelnas: 31268121.84 Eur
+
+  T = 423
+    1) Nupirkta 9000.00 t grudu uz 11700000.00 Eur
+    2) Parduota 1332.08 t grudu uz 5822605.20 Eur
+    3) Dienos pelnas: -5877394.80 Eur
+
+  T = 424
+    1) Nupirkta 15000.00 t grudu uz 51750000.00 Eur
+    2) Parduota 4555.01 t grudu uz 19107337.74 Eur
+    3) Dienos pelnas: -32642662.26 Eur
+
+  T = 425
+    1) Nupirkta 8600.00 t grudu uz 9890000.00 Eur
+    2) Parduota 12355.24 t grudu uz 45453050.87 Eur
+    3) Dienos pelnas: 35563050.87 Eur
+
+  T = 426
+    1) Nupirkta 13600.00 t grudu uz 20400000.00 Eur
+    2) Parduota 14178.59 t grudu uz 46317508.70 Eur
+    3) Dienos pelnas: 25917508.70 Eur
+
+  T = 427
+    1) Nupirkta 5300.00 t grudu uz 11395000.00 Eur
+    2) Parduota 13186.38 t grudu uz 54975000.06 Eur
+    3) Dienos pelnas: 43580000.06 Eur
+
+  T = 428
+    1) Nupirkta 15600.00 t grudu uz 119340000.00 Eur
+    2) Parduota 25655.96 t grudu uz 170578421.08 Eur
+    3) Dienos pelnas: 51238421.08 Eur
+
+  T = 429
+    1) Nupirkta 9000.00 t grudu uz 79200000.00 Eur
+    2) Parduota 4680.55 t grudu uz 42290441.96 Eur
+    3) Dienos pelnas: -36909558.04 Eur
+
+  T = 430
+    1) Nupirkta 6700.00 t grudu uz 32495000.00 Eur
+    2) Parduota 11644.50 t grudu uz 91160133.99 Eur
+    3) Dienos pelnas: 58665133.99 Eur
+
+  T = 431
+    1) Nupirkta 8800.00 t grudu uz 41360000.00 Eur
+    2) Parduota 7751.93 t grudu uz 44826466.56 Eur
+    3) Dienos pelnas: 3466466.56 Eur
+
+  T = 432
+    1) Nupirkta 15900.00 t grudu uz 133560000.00 Eur
+    2) Parduota 14188.90 t grudu uz 107007674.96 Eur
+    3) Dienos pelnas: -26552325.04 Eur
+
+  T = 433
+    1) Nupirkta 6700.00 t grudu uz 46900000.00 Eur
+    2) Parduota 418.87 t grudu uz 3292007.49 Eur
+    3) Dienos pelnas: -43607992.51 Eur
+
+  T = 434
+    1) Nupirkta 13900.00 t grudu uz 123710000.00 Eur
+    2) Parduota 19641.35 t grudu uz 172071721.25 Eur
+    3) Dienos pelnas: 48361721.25 Eur
+
+  T = 435
+    1) Nupirkta 14400.00 t grudu uz 32400000.00 Eur
+    2) Parduota 16653.25 t grudu uz 70932679.11 Eur
+    3) Dienos pelnas: 38532679.11 Eur
+
+  T = 436
+    1) Nupirkta 11800.00 t grudu uz 34810000.00 Eur
+    2) Parduota 6097.64 t grudu uz 24552267.93 Eur
+    3) Dienos pelnas: -10257732.07 Eur
+
+  T = 437
+    1) Nupirkta 14600.00 t grudu uz 46720000.00 Eur
+    2) Parduota 18559.32 t grudu uz 74040826.48 Eur
+    3) Dienos pelnas: 27320826.48 Eur
+
+  T = 438
+    1) Nupirkta 5700.00 t grudu uz 25365000.00 Eur
+    2) Parduota 7316.01 t grudu uz 37308664.98 Eur
+    3) Dienos pelnas: 11943664.98 Eur
+
+  T = 439
+    1) Nupirkta 14400.00 t grudu uz 100080000.00 Eur
+    2) Parduota 4478.03 t grudu uz 33892535.63 Eur
+    3) Dienos pelnas: -66187464.37 Eur
+
+  T = 440
+    1) Nupirkta 9400.00 t grudu uz 73320000.00 Eur
+    2) Parduota 9463.20 t grudu uz 77380635.73 Eur
+    3) Dienos pelnas: 4060635.73 Eur
+
+  T = 441
+    1) Nupirkta 10900.00 t grudu uz 91560000.00 Eur
+    2) Parduota 458.88 t grudu uz 3918193.17 Eur
+    3) Dienos pelnas: -87641806.83 Eur
+
+  T = 442
+    1) Nupirkta 6400.00 t grudu uz 50880000.00 Eur
+    2) Parduota 17042.26 t grudu uz 146176002.91 Eur
+    3) Dienos pelnas: 95296002.91 Eur
+
+  T = 443
+    1) Nupirkta 10700.00 t grudu uz 33705000.00 Eur
+    2) Parduota 1127.15 t grudu uz 6536857.10 Eur
+    3) Dienos pelnas: -27168142.90 Eur
+
+  T = 444
+    1) Nupirkta 8600.00 t grudu uz 60200000.00 Eur
+    2) Parduota 18309.63 t grudu uz 111971581.66 Eur
+    3) Dienos pelnas: 51771581.66 Eur
+
+  T = 445
+    1) Nupirkta 15800.00 t grudu uz 78210000.00 Eur
+    2) Parduota 17328.88 t grudu uz 113907899.69 Eur
+    3) Dienos pelnas: 35697899.69 Eur
+
+  T = 446
+    1) Nupirkta 7600.00 t grudu uz 28120000.00 Eur
+    2) Parduota 2844.36 t grudu uz 18370503.07 Eur
+    3) Dienos pelnas: -9749496.93 Eur
+
+  T = 447
+    1) Nupirkta 5000.00 t grudu uz 11000000.00 Eur
+    2) Parduota 3787.25 t grudu uz 23342647.01 Eur
+    3) Dienos pelnas: 12342647.01 Eur
+
+  T = 448
+    1) Nupirkta 10500.00 t grudu uz 34125000.00 Eur
+    2) Parduota 1865.20 t grudu uz 9919374.03 Eur
+    3) Dienos pelnas: -24205625.97 Eur
+
+  T = 449
+    1) Nupirkta 4800.00 t grudu uz 24240000.00 Eur
+    2) Parduota 1479.02 t grudu uz 7951186.43 Eur
+    3) Dienos pelnas: -16288813.57 Eur
+
+  T = 450
+    1) Nupirkta 7000.00 t grudu uz 56700000.00 Eur
+    2) Parduota 23517.96 t grudu uz 138146535.57 Eur
+    3) Dienos pelnas: 81446535.57 Eur
+
+  T = 451
+    1) Nupirkta 6200.00 t grudu uz 35960000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -35960000.00 Eur
+
+  T = 452
+    1) Nupirkta 14200.00 t grudu uz 14200000.00 Eur
+    2) Parduota 3518.18 t grudu uz 16788147.38 Eur
+    3) Dienos pelnas: 2588147.38 Eur
+
+  T = 453
+    1) Nupirkta 13100.00 t grudu uz 100870000.00 Eur
+    2) Parduota 16210.46 t grudu uz 95593661.23 Eur
+    3) Dienos pelnas: -5276338.77 Eur
+
+  T = 454
+    1) Nupirkta 9700.00 t grudu uz 46075000.00 Eur
+    2) Parduota 15774.67 t grudu uz 90726627.43 Eur
+    3) Dienos pelnas: 44651627.43 Eur
+
+  T = 455
+    1) Nupirkta 5900.00 t grudu uz 31860000.00 Eur
+    2) Parduota 1762.61 t grudu uz 11362705.05 Eur
+    3) Dienos pelnas: -20497294.95 Eur
+
+  T = 456
+    1) Nupirkta 5000.00 t grudu uz 34250000.00 Eur
+    2) Parduota 18187.23 t grudu uz 123070997.94 Eur
+    3) Dienos pelnas: 88820997.94 Eur
+
+  T = 457
+    1) Nupirkta 9400.00 t grudu uz 53110000.00 Eur
+    2) Parduota 9029.95 t grudu uz 67160018.39 Eur
+    3) Dienos pelnas: 14050018.39 Eur
+
+  T = 458
+    1) Nupirkta 14300.00 t grudu uz 35750000.00 Eur
+    2) Parduota 21414.32 t grudu uz 115665080.84 Eur
+    3) Dienos pelnas: 79915080.84 Eur
+
+  T = 459
+    1) Nupirkta 12000.00 t grudu uz 81000000.00 Eur
+    2) Parduota 2477.77 t grudu uz 18408879.32 Eur
+    3) Dienos pelnas: -62591120.68 Eur
+
+  T = 460
+    1) Nupirkta 9800.00 t grudu uz 31360000.00 Eur
+    2) Parduota 19158.96 t grudu uz 118565407.10 Eur
+    3) Dienos pelnas: 87205407.10 Eur
+
+  T = 461
+    1) Nupirkta 14900.00 t grudu uz 74500000.00 Eur
+    2) Parduota 9089.17 t grudu uz 55158607.29 Eur
+    3) Dienos pelnas: -19341392.71 Eur
+
+  T = 462
+    1) Nupirkta 6200.00 t grudu uz 10850000.00 Eur
+    2) Parduota 2505.62 t grudu uz 12351411.20 Eur
+    3) Dienos pelnas: 1501411.20 Eur
+
+  T = 463
+    1) Nupirkta 4100.00 t grudu uz 31775000.00 Eur
+    2) Parduota 1898.00 t grudu uz 10440143.01 Eur
+    3) Dienos pelnas: -21334856.99 Eur
+
+  T = 464
+    1) Nupirkta 6700.00 t grudu uz 24790000.00 Eur
+    2) Parduota 2205.65 t grudu uz 11510410.37 Eur
+    3) Dienos pelnas: -13279589.63 Eur
+
+  T = 465
+    1) Nupirkta 4000.00 t grudu uz 14200000.00 Eur
+    2) Parduota 6201.23 t grudu uz 31864105.21 Eur
+    3) Dienos pelnas: 17664105.21 Eur
+
+  T = 466
+    1) Nupirkta 13900.00 t grudu uz 97995000.00 Eur
+    2) Parduota 4416.95 t grudu uz 27855325.39 Eur
+    3) Dienos pelnas: -70139674.61 Eur
+
+  T = 467
+    1) Nupirkta 11100.00 t grudu uz 96015000.00 Eur
+    2) Parduota 4970.25 t grudu uz 34679661.17 Eur
+    3) Dienos pelnas: -61335338.83 Eur
+
+  T = 468
+    1) Nupirkta 5700.00 t grudu uz 25365000.00 Eur
+    2) Parduota 9350.99 t grudu uz 62358065.53 Eur
+    3) Dienos pelnas: 36993065.53 Eur
+
+  T = 469
+    1) Nupirkta 11900.00 t grudu uz 27370000.00 Eur
+    2) Parduota 415.11 t grudu uz 2284305.91 Eur
+    3) Dienos pelnas: -25085694.09 Eur
+
+  T = 470
+    1) Nupirkta 11400.00 t grudu uz 44460000.00 Eur
+    2) Parduota 51446.42 t grudu uz 293903290.91 Eur
+    3) Dienos pelnas: 249443290.91 Eur
+
+  T = 471
+    1) Nupirkta 14400.00 t grudu uz 59760000.00 Eur
+    2) Parduota 5561.97 t grudu uz 27355769.83 Eur
+    3) Dienos pelnas: -32404230.17 Eur
+
+  T = 472
+    1) Nupirkta 13100.00 t grudu uz 49125000.00 Eur
+    2) Parduota 15631.81 t grudu uz 72487054.90 Eur
+    3) Dienos pelnas: 23362054.90 Eur
+
+  T = 473
+    1) Nupirkta 9100.00 t grudu uz 81900000.00 Eur
+    2) Parduota 16127.02 t grudu uz 107991485.37 Eur
+    3) Dienos pelnas: 26091485.37 Eur
+
+  T = 474
+    1) Nupirkta 14000.00 t grudu uz 46900000.00 Eur
+    2) Parduota 12323.05 t grudu uz 52079192.51 Eur
+    3) Dienos pelnas: 5179192.51 Eur
+
+  T = 475
+    1) Nupirkta 7300.00 t grudu uz 35040000.00 Eur
+    2) Parduota 1116.73 t grudu uz 5810408.53 Eur
+    3) Dienos pelnas: -29229591.47 Eur
+
+  T = 476
+    1) Nupirkta 8300.00 t grudu uz 68060000.00 Eur
+    2) Parduota 12861.69 t grudu uz 82761619.85 Eur
+    3) Dienos pelnas: 14701619.85 Eur
+
+  T = 477
+    1) Nupirkta 6900.00 t grudu uz 8625000.00 Eur
+    2) Parduota 2421.36 t grudu uz 7129154.56 Eur
+    3) Dienos pelnas: -1495845.44 Eur
+
+  T = 478
+    1) Nupirkta 9700.00 t grudu uz 32010000.00 Eur
+    2) Parduota 11396.03 t grudu uz 38724496.63 Eur
+    3) Dienos pelnas: 6714496.63 Eur
+
+  T = 479
+    1) Nupirkta 12600.00 t grudu uz 19530000.00 Eur
+    2) Parduota 16729.03 t grudu uz 44291795.99 Eur
+    3) Dienos pelnas: 24761795.99 Eur
+
+  T = 480
+    1) Nupirkta 15900.00 t grudu uz 92220000.00 Eur
+    2) Parduota 12363.24 t grudu uz 71372516.64 Eur
+    3) Dienos pelnas: -20847483.36 Eur
+
+  T = 481
+    1) Nupirkta 6500.00 t grudu uz 43225000.00 Eur
+    2) Parduota 7267.62 t grudu uz 48280576.18 Eur
+    3) Dienos pelnas: 5055576.18 Eur
+
+  T = 482
+    1) Nupirkta 13700.00 t grudu uz 68500000.00 Eur
+    2) Parduota 13312.77 t grudu uz 75146515.73 Eur
+    3) Dienos pelnas: 6646515.73 Eur
+
+  T = 483
+    1) Nupirkta 12100.00 t grudu uz 80465000.00 Eur
+    2) Parduota 14556.22 t grudu uz 97385070.10 Eur
+    3) Dienos pelnas: 16920070.10 Eur
+
+  T = 484
+    1) Nupirkta 5200.00 t grudu uz 34060000.00 Eur
+    2) Parduota 7199.63 t grudu uz 43595966.84 Eur
+    3) Dienos pelnas: 9535966.84 Eur
+
+  T = 485
+    1) Nupirkta 15500.00 t grudu uz 92225000.00 Eur
+    2) Parduota 8735.34 t grudu uz 57306602.95 Eur
+    3) Dienos pelnas: -34918397.05 Eur
+
+  T = 486
+    1) Nupirkta 12100.00 t grudu uz 95590000.00 Eur
+    2) Parduota 0.00 t grudu uz 0.00 Eur
+    3) Dienos pelnas: -95590000.00 Eur
+
+  T = 487
+    1) Nupirkta 8100.00 t grudu uz 33615000.00 Eur
+    2) Parduota 13134.82 t grudu uz 96888915.72 Eur
+    3) Dienos pelnas: 63273915.72 Eur
+
+  T = 488
+    1) Nupirkta 10400.00 t grudu uz 59800000.00 Eur
+    2) Parduota 15379.08 t grudu uz 111140601.04 Eur
+    3) Dienos pelnas: 51340601.04 Eur
+
+  T = 489
+    1) Nupirkta 4400.00 t grudu uz 16280000.00 Eur
+    2) Parduota 3131.16 t grudu uz 21201846.19 Eur
+    3) Dienos pelnas: 4921846.19 Eur
+
+  T = 490
+    1) Nupirkta 11300.00 t grudu uz 72885000.00 Eur
+    2) Parduota 19265.18 t grudu uz 131925627.82 Eur
+    3) Dienos pelnas: 59040627.82 Eur
+
+  T = 491
+    1) Nupirkta 13900.00 t grudu uz 31970000.00 Eur
+    2) Parduota 6984.84 t grudu uz 26103870.82 Eur
+    3) Dienos pelnas: -5866129.18 Eur
+
+  T = 492
+    1) Nupirkta 14600.00 t grudu uz 33580000.00 Eur
+    2) Parduota 1972.11 t grudu uz 6170859.17 Eur
+    3) Dienos pelnas: -27409140.83 Eur
+
+  T = 493
+    1) Nupirkta 11600.00 t grudu uz 69600000.00 Eur
+    2) Parduota 15082.87 t grudu uz 62303640.12 Eur
+    3) Dienos pelnas: -7296359.88 Eur
+
+  T = 494
+    1) Nupirkta 9100.00 t grudu uz 22750000.00 Eur
+    2) Parduota 26881.56 t grudu uz 92654188.32 Eur
+    3) Dienos pelnas: 69904188.32 Eur
+
+  T = 495
+    1) Nupirkta 14500.00 t grudu uz 130500000.00 Eur
+    2) Parduota 2546.37 t grudu uz 24993346.60 Eur
+    3) Dienos pelnas: -105506653.40 Eur
+
+  T = 496
+    1) Nupirkta 7600.00 t grudu uz 56240000.00 Eur
+    2) Parduota 2725.90 t grudu uz 25804802.13 Eur
+    3) Dienos pelnas: -30435197.87 Eur
+
+  T = 497
+    1) Nupirkta 10700.00 t grudu uz 49755000.00 Eur
+    2) Parduota 12734.72 t grudu uz 104504050.95 Eur
+    3) Dienos pelnas: 54749050.95 Eur
+
+  T = 498
+    1) Nupirkta 14600.00 t grudu uz 32120000.00 Eur
+    2) Parduota 21873.56 t grudu uz 160705674.50 Eur
+    3) Dienos pelnas: 128585674.50 Eur
+
+  T = 499
+    1) Nupirkta 8000.00 t grudu uz 64400000.00 Eur
+    2) Parduota 3894.88 t grudu uz 36837175.89 Eur
+    3) Dienos pelnas: -27562824.11 Eur
+
+  T = 500
+    1) Nupirkta 11300.00 t grudu uz 38985000.00 Eur
+    2) Parduota 17524.36 t grudu uz 136606821.41 Eur
+    3) Dienos pelnas: 97621821.41 Eur
+
+
+TRECIA DALIS. Rezultatai
+  1) Is viso imone prekiavo 500 dienu
+  2) FIFO supirkimo pelnas: 3739887178.97 Eur
+  3) LIFO supirkimo pelnas: 4046888995.68 Eur
+  4) Didesnis pelnas gautas LIFO metodu

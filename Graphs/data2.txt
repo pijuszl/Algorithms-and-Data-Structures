@@ -1,0 +1,3 @@
+2  //grafo virsuniu skaicius
+   //kaimynystes sarasas
+A  //pradzios virsune

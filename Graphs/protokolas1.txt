@@ -1,0 +1,55 @@
+Pijus Zlatkus, 4 grupe 2 pogrupis, 4 uzdavinis 14 variantas.
+Uzduotis - Is duoto grafo suformuoti medi. (Grafo realizacija grindziama kaimynystes sarasais; naudoti paieskos i ploti metoda.)
+
+PIRMA DALIS. Duomenys
+  1) Grafo virsuniu skaicius N = 6.
+  2) Kaimynystes sarasai: E = { (C,A)  (C,B)  (C,F)  (A,B)  (A,C)  (A,D)  (B,A)  (B,C)  (B,E)  (B,F)  (D,A)  (D,E)  (E,B)  (E,D)  (F,B)  (F,C) }.
+  3) Pradzios virsune S = C.
+
+  4) Grafas:
+     C------A------D
+     | \    |      |
+     |  \   |      |
+     |   \  |      |
+     |    \ |      |
+     F------B------E
+
+ANTRA DALIS. Vykdymas
+
+
+BANGA 0.
+Nagrinejama virsune C.
+     1) Tikrinama A - atidaryta. I eile pridedama A. Uzdaroma A. Sudaroma briauna C->A.
+     2) Tikrinama B - atidaryta. I eile pridedama B. Uzdaroma B. Sudaroma briauna C->B.
+     3) Tikrinama F - atidaryta. I eile pridedama F. Uzdaroma F. Sudaroma briauna C->F.
+
+BANGA 1.
+Nagrinejama virsune A.
+     1) Tikrinama B - uzdaryta.
+     2) Tikrinama C - uzdaryta.
+     3) Tikrinama D - atidaryta. I eile pridedama D. Uzdaroma D. Sudaroma briauna A->D.
+Nagrinejama virsune B.
+     1) Tikrinama A - uzdaryta.
+     2) Tikrinama C - uzdaryta.
+     3) Tikrinama E - atidaryta. I eile pridedama E. Uzdaroma E. Sudaroma briauna B->E.
+     4) Tikrinama F - uzdaryta.
+Nagrinejama virsune F.
+     1) Tikrinama B - uzdaryta.
+     2) Tikrinama C - uzdaryta.
+
+BANGA 2.
+Nagrinejama virsune D.
+     1) Tikrinama A - uzdaryta.
+     2) Tikrinama E - uzdaryta.
+Nagrinejama virsune E.
+     1) Tikrinama B - uzdaryta.
+     2) Tikrinama D - uzdaryta.
+
+TRECIA DALIS. Rezultatai
+
+  C
+  -A
+  --D
+  -B
+  --E
+  -F
